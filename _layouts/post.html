@@ -1,0 +1,95 @@
+{% include head.html %}
+<article class="article-detail-header"><div class="in">
+	<div class="article-header-desc">
+		<h2>{% for tags in page.tags limit:1 %} <a href="/tag/#{{ tags | downcase | replace:" ","-" }}">{{tags}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
+		<h1>{{ page.title }}</h1>
+		<p>Use data to drive your decissions</p>
+	</div>
+	<div class="article-header-action">
+		<div class="article-header-user">
+			<div class="img"><img src="/img/user.jpg" alt="Pavel Doležal"></div>
+			<div class="article-header-user-desc">
+				<p>Written by<br><a href="">Pavel Doležal</a></p>
+			</div>
+		</div>
+		<div class="article-header-share">
+			<a href="" class="share-btn-fb"><i></i>0</a>
+			<a href="" class="share-btn-tw"><i></i>0</a>
+		</div>
+	</div>
+</div></article>
+<article class="article-detail-content">
+	<p class="p-date">{{ page.date | date: '%B %d, %Y' }}</p>
+	{{ content }}
+
+	<div class="article-detail-share">
+		<a href="" class="share-btn-fb"><i></i>0</a>
+		<a href="" class="share-btn-tw"><i></i>0</a>
+	</div>
+</article>
+
+<article class="article-next"><div class="in">
+	<a href="" class="article-next-content">
+		<i class="bg"></i>
+		<i class="ico-pict"></i>
+		<div class="article-next-desc">
+			<h2>NEXT ARTICLE</h2>
+			<h1>Uber rival in Europe</h1>
+			<p> withstand the preasure thanks to data driven approach and becomes #1!</p>
+			<p class="p-more">Read next article</p>
+		</div>
+	</a>
+</div></article>
+
+<article class="article-more-content"><div class="in">
+	<h2>More <strong>Data Science</strong> Articles</h2>
+</div></article>
+<div class="most-recent-content"><div class="most-recent-list">
+	<ul class="most-recent-list-content">
+		<li class="li-placeholder"></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+		<li><a href="">
+			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
+			<div class="item-desc">
+				<h2>Platform solution for small businesses</h2>
+				<p>Go to the article</p>
+			</div>
+		</a></li>
+	</ul>
+	<ul class="most-recent-pages"></ul>
+</div></div>
+{% include foot.html %}

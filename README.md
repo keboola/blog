@@ -9,7 +9,7 @@
 #### Local Usage
 
 ```sh
-export JEKYLL_VERSION=3.5
+export JEKYLL_VERSION=3.8
 docker run --rm \
   --volume="$PWD:/srv/jekyll" \
   -it -p 4000:4004 jekyll/jekyll:$JEKYLL_VERSION \
@@ -37,5 +37,7 @@ http://127.0.0.1:4000/
 
 
 ### Test url
+[https://modest-hypatia-beabc5.netlify.com/](https://modest-hypatia-beabc5.netlify.com/)
+
 
 

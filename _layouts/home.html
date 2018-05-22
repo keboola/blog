@@ -1,0 +1,88 @@
+{% include head.html %}
+<article class="article-home"><div class="article-home-content"><div class="in" style="background-image:url(/img/home-article-img-big.jpg)">
+	<div class="article-home-desc-content">
+		<div class="article-home-desc">
+			{% for post in site.posts limit:1 %}
+				<h2>{% for tags in post.tags limit:1 %} <a href="/tag/#{{ tags | downcase | replace:" ","-" }}">{{tags}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
+				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+				<p class="p-author"><span class="img"><img src="/img/user.jpg" alt="Pavel Doležal"></span>Written by Pavel Doležal</p>
+			{% endfor %}
+		</div>
+
+		<h2 class="h2-recent">Most Recent Articles</h2>
+	</div>
+</div></div></article>
+<div class="most-recent-content">
+	<i class="bg"></i>
+	<div class="most-recent-list">
+		<ul class="most-recent-list-content">
+			<li class="li-placeholder"></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-1.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-2.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-1.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-1.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-2.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+			<li><a href="">
+				<div class="img"><img src="img/most-recent-img-2.jpg" alt=""></div>
+				<div class="item-desc">
+					<h2>Platform solution for small businesses</h2>
+					<p>Go to the article</p>
+				</div>
+			</a></li>
+		</ul>
+		<ul class="most-recent-pages"></ul>
+	</div>
+</div>
+<div class="article-list-home"><div class="in">
+	<div class="article-categories">
+		<i class="pict"></i>
+		<div class="article-categories-list"><ul>
+			{% for tag in site.tags %}
+				{% assign t = tag | first %}
+				<li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
+			{% endfor %}
+		</ul></div>
+	</div>
+	<div class="article-list">
+		<i class="pict"></i>
+		{% for post in site.posts offset:1 %}
+			<article>
+				<p class="p-date">{{ post.date | date: '%B %d, %Y' }} | {% for tags in post.tags limit:1 %} <a href="/tag/#{{ tags | downcase | replace:" ","-" }}">{{tags}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+				<p>{{ post.perex }}</p>
+				<p class="p-more"><a href="{{ post.url }}">Go to the article</a></p>
+			</article>
+		{% endfor %}
+	</div>
+</div></div>
+{% include foot.html %}
