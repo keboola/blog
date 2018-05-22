@@ -1,6 +1,6 @@
 # Keboola papers
 
-[COGVIO](http://blog.keboola.com/)
+[LIVE](http://blog.keboola.com/)
 
 
 ## Docker run
