@@ -1,0 +1,13 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+- type: textarea
+  name: perex
+  label: perex
+- type: tag_list
+  name: tags
+  label: tags
