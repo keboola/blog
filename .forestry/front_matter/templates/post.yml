@@ -30,4 +30,5 @@ fields:
   label: user
   name: user
 pages:
+- _posts/2018-03-22-see-how-keboola.md
 - _posts/2018-05-24-markdown-test.md
