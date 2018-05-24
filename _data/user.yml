@@ -1,14 +1,4 @@
-- id: tomas-dolezal
+---
+- id: pavel-dolezal
   data:
-    - name: Tomáš Doležal
-    - desc: "Zakladatel Institutu zdravotní ekonomiky iHETA, již 15 let se zabývá ekonomickými analýzami nákladů a přínosů ve zdravotnictví a problematikou hodnocení medicínských technologií (HTA). Má neodbytný pocit nedostatku kvalitních informací pro pacienty, a proto se rozhodl podílet na vytvoření informačního portálu Otevřené zdravotnictví."
-
-- id: lenka-petrasova
-  data:
-    - name: Lenka Petrášová
-    - desc: "Dvacet let se coby novinářka snažila přijít na to, jak funguje české zdravotnictví a proč je v něm tolik nelogických zákrut. Díky tomu otevírala v MF DNES témata, která široce rezonovala napříč společností. Získala za ně také tři prestižní novinářská ocenění. Dnes pracuje ve vydavatelství Economia. Vzhledem k tomu, že svět zdravotnictví považuje za důležitý a domnívá se, že relevantní informace o něm v Česku stále chybí, rozhodla se podílet se na tom, aby se to změnilo."
-
-- id: anna-hanusova
-  data:
-    - name: Anna Hanušová
-    - desc: "V roce 2017 dokončila bakalářské studium žurnalistiky na Univerzitě Palackého v Olomouci a v současnosti pokračuje ve studiu stejného oboru na magisterském stupni na Univerzitě Karlově. Tematicky se zaměřila na oblast jí osobně nejbližší, a to zdraví a zdravotnictví. Důležité je pro ni věnovat se tomu, co je užitečné a čím pomůže druhým. Spolupráce na portálu Otevřené zdravotnictví jí to umožňuje."
+  - name: Pavel Doležal
