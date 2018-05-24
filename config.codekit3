@@ -97,7 +97,7 @@
 		"oAP": "\/_layouts\/tags.html",
 		"oF": 0
 		},
-	"\/_posts\/markdown-test.md": {
+	"\/_posts\/2018-03-01-markdown-test.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -106,7 +106,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/markdown-test.html",
+		"oAP": "\/_posts\/2018-03-01-markdown-test.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -115,7 +115,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.md": {
+	"\/_posts\/2018-03-20-see-how-keboola.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -124,7 +124,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.html",
+		"oAP": "\/_posts\/2018-03-20-see-how-keboola.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -133,7 +133,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/see-how-keboola.md": {
+	"\/_posts\/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -142,7 +142,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/see-how-keboola.html",
+		"oAP": "\/_posts\/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
