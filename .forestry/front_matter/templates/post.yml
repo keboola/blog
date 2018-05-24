@@ -14,5 +14,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- _posts/title.html
