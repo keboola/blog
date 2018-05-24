@@ -11,5 +11,8 @@ fields:
 - type: tag_list
   name: tags
   label: tags
+- type: datetime
+  name: date
+  label: date
 pages:
 - _posts/title.html
