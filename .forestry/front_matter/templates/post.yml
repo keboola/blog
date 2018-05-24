@@ -3,6 +3,11 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
+- type: text
   label: title
   name: title
 - type: textarea
