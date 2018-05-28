@@ -25,6 +25,18 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: list
+  default:
+  - Martin
+  - Petr
+  - Pavel
+  label: users
+  name: users
+  config:
+    use_select: true
+    source:
+      type: datafiles
+      file: _data-test-yml
 pages:
 - _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-03-01-markdown-test.md
