@@ -29,3 +29,5 @@ fields:
       file: _data-user-yml
   label: user
   name: user
+pages:
+- _posts/test.md
