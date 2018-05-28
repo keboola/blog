@@ -16,7 +16,8 @@ tags:
 date: 2018-05-04 23:00:00 +0000
 categories:
 - surveymonkey
-category: []
+category:
+- marketing
 user: pavel
 users: []
 u: []
