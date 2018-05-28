@@ -29,7 +29,7 @@ fields:
   config:
     source:
       type: datafiles
-      file: _data-user-yml
+      file: 
   label: user
   name: user
 pages:
