@@ -27,8 +27,8 @@ fields:
   label: date
 - type: list
   default:
-  - Martin
   - Petr
+  - Martin
   - Pavel
   label: users
   name: users
