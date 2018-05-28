@@ -9,7 +9,6 @@ perex: Our client is in the event business organizing regular meetups for CEO’
   well, for surveys. For those of you who have been using Keboola for some time, you
   might know this is the optimal setup for us.
 date: 2018-03-15 00:00:00 +0000
-user: ''
 categories:
 - surveymonkey
 tags:

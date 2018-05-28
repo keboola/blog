@@ -7,7 +7,6 @@ perex: In publishing and graphic design, lorem ipsum is common placeholder text 
 tags:
 - marketing
 layout: post
-user: ''
 permalink: "/permalink-testovacka/"
 categories:
 - marketing

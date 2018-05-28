@@ -55,32 +55,11 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
-	"\/_data\/martin.yml": {
+	"\/_data\/user.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_data\/martin.yml",
-		"oF": 0
-		},
-	"\/_data\/pavel.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/pavel.yml",
-		"oF": 0
-		},
-	"\/_data\/petr.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/petr.yml",
-		"oF": 0
-		},
-	"\/_data\/test.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/test.yml",
+		"oAP": "\/_data\/user.yml",
 		"oF": 0
 		},
 	"\/_includes\/foot.html": {
@@ -177,7 +156,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/_posts\/invalid-output-filename-pattern.error",
+		"oAP": "\/_posts\/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
