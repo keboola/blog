@@ -1,8 +1,6 @@
 ---
 layout: collect
-permalink: /surveymonkey/
-type: 'surveymonkey'
-
+permalink: "/surveymonkey/"
+type: surveymonkey
 title: surveymonkey
-
 ---

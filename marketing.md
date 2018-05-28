@@ -1,8 +1,6 @@
 ---
 layout: collect
-permalink: /marketing/
-type: 'marketing'
-
+permalink: "/marketing/"
+type: marketing
 title: marketing
-
 ---
