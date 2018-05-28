@@ -3,22 +3,22 @@ hide_body: false
 is_partial: false
 fields:
 - name: layout
-  label: Layout
+  label: layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: collect
 - name: title
-  label: Title
+  label: title
   type: text
   hidden: false
   default: ''
 - name: permalink
-  label: Permalink
+  label: permalink
   type: text
   hidden: false
   default: ''
 - name: type
-  label: Type
+  label: type
   type: text
   hidden: false
   default: ''
