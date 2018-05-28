@@ -12,8 +12,6 @@ date: 2018-03-15 00:00:00 +0000
 user: ''
 categories:
 - surveymonkey
-category:
-- surveymonkey
 tags:
 - surveymonkey
 ---
