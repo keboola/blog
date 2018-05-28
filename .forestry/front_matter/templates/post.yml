@@ -34,7 +34,6 @@ fields:
     - pavel
     - petr
     - martin
-    - tomas
   label: user
 pages:
 - _posts/2018-03-20-see-how-keboola.md
