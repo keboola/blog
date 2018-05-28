@@ -9,8 +9,6 @@ tags:
 layout: post
 user: martin
 permalink: "/permalink-testovacka/"
-categories:
-- marketing
 category:
 - marketing
 ---
