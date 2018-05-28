@@ -23,5 +23,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- product.md
 - marketing.md
 - surveymonkey.md
