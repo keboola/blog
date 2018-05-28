@@ -33,6 +33,7 @@ fields:
   label: user
   name: user
 pages:
+- _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-03-01-markdown-test.md
 - _posts/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.md
 - _posts/2018-05-28-test.md
