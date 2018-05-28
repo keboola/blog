@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- marketing.md
 - surveymonkey.md
