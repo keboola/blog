@@ -55,6 +55,27 @@
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
+	"\/_data\/martin.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/martin.yml",
+		"oF": 0
+		},
+	"\/_data\/pavel.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/pavel.yml",
+		"oF": 0
+		},
+	"\/_data\/petr.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/petr.yml",
+		"oF": 0
+		},
 	"\/_includes\/foot.html": {
 		"cB": 0,
 		"ft": 8192,
