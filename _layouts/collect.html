@@ -1,3 +1,15 @@
 {% include head.html %}
-{{ content }}
+
+{% assign collecturl = page.url | split: '/' %}
+
+{% for post in site.marketing %}
+	
+		<h1>{{ post.title }} - {{ collecturl }}</h1>
+		<h2>{{ post.desc }}</h2>
+	
+{% endfor %}
+
+<br>
+<br>
+
 {% include foot.html %}
