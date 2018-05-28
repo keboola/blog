@@ -1,2 +1,9 @@
-/_size
+.DS_Store
+_site
+.project
+*.swp
+.idea
+*.iml
 config.codekit3
+.bundle/*
+*.sublime-workspace
