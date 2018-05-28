@@ -76,6 +76,13 @@
 		"oAP": "\/_data\/petr.yml",
 		"oF": 0
 		},
+	"\/_data\/test.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_data\/test.yml",
+		"oF": 0
+		},
 	"\/_includes\/foot.html": {
 		"cB": 0,
 		"ft": 8192,
