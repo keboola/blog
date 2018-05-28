@@ -36,6 +36,7 @@ fields:
     - martin
   label: user
 pages:
+- _posts/test.md
 - _posts/2018-05-28-product-test-post.md
 - _posts/2018-05-28-test.md
 - _posts/2018-03-20-see-how-keboola.md
