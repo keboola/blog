@@ -18,8 +18,7 @@ categories:
 - surveymonkey
 category: []
 user: test
-users:
-- Pavel
+users: []
 u: []
 ---
 
