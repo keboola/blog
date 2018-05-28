@@ -1,9 +1,8 @@
 ---
 layout: collect
-permalink: /marketing/
-
+permalink: "/marketing/"
 title: marketing
-
+date: 2018-05-28 09:42:40 +0000
 ---
 
 <h1>asdadasd</h1>
