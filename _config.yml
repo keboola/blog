@@ -1,12 +1,7 @@
 host: 127.0.0.1
 port: 4004
 url: "https://blog.keboola.com/"
-permalink: none
+permalink: :title
 future: true
 highlighter: true
 exclude: ['Rakefile.rb', 'CNAME', 'README.md', 'Gemfile.lock', 'Gemfile', 'config.codekit3', 'less', 'js/global.js']
-
-collections:
-   marketing:
-     output: true
-     permalink: /:collection/:path/
