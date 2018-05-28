@@ -76,6 +76,13 @@
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
+	"\/_layouts\/collect.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/collect.html",
+		"oF": 0
+		},
 	"\/_layouts\/error.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -103,6 +110,42 @@
 		"oA": 0,
 		"oAP": "\/_layouts\/tags.html",
 		"oF": 0
+		},
+	"\/_marketing\/index.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_marketing\/index.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"\/_marketing\/markdown-test.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_marketing\/markdown-test.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
 		},
 	"\/_posts\/2018-03-01-markdown-test.md": {
 		"cB": 0,
@@ -175,6 +218,12 @@
 		"pME": 1,
 		"rFN": 1,
 		"uCM": 0
+		},
+	"\/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_site",
+		"oF": 0
 		},
 	"\/css\/style.css": {
 		"aP": 1,
