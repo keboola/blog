@@ -1,5 +1,15 @@
 ---
-title: test
+title: Forestry test
 layout: post
-date: 2018-05-28 00:00:00 +0000
+date: 2018-05-02 08:27:21 +0000
+permalink: forestry-test
+perex: In publishing and graphic design, lorem ipsum is common placeholder text used
+  to demonstrate the graphic elements of a document or visual presentation, such as
+  web pages, typography, and graphical layout. It is a form of "greeking".
+tags:
+- tag
+user: ''
 ---
+In publishing and graphic design, **lorem ipsum** is common placeholder text used to demonstrate the graphic elements of a document or visual presentation, such as **web pages**, typography, and **graphical layout**. It is a form of "greeking".
+
+In publishing and graphic design, **lorem ipsum** is common placeholder text used to demonstrate the graphic elements of a document or visual presentation, such as **web pages**, typography, and **graphical layout**. It is a form of "greeking".
