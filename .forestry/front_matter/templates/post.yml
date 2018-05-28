@@ -33,7 +33,7 @@ fields:
   label: users
   name: users
   config:
-    use_select: true
+    use_select: false
     source:
       type: datafiles
       file: _data-test-yml
