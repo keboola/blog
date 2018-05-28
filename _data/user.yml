@@ -1,79 +1,77 @@
-- title: "Nadčasová bílá"
-  perex: "Kuchyně<br>pro každého"
-  id: /home/nadcasova/
+---
+- title: Nadčasová bílá
+  perex: Kuchyně<br>pro každého
+  id: "/home/nadcasova/"
   position: left
   nightversion: true
-  url: /kuchyne/nadcasova/
+  url: "/kuchyne/nadcasova/"
   btn: PROZKOUMAT KUCHYŇ
   device:
-    - name: trouby
-      id: "ts1"
-      left: 68
-      top: 42
-    - name: chlazeni
-      id: "ls3"
-      left: 79
-      top: 44
-    - name: digestore
-      id: "ds8"
-      left: 44
-      top: 20
-
-- title: "Kontrast, který ladí"
-  perex: "Ostrůvek.<br>Střed kuchyně."
-  id: /home/moderni/
+  - name: trouby
+    id: ts1
+    left: 68
+    top: 42
+  - name: chlazeni
+    id: ls3
+    left: 79
+    top: 44
+  - name: digestore
+    id: ds8
+    left: 44
+    top: 20
+- title: Kontrast, který ladí
+  perex: Ostrůvek.<br>Střed kuchyně.
+  id: "/home/moderni/"
   position: right
   nightversion: true
-  url: /kuchyne/moderni/
+  url: "/kuchyne/moderni/"
   btn: PROZKOUMAT KUCHYŇ
   device:
-    - name: trouby
-      id: "ts1"
-      left: 27
-      top: 44
-    - name: ostatni
-      id: "os5"
-      left: 22
-      top: 44
-    - name: varne-desky
-      id: "vs7"
-      left: 50
-      top: 50
-
-- title: "Inspirace severem"
-  perex: "Podkroví<br>v severském duchu"
-  id: /home/podkrovni/
+  - name: trouby
+    id: ts1
+    left: 27
+    top: 44
+  - name: ostatni
+    id: os5
+    left: 22
+    top: 44
+  - name: varne-desky
+    id: vs7
+    left: 50
+    top: 50
+- title: Inspirace severem
+  perex: Podkroví<br>v severském duchu
+  id: "/home/podkrovni/"
   position: left
   nightversion: true
-  url: /kuchyne/podkrovni/
+  url: "/kuchyne/podkrovni/"
   btn: PROZKOUMAT KUCHYŇ
   device:
-    - name: chlazeni
-      id: "ls2"
-      left: 67
-      top: 44
-    - name: mycky-nadobi
-      id: "ms6"
-      left: 59
-      top: 60
-
-- title: "Mátově zelená"
-  perex: "Jarní svěžest<br>u Vás doma"
-  id: /home/zelena/
+  - name: chlazeni
+    id: ls2
+    left: 67
+    top: 44
+  - name: mycky-nadobi
+    id: ms6
+    left: 59
+    top: 60
+- title: Mátově zelená
+  perex: Jarní svěžest<br>u Vás doma
+  id: "/home/zelena/"
   position: left
   nightversion: true
-  url: /kuchyne/zelena/
+  url: "/kuchyne/zelena/"
   btn: PROZKOUMAT KUCHYŇ
   device:
-    - name: trouby
-      id: "tb3"
-      left: 68
-      top: 60
-    - name: chlazeni
-      id: "lb3"
-      left: 85
-      top: 44
-    - name: mycky-nadobi
-      id: "mb4"
-      left: 48
-      top: 62
+  - name: trouby
+    id: tb3
+    left: 68
+    top: 60
+  - name: chlazeni
+    id: lb3
+    left: 85
+    top: 44
+  - name: mycky-nadobi
+    id: mb4
+    left: 48
+    top: 62
