@@ -9,7 +9,14 @@
 		<div class="article-header-user">
 			<div class="img"><img src="/img/user.jpg" alt="Pavel Doležal"></div>
 			<div class="article-header-user-desc">
-				<p>Written by<br><a href="">Pavel Doležal</a></p>
+				<p>
+					Written by<br>
+					{% for data in site.data['user'] %}
+						{% if data.id == page.user %}
+							{{ data.name }}
+						{% endif %}
+					{% endfor %}
+				</p>
 			</div>
 		</div>
 		<div class="article-header-share">
