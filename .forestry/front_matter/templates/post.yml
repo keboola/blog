@@ -33,13 +33,19 @@ fields:
   label: user
   name: user
 - type: list
+  name: u
+  label: u
   config:
     use_select: true
     source:
       type: datafiles
       file: _data-test-yml
-  label: users
-  name: users
+- type: select
+  config:
+    source:
+      type: datafiles
+  label: lul
+  name: lul
 pages:
 - _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-03-01-markdown-test.md
