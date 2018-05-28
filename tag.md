@@ -1,6 +1,6 @@
 ---
 layout: tags
 title: Klíčová slova
-permalink: /tag/
+permalink: "/tag/"
 perex: Seznam všech článků dle klíčových slov.
 ---
