@@ -10,9 +10,6 @@ perex: Our client is in the event business organizing regular meetups for CEO’
   might know this is the optimal setup for us.
 date: 2018-03-15 00:00:00 +0000
 user: pavel-dolezal
-categories:
-- surveymonkey
-category: marketing
 coverphoto: ''
 cover_photo_slider: ''
 ---

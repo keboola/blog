@@ -6,9 +6,6 @@ perex: In publishing and graphic design, lorem ipsum is common placeholder tex
   to demonstrate the graphic elements of a document or visual presentation, such as web
   pages, typography, and graphical layout. It is a form of "greeking".
 user: pavel-dolezal
-categories:
-- product
-category: surveymonkey
 coverphoto: ''
 cover_photo_slider: ''
 ---
