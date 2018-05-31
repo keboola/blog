@@ -19,9 +19,6 @@ fields:
 - type: tag_list
   label: category
   name: category
-- type: tag_list
-  name: tags
-  label: tags
 - type: datetime
   name: date
   label: date
@@ -35,6 +32,16 @@ fields:
     - petr-urbanek
     - martin-karasek
   label: user
+- type: file
+  name: coverphoto
+  label: cover photo - homepage
+  config:
+    maxSize: '2'
+- type: file
+  label: cover photo - slider
+  name: cover_photo_slider
+  config:
+    maxSize: '1'
 pages:
 - _posts/2018-05-28-product-test-post.md
 - _posts/test.md
