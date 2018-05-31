@@ -5,7 +5,7 @@ date: 2018-05-01 12:32:34 +0000
 perex: document or visual presentation, such as web pages, typography, and graphical
   layout.
 user: pavel-dolezal
-coverphoto: ''
+coverphoto: "/uploads/detail-img.jpg"
 cover_photo_slider: ''
 categories: product
 ---
