@@ -16,9 +16,17 @@ fields:
 - type: textarea
   name: perex
   label: perex
-- type: tag_list
-  label: category
+- type: select
   name: category
+  config:
+    source:
+      type: simple
+      section: posts
+    options:
+    - marketing
+    - product
+    - surveymonkey
+  label: category
 - type: datetime
   name: date
   label: date
