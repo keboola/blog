@@ -49,55 +49,37 @@
 </div></article>
 {% endif %}
 
-<article class="article-more-content"><div class="in">
-	<h2>More <strong>Data Science</strong> Articles</h2>
-</div></article>
-<div class="most-recent-content"><div class="most-recent-list">
-	<ul class="most-recent-list-content">
-		<li class="li-placeholder"></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-1.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-		<li><a href="">
-			<div class="img"><img src="/img/most-recent-img-2.jpg" alt=""></div>
-			<div class="item-desc">
-				<h2>Platform solution for small businesses</h2>
-				<p>Go to the article</p>
-			</div>
-		</a></li>
-	</ul>
-	<ul class="most-recent-pages"></ul>
-</div></div>
+{% assign postcounting = 0 %}
+{% for post in site.posts %}
+	{% if post.coverphoto_slider != "" and post.coverphoto_slider != nil %}
+		{% if page.categories == post.categories and page.title != post.title %}
+			{% assign postcounting = postcounting | plus: 1 %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
+{% if postcounting > 0 %}
+	<article class="article-more-content"><div class="in">
+		<h2>More <strong>{{ page.categories }}</strong> Articles</h2>
+	</div></article>
+	<div class="most-recent-content"><div class="most-recent-list">
+		<ul class="most-recent-list-content">
+			<li class="li-placeholder"></li>
+			{% for post in site.posts %}
+				{% if post.coverphoto_slider != "" and post.coverphoto_slider != nil %}
+					{% if page.categories == post.categories and page.title != post.title %}
+					<li><a href="{{ post.url }}">
+						<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
+						<i class="bg-img"></i>
+						<div class="item-desc">
+							<h2>{{ post.title }}</h2>
+							<p>Go to the article</p>
+						</div>
+					</a></li>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<ul class="most-recent-pages"></ul>
+	</div></div>
+{% endif %}
 {% include foot.html %}
