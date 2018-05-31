@@ -34,18 +34,20 @@
 	</div>
 </article>
 
+{% if page.next.url %}
 <article class="article-next"><div class="in">
-	<a href="" class="article-next-content">
+	<a href="{{page.next.url}}" class="article-next-content">
 		<i class="bg"></i>
 		<i class="ico-pict"></i>
 		<div class="article-next-desc">
 			<h2>NEXT ARTICLE</h2>
-			<h1>Uber rival in Europe</h1>
-			<p> withstand the preasure thanks to data driven approach and becomes #1!</p>
+			<h1>{{page.next.title}}</h1>
+			<p>{{page.next.perex}}</p>
 			<p class="p-more">Read next article</p>
 		</div>
 	</a>
 </div></article>
+{% endif %}
 
 <article class="article-more-content"><div class="in">
 	<h2>More <strong>Data Science</strong> Articles</h2>
