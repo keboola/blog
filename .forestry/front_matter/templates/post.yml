@@ -31,9 +31,9 @@ fields:
     source:
       type: simple
     options:
-    - pavel
-    - petr
-    - martin
+    - pavel-dolezal
+    - petr-urbanek
+    - martin-karasek
   label: user
 pages:
 - _posts/test.md
