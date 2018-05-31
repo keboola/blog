@@ -5,12 +5,19 @@
 			{% for post in site.posts limit:1 %}
 				<h2>{% for category in post.categories limit:1 %} <a href="/{{ category | downcase | replace:" ","-" }}">{{category}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
 				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-				<p class="p-author"><span class="img"><img src="/img/user.jpg" alt="Pavel Doležal"></span>Written by 
-				{% for data in site.data['user'] %}
-					{% if data.id == post.user %}
-						{{ data.name }}
-					{% endif %}
-				{% endfor %}</p>
+				<p class="p-author">
+					{% for data in site.data['user'] %}
+						{% if data.id == page.user %}
+							<span class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></span>
+						{% endif %}
+					{% endfor %}
+					Written by 
+					{% for data in site.data['user'] %}
+						{% if data.id == post.user %}
+							{{ data.name }}
+						{% endif %}
+					{% endfor %}
+				</p>
 			{% endfor %}
 		</div>
 
