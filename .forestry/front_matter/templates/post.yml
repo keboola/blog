@@ -49,7 +49,7 @@ fields:
     maxSize: '2'
 - type: file
   label: cover photo - slider
-  name: cover_photo_slider
+  name: coverphoto_slider
   config:
     maxSize: '1'
 pages:
