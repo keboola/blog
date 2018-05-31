@@ -9,19 +9,14 @@
 		<div class="article-header-user">
 			{% for data in site.data['user'] %}
 				{% if data.id == page.user %}
-					<div class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></div>
+				<div class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></div>
+				<div class="article-header-user-desc">
+					<p>
+						Written by<br>{{ data.name }}
+					</p>
+				</div>
 				{% endif %}
 			{% endfor %}
-			<div class="article-header-user-desc">
-				<p>
-					Written by<br>
-					{% for data in site.data['user'] %}
-						{% if data.id == page.user %}
-							{{ data.name }}
-						{% endif %}
-					{% endfor %}
-				</p>
-			</div>
 		</div>
 		<div class="article-header-share">
 			<a href="" class="share-btn-fb"><i></i>0</a>
