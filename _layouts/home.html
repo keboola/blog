@@ -22,6 +22,8 @@
 		{% break %}
 	{% endif %}
 {% endfor %}
+
+{% assign postcountingin = 0 %}
 <div class="most-recent-content">
 	<i class="bg"></i>
 	<div class="most-recent-list">
@@ -29,14 +31,17 @@
 			<li class="li-placeholder"></li>
 			{% for post in site.posts %}
 				{% if post.coverphoto_slider != "" and post.coverphoto_slider != nil %}
-				<li><a href="{{ post.url }}">
-					<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
-					<i class="bg-img"></i>
-					<div class="item-desc">
-						<h2>{{ post.title }}</h2>
-						<p>Go to the article</p>
-					</div>
-				</a></li>
+					{% assign postcountingin = postcountingin | plus: 1 %}
+					{% if postcountingin < 7 %}
+						<li><a href="{{ post.url }}">
+							<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
+							<i class="bg-img"></i>
+							<div class="item-desc">
+								<h2>{{ post.title }}</h2>
+								<p>Go to the article</p>
+							</div>
+						</a></li>
+					{% endif %}
 				{% endif %}
 			{% endfor %}
 		</ul>

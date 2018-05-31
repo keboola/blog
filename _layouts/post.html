@@ -61,20 +61,24 @@
 	<article class="article-more-content"><div class="in">
 		<h2>More <strong>{{ page.categories }}</strong> Articles</h2>
 	</div></article>
+	{% assign postcountingin = 0 %}
 	<div class="most-recent-content"><div class="most-recent-list">
 		<ul class="most-recent-list-content">
 			<li class="li-placeholder"></li>
 			{% for post in site.posts %}
 				{% if post.coverphoto_slider != "" and post.coverphoto_slider != nil %}
 					{% if page.categories == post.categories and page.title != post.title %}
-					<li><a href="{{ post.url }}">
-						<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
-						<i class="bg-img"></i>
-						<div class="item-desc">
-							<h2>{{ post.title }}</h2>
-							<p>Go to the article</p>
-						</div>
-					</a></li>
+						{% assign postcountingin = postcountingin | plus: 1 %}
+						{% if postcountingin < 7 %}
+							<li><a href="{{ post.url }}">
+								<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
+								<i class="bg-img"></i>
+								<div class="item-desc">
+									<h2>{{ post.title }}</h2>
+									<p>Go to the article</p>
+								</div>
+							</a></li>
+						{% endif %}
 					{% endif %}
 				{% endif %}
 			{% endfor %}
