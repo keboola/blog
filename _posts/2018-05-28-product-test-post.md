@@ -7,7 +7,7 @@ perex: document or visual presentation, such as web pages, typography, and gra
 user: pavel-dolezal
 coverphoto: ''
 cover_photo_slider: ''
-categories: ''
+categories: product
 ---
 In publishing and graphic design, **lorem ipsum** is common placeholder text used to demonstrate the graphic elements of a document or visual presentation, such as **web pages**, typography, and **graphical layout**. It is a form of "greeking".
 
