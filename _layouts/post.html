@@ -34,15 +34,15 @@
 	</div>
 </article>
 
-{% if page.next.url %}
+{% if page.previous.url %}
 <article class="article-next"><div class="in">
-	<a href="{{page.next.url}}" class="article-next-content">
+	<a href="{{page.previous.url}}" class="article-next-content">
 		<i class="bg"></i>
 		<i class="ico-pict"></i>
 		<div class="article-next-desc">
 			<h2>NEXT ARTICLE</h2>
-			<h1>{{page.next.title}}</h1>
-			<p>{{page.next.perex}}</p>
+			<h1>{{page.previous.title}}</h1>
+			<p>{{page.previous.perex}}</p>
 			<p class="p-more">Read next article</p>
 		</div>
 	</a>
