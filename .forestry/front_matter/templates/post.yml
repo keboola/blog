@@ -26,6 +26,7 @@ fields:
     - marketing
     - product
     - surveymonkey
+    required: true
   label: category
 - type: datetime
   name: date
