@@ -7,10 +7,8 @@ perex: Our client is in the event business organizing regular meetups for CEO’
   as CRM, <a href="https://mailchimp.com/">MailChimp</a> for the emails and SurveyMonkey,
   well, for surveys. For those of you who have been using Keboola for some time, you
   might know this is the optimal setup for us.
-tags: []
 date: 2018-05-04 23:00:00 +0000
 user: pavel-dolezal
-categories: []
 category:
 - marketing
 coverphoto: "/uploads/home-article-img-big.jpg"
