@@ -1,0 +1,12 @@
+<div class="article-categories-list"><ul>
+	<li><a href="/marketing/"{% if page.url contains '/marketing/' %} class="item-act"{% endif %}>marketing</a></li>
+	<li><a href="/product/"{% if page.url contains '/product/' %} class="item-act"{% endif %}>product</a></li>
+	<li><a href="/surveymonkey/"{% if page.url contains '/surveymonkey/' %} class="item-act"{% endif %}>surveymonkey</a></li>
+</ul></div>
+
+{% comment %}<div class="article-categories-list"><ul>
+	{% for tag in site.category %}
+		{% assign t = tag | first %}
+		<li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
+	{% endfor %}
+</ul></div>{% endcomment %}

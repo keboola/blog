@@ -1,6 +1,16 @@
 {% include head.html %}
-
+<article class="category-detail-header"><div class="in">
+	<div class="category-header-desc">
+		<h2>Category</h2>
+		<h1>{{ page.title }}</h1>
+		<p>See all the Keboola articles in our {{ page.title }} category.</p>
+	</div>
+</div></article>
 <div class="article-list-home"><div class="in">
+	<div class="article-categories">
+		<i class="pict"></i>
+		{% include category.html %}
+	</div>
 	<div class="article-list">
 		<i class="pict"></i>
 		{% for post in site.categories[page.type] %}

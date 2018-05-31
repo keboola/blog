@@ -72,12 +72,7 @@
 <div class="article-list-home"><div class="in">
 	<div class="article-categories">
 		<i class="pict"></i>
-		<div class="article-categories-list"><ul>
-			{% for tag in site.category %}
-				{% assign t = tag | first %}
-				<li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
-			{% endfor %}
-		</ul></div>
+		{% include category.html %}
 	</div>
 	<div class="article-list">
 		<i class="pict"></i>
