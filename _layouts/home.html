@@ -1,23 +1,24 @@
 {% include head.html %}
-<article class="article-home"><div class="article-home-content"><div class="in" style="background-image:url(/img/home-article-img-big.jpg)">
-	<div class="article-home-desc-content">
-		<div class="article-home-desc">
-			{% for post in site.posts limit:1 %}
-				<h2>{% for category in post.categories limit:1 %} <a href="/{{ category | downcase | replace:" ","-" }}">{{category}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
-				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-				{% for data in site.data['user'] %}
-					{% if data.id == post.user %}
-						<p class="p-author">
-							<span class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></span>Written by {{ data.name }}
-						</p>
-					{% endif %}
-				{% endfor %}
-			{% endfor %}
-		</div>
-
-		<h2 class="h2-recent">Most Recent Articles</h2>
-	</div>
-</div></div></article>
+{% for post in site.posts %}
+	{% if post.coverphoto != "" and post.coverphoto != nil %}
+		<article class="article-home"><div class="article-home-content"><div class="in" style="background-image:url({{ post.coverphoto }})">
+			<div class="article-home-desc-content">
+				<div class="article-home-desc">
+					<h2>{% for category in post.categories limit:1 %} <a href="/{{ category | downcase | replace:" ","-" }}">{{category}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h2>
+					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+					{% for data in site.data['user'] %}
+						{% if data.id == post.user %}
+							<p class="p-author">
+								<span class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></span>Written by {{ data.name }}
+							</p>
+						{% endif %}
+					{% endfor %}
+				</div>
+				<h2 class="h2-recent">Most Favorite Articles</h2>
+			</div>
+		</div></div></article>
+	{% endif %}
+{% endfor %}
 <div class="most-recent-content">
 	<i class="bg"></i>
 	<div class="most-recent-list">
