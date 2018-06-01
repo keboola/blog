@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- nerds.md
 - how-to.md
 - product.md
 - customer-stories.md
