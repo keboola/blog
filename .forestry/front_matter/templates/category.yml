@@ -23,5 +23,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- customer-stories.md
 - community.md
 - marketing.md
