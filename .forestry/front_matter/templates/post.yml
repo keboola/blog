@@ -23,9 +23,12 @@ fields:
       type: simple
       section: posts
     options:
-    - marketing
+    - events
+    - community
+    - customer stories
     - product
-    - surveymonkey
+    - how to
+    - nerds
     required: false
   label: category
   default: marketing
