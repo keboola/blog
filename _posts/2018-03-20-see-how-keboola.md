@@ -8,7 +8,7 @@ date: 2018-03-15 00:00:00 +0000
 user: pavel-dolezal
 coverphoto: ''
 cover_photo_slider: ''
-categories: community
+categories: customer stories
 coverphoto_slider: "/uploads/most-recent-img-1.jpg"
 ---
 
