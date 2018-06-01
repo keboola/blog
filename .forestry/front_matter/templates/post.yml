@@ -25,13 +25,13 @@ fields:
     options:
     - events
     - community
-    - customer stories
     - product
-    - how to
     - nerds
+    - how-to
+    - customer-stories
     required: false
   label: category
-  default: marketing
+  default: events
 - type: datetime
   name: date
   label: date
