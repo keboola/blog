@@ -23,4 +23,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- community.md
 - marketing.md
