@@ -1,7 +1,7 @@
 ---
 title: Lékárna.cz runs their whole company on reliable data, thanks to Keboola
 layout: post
-categories: events
+categories: customer-stories
 date: 2018-07-09 00:00:00 +0000
 perex: The Keboola punkish roots are also reflected in the way we are closing our
   new business deals. We will share one of our secret recipes for our sales with you
