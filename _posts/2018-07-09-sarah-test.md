@@ -14,9 +14,9 @@ coverphoto_slider: ''
 
 # **I can finally run the whole company using reliable data**
 
-_The Keboola punkish roots are also reflected in the way we are closing our new business deals. We will share one of our secret recipes for our sales with you today: We like scanning Czech e-commerce sites on a regular basis and forecasting who is using which data tools, or who plays it by ear. Whenever we think “they don’t use data” and sense good potential for change for the better, we like offering a helping hand._
+The Keboola punkish roots are also reflected in the way we are closing our new business deals. We will share one of our secret recipes for our sales with you today: We like scanning Czech e-commerce sites on a regular basis and forecasting who is using which data tools, or who plays it by ear. Whenever we think “they don’t use data” and sense good potential for change for the better, we like offering a helping hand.
 
-_That this method works has real proofs. One such example is Lékárna.cz, the first Czech online pharmacy, where you can not only buy your drugs, but also can get advice from real pharmacists. Lekarna.cz is now our client. They were facing the hard step up from data rookie to data-driven company. **We spoke to the company CEO, Karel Klodner, about how they coped with the transformation from small business to one of the top 15 e-shops in the country.**_
+That this method works has real proofs. One such example is Lékárna.cz, the first Czech online pharmacy, where you can not only buy your drugs, but also can get advice from real pharmacists. Lekarna.cz is now our client. They were facing the hard step up from data rookie to data-driven company. **We spoke to the company CEO, Karel Klodner, about how they coped with the transformation from small business to one of the top 15 e-shops in the country.**
 
 **You have been running Lékárna.cz since 2013. How has the company changed in that time?**
 
