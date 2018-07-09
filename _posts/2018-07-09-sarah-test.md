@@ -10,9 +10,9 @@ user: ''
 coverphoto: ''
 coverphoto_slider: ''
 ---
-# **Karel Klodner, CEO Lékárna.cz:**
+## **Karel Klodner, CEO Lékárna.cz:**
 
-# **I can finally run the whole company using reliable data**
+## **I can finally run the whole company using reliable data**
 
 The Keboola punkish roots are also reflected in the way we are closing our new business deals. We will share one of our secret recipes for our sales with you today: We like scanning Czech e-commerce sites on a regular basis and forecasting who is using which data tools, or who plays it by ear. Whenever we think “they don’t use data” and sense good potential for change for the better, we like offering a helping hand.
 
