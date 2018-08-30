@@ -6,7 +6,7 @@ date: 2018-08-30 00:00:00 +0000
 perex: 'Here at Keboola, we have never shied away from taking an often unorthodox
   approach. Case in point is one of the methods we use to scope out businesses that
   could use our help. '
-user: ''
+user: pavel-dolezal
 coverphoto: "/uploads/Lekarna Header Image .png"
 coverphoto_slider: ''
 
