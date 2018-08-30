@@ -17,7 +17,7 @@ Lékárna.cz has been the beneficiary of said method.
 
 Lékárna.cz is the first Czech online pharmacy which allows customers to both purchase medicine and solicit advice from experienced pharmacists. When we first were in touch, they were going through a tough time and were complete novices in regards to data. We changed that. They are now placed within the top 15 online stores nationwide, thanks to their transition to data-driven company.
 
-**_We talk to company CEO, Karel Klodner, about this successful transition._**
+> **We talk to company CEO, Karel Klodner, about this successful transition.**
 
 **You have been running Lékárna.cz since 2013. How has the company changed in that time?**
 
