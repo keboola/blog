@@ -1,5 +1,5 @@
 ---
-title: 'Reviving our company with reliable data, Karel Klodner, CEO Lékárna.cz:  '
+title: 'Reviving our Company with Reliable Data, Karel Klodner, CEO Lékárna.cz:  '
 layout: post
 categories: product
 date: 2018-08-30 00:00:00 +0000
