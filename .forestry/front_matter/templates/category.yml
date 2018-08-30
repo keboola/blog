@@ -24,9 +24,9 @@ fields:
   hidden: false
   default: ''
 pages:
-- customer-stories.md
-- community.md
-- product.md
-- how-to.md
-- nerds.md
 - marketing.md
+- community.md
+- customer-stories.md
+- nerds.md
+- how-to.md
+- product.md
