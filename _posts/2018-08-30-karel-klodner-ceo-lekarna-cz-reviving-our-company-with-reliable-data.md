@@ -8,7 +8,7 @@ perex: 'Here at Keboola, we have never shied away from taking an often unorthodo
   could use our help. '
 user: pavel-dolezal
 coverphoto: "/uploads/Lekarna Header Image .png"
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/Lekarna Header Image -1.png"
 
 ---
 Here at Keboola, we have never shied away from taking an often unorthodox approach. Case in point is one of the methods we use to scope out businesses that could use our help. By scanning Czech e-commerce sites, we can easily discern between the companies already employing data tools, and the ones who are not using the data available to them to its potential. For the companies in the latter category, we are always happy to step in with a helping hand.
