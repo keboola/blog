@@ -7,7 +7,7 @@ perex: 'Here at Keboola, we have never shied away from taking an often unorthodo
   approach. Case in point is one of the methods we use to scope out businesses that
   could use our help. '
 user: pavel-dolezal
-coverphoto: "/uploads/Lekarna Header Image .png"
+coverphoto: "/uploads/lekarna-header-image.png"
 coverphoto_slider: "/uploads/Lekarna Header Image -1.png"
 
 ---
