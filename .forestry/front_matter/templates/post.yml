@@ -57,6 +57,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.md
 - _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.md
 - _posts/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md
