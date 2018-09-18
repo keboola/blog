@@ -57,6 +57,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md
 - _posts/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.md
 - _posts/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.md
 - _posts/2018-03-20-see-how-keboola.md
