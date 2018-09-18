@@ -1,10 +1,9 @@
 ---
-title: Why hackathon needs real data - Hackathon Inspiration, brought to you by Keboola,
-  Deloitte, & Lékárna.cz
+title: Why a hackathon needs real data...
 layout: post
 categories: community
 date: 2018-09-18 00:00:00 +0000
-perex: ''
+perex: Hackathon Inspiration, brought to you by Keboola, Deloitte, & Lékárna.cz
 user: pavel-dolezal
 coverphoto: "/uploads/Delloite Image 1 copy.jpg"
 coverphoto_slider: "/uploads/Delloite Image 1 copy.jpg"
