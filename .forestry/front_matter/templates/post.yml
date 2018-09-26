@@ -45,6 +45,7 @@ fields:
     - pavel-dolezal
     - petr-urbanek
     - martin-karasek
+    - henderson-sarah
   label: user
 - type: file
   name: coverphoto
