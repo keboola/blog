@@ -5,8 +5,8 @@ categories: customer-stories
 date: 2018-04-01 10:37:52 +0000
 perex: ''
 user: pavel-dolezal
-coverphoto: ''
-coverphoto_slider: ''
+coverphoto: "/uploads/Untitled design (1).png"
+coverphoto_slider: "/uploads/Untitled design (2).png"
 
 ---
 by Kasey Jones Tonsfeldt
