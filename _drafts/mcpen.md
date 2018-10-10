@@ -1,7 +1,45 @@
 ---
-title: McPen
+title: 'McPen: Built and Run on Data'
 layout: post
-categories: events
+categories: customer-stories
 date: 2018-10-10 00:00:00 +0000
+perex: ''
+user: pavel-dolezal
+coverphoto: "/uploads/Untitled design (10).png"
+coverphoto_slider: "/uploads/1482223862olomouc-3-2016.jpg"
 
 ---
+McPen is a European chain distributor of stationery goods. They are one of the first small to mid-sized retailers who use a data-driven approach to business and enable equal access to data to all of their employees.
+
+### Initial situation
+
+Embarking on their data-driven business journey, McPen realized that to excel in the stationery goods space, they would need to create a competitive advantage with a unique operational management system. In order to identify retail solutions specific to their business, they wanted to combine many previously unconnected data sources, and upgrade and speed up their reporting process. 
+
+### Where Keboola came in
+
+Assisted by the Ascoria team, our partner, McPen’s CEO Milan Petr configured the new system from scratch and without the help of a single developer. McPen began to pull data from sources like their POS, Frames and other retail sources, allowing everybody in the company to use this compiled and easily accessible data to find solutions to their real retail problems.
+
+Focusing on lean operations and adding new features, Milan created a system that benefited the entire organization. He knew that to effectively manage shifts in business, he had to involve every part of the organization in making decisions based on data. Leading by example, he developed and studied the system in detail to understand its impact on daily operations. He then provided access and support directly to the people on the floor to empower them to make necessary strategic decisions and improve their daily results. 
+
+![metrics-2](https://lh5.googleusercontent.com/rmrAiIFDeNmg8JSUPz8M6o9vwTdze8tF6l_P02Jkv3bsIeYni0D6MHKcnevDE2RCtwNlhEoAhax5PKS0vrnVF8BGQbP-CZCp3xWRpYG_qY0dJcHM7x6LfVoRdp-PFJjSYjonOKB4 "Image: https://lh5.googleusercontent.com/cQ7njSdHfHr3mbMD7CeOSJ3nvAmbIL7d6emCx3gHOWoB1oDydxfJW6BRGNnEVHOXwPhKcxw8onGLRT3Gf9AQljeN50HJ5TE70XP-iSXKnz_zcCs5fdw2lLL-0J3NJVFTKzARqugn" =624x535)
+
+### Surprising benefits and results
+
+Examined data showed that in order to maximize profitability, McPen needed to up-sell customers. And while their biggest income comes from customers who spend between 200 and 500 CZK (around 8 to 20 USD), it is the 42% of all McPen customers spending up to 50 CZK (around 2 USD) who have the biggest potential for the up-sell. 
+
+![Categories of customers by sold total](https://lh3.googleusercontent.com/IKgU-146Y3ervM3Ta1geLyzP7BtTyw-m-Qp6KkmO-0cX1LJY8N7RsVB9lrUO_MM_BKRNSNSOAdr6g7DYjoZHuZQ7eimWzF8El9dJBiQIMEOC33AZkDe1-0gLJ_6TRll0tLo8cU6P "Image: https://lh6.googleusercontent.com/mQ76jlfbkx98UZHKmmmyUEwx2ik1HDcimQvDZgM53ZcUIfBxahwpwbeDNx30_FiNJGVdOUN7Vuy-5f9qSTNlViSc_DUVtkYVyErvxZ5XACqClz2mbTZhL1so2PLwAS6gsj_AyTFr" =624x253)
+
+“It was an enlightening moment — looking at the data, we suddenly realized that generating a 50% up-sell to 42% of our customer base is just as easy as suggesting they buy an eraser or a sharpener with the pencil they already have in their hand.”
+
+Milan succeeded in creating a lean organization that makes data-driven decisions at all levels. With each employee using the system and analyzing data for approximately 10 minutes a day, McPen was able to increase the volume of their average basket by 30%!
+
+![metrics-2](https://lh3.googleusercontent.com/Po7svU3WaoY_w_sWgLFilRTo3ek5qj194kgZGZWEyhudo6LFLb0N-eYCMV99pD_qPLnDCj8CBcvdZCES5Yr8g5nl_ki8jO09w9XRTX01TDFT6olXLjPrSd4nQ5GtkwzKuh7XZNro =624x336)
+
+  
+Individual retail locations do not have to rely on the head office to provide them with reporting anymore. Each store can simply login to their web browser and do a pulse check of their business instantaneously. Then they can use this data to alter everything from their store setup to promotional offers and recommended purchases to improve their own sales.
+
+“This process completely turned around the way we used to generate an up-sell: our shopkeepers now actively access data themselves and define sales strategies for their particular shop.”
+
+### About McPen
+
+[McPen](http://www.mcpen.cz/index.php?index-en) is a European chain distributor of stationery goods. Among their top selling brands are Herlitz, Centropen, Koh-i-noor, Pentel, Pilot, Parker, Pelikan, Stabilo, Pritt, Maped, Snopake, SusyCard, Albi, Argus, and many more. The company is one of the first, small to medium sized businesses in Czech retail operations that have fully embraced the data-driven approach to business. McPen also leads the way in data distribution by allowing equal access to data to all their employees, so they can make informed decisions on their own.
