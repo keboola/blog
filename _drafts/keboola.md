@@ -6,7 +6,7 @@ date: 2018-10-10 00:00:00 +0000
 perex: ''
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design.png"
-coverphoto_slider: "/uploads/monetization-1-1.png"
+coverphoto_slider: "/uploads/crunchyourroi-740x300.png"
 
 ---
 Having access to the right data in a clean and accessible format is the first step (or series of steps) leading up to actually extracting business value from your data.  As much as 80% of the time spent on data science projects involves data integration and preparation. Once we get there, the real fun begins. With the continued focus on big data and analytics to drive competitive advantage, data science has been spending a lot of time in the headlines. (Can we fit a few more buzzwords into one sentence?)
