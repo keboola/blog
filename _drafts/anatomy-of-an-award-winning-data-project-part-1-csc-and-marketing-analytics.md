@@ -2,9 +2,9 @@
 title: 'Anatomy of an Award Winning Data Project Part 1: CSC and Marketing Analytics'
 layout: post
 categories: customer-stories
-date: 2018-10-10 00:00:00 +0000
+date: 2018-04-01 10:37:52 +0000
 perex: ''
-user: ''
+user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
 
