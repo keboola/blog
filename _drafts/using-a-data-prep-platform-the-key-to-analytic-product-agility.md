@@ -1,7 +1,70 @@
 ---
 title: 'Using a Data Prep Platform: The Key to Analytic Product Agility'
 layout: post
-categories: events
+categories: product
 date: 2018-10-10 00:00:00 +0000
+perex: ''
+user: ''
+coverphoto: "/uploads/Untitled design (6).png"
+coverphoto_slider: "/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg"
 
 ---
+**_Guest post_** _by Kevin Smith_
+
+For a product owner, one of the biggest fears is that the product you're about to launch won't get the necessary adoption to achieve success. This might happen for a variety of reasons— two of the most common are a lack of fit to the customers' needs and confusing design (it's just too hard to use!).
+
+To combat the possibility of failure, many product owners have adopted the "agile" approach to building products that have enough functionality to meet to minimum needs, but are still lean enough to facilitate easy change.
+
+As a data product builder — someone building customer-facing analytics that will be part of a product — the needs are no different but achieving agility can be a real challenge. Sure, every analytics platform provider you might consider claims that they can connect to any data, anywhere, but this leaves a lot of wiggle room. Can you really connect to anything? How easy is it? How hard is it to change later? What about \[insert new technology on the horizon here\] that I just heard about? If you want to build an agile data product, you've got a tough road ahead... as I found out.
+
+Recently I started working on the analytics strategy for a small start-up firm focused on providing services to large enterprises. As they delivered their services, they wanted to show the results in an analytics dashboard instead of the traditional PowerPoint presentation. It would be more timely, easier to deliver, and could be an on-going source of revenue after an engagement was completed. As I spoke with the team, a few goals surfaced:
+
+1. They wanted to buy an analytics platform rather than build from scratch. The team realized that they would be better off developing the methodology that would differentiate them from the competition instead of creating the deep functionality already provided by most analytics platforms.
+2. The system had to be cost-effective both to set-up and to operate. As a start-up, there simply wasn't the cash flow available for costly analytics platforms that required extensive professional services to get started. The product had to be flexible and "configurable" by non-Engineers. With little to no budget for an Engineering staff, the team wanted a BI platform that could be configured easily as customer needs changed.
+3. Up and running quickly. This company had customers ready to go and needed a solution quickly. It would be essential to get a solution in front of the customers NOW, rather than try to migrate them to a new way of operating once the dashboards were ready. Changes would certainly be needed post-launch, but this was accepted as part of the product strategy.
+
+> None of this seemed to be impossible. I've worked on many data products with similar goals and constraints. Product teams always want to have a platform that's cost-effective, doesn't strain the technical capabilities of the organization, is flexible, and is launched sooner rather than later. It was only after a few more conversations that the problem arose: uncertain data sources.
+
+Most data-driven products work like this: you've got a workflow application such as a help desk application or an ordering system that generates data into a database that you control. You know what data is flowing out of the workflow application and therefore, you understand the data that is available for your analytics. You connect to your database, transform the data into an analytics-ready state, then display the information in analytics on a dashboard. The situation here was different. As a services company, this business had to operate in a technology environment dictated by the customer. Some customers might use Salesforce, some might use Sugar CRM. Still others might use Zoho or one of the myriad other CRM platforms available. Although the team would structure the dashboards and analytics based on their best practices and unique methodology, the data driving the analytics product would differ greatly from customer to customer.
+
+![Different data sources create a messy environment for analysts to work with](/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg "Lego data")
+
+Large numbers of data sources equals an implementation nightmare.
+
+Faced with the prospect of a huge integration project with the signing of each new customer, I considered telling the team that a data product wasn't going to be a good idea. Given their constraints, I just couldn't see how they would be able to wrangle the data from so many disparate sources into a common set of analytics. It would be an implementation nightmare.
+
+And then I started remembering about data prep platforms... If you aren't familiar with these systems, you aren't alone. Not only are they a fairly new addition to the business intelligence landscape, they live deeper in the analytics stack, less visible than charting tools or database systems. But they are incredibly powerful and solve a host of problems. In the most simplistic explanation, data prep platforms sit between the "raw" data and the visualization layer. They allow you to intake data, clean it, manipulate it, layer it, mash it up, whatever—and then make it available to a visualization platform like Tableau, Looker, or GoodData.
+
+For this project, it was exactly what I needed. Instead of connecting the dashboard to multiple data sources for each customer, the team could now simply tell their customer "send us your data in this format at this location". As the data arrived, it could be tagged with a customer ID and blended as needed. CRM data—it didn't matter if it was from Salesforce or another application—could be stripped to only what was needed and then combined with other data to provide the insights the team desired. Once the data was prepared, it would be provided to the charting engine to create the necessary dashboards.
+
+You might be thinking wait, my analytics provider told me that they could do this themselves. I don't need another tool. Why would I go this route? Wouldn't this just complicate things? Here are a few reasons you should consider adding a data prep platform to your analytics stack:
+
+#### Superior Flexibility
+
+The first reason to consider a data prep tool is that it adds flexibility to your product. While some analytics platforms have built-in tools to extract data from various sources, they frequently fall short of providing a _full_ set of capabilities. These "full stack" BI companies try to do it all — from data extract to data manipulation to data visualization. And, while they may excel in one of those areas, rarely do they provide best-in-class functionality for the complete toolbox you need. Data prep platforms do just one thing: get your data and make it ready for visualization. They tend to be pretty good at it because that's their core business. They aren't doing 3D drop-shadow pie charts or mobile collaboration suites, they are preparing your data. Period. As a result, they (often) provide a great set of tools for seeing what data is flowing into the system, manipulating that data, and then connecting to whichever best-in-class visualization tool you've selected.
+
+As an example from my situation, we wanted to be able to bring in sales data and combine it with customer issue data to get a sense of the impact of problems on future sales. Some of the business intelligence tools we reviewed had little ability to combine data in this manner (other than writing code or pseudo-code) while others had tools but were extremely complex to use. The data prep platform we chose made it simple: combine this data with that data, call it some new name, and publish it. Boom. Done. This ease of manipulation provides incredible product agility for your team. You can sit with a customer, mash-up data together, and view the results before creating the final analytics and dashboards. You don't need to have an Engineering team create a new data model—often a time-consuming effort—before getting customer feedback.
+
+#### Recipes and Pre-defined Algorithms
+
+Many analytics platforms include some form of data preparation. They let you attach to or import data and perform the basic operations to get it into a usable state for your visualizations. But while most "full stack" analytics solutions stop there, the best data prep platforms don't. They can offer pre-defined transformations that you can apply to your data. The key part of this is the pre-defined aspect—you don't have to write this code yourself. Say you are interested in creating a histogram of your data. You could write a little code to determine the maximum data point, the minimum data point, how many buckets of data should be displayed then take each data point and drop it into the appropriate bin... Or, you could apply the data prep tool's "histogram" recipe and have this all done for you.
+
+The leading data prep systems have an extensible framework of recipes available and the selection grows every day. The solution we selected has options such as basket analysis (think "users who bought this also selected these items..."), predictive analytics, and text analytics. Sure, some analytics providers have the specific examples I mentioned built in, but few offer an app store-like approach to transformation that can be built by third-party developers for easy application. If you need to build an agile analytics product for your users, it's much easier applying pre-built transformations provided by a data prep system than spending the time to build such algorithms yourself.
+
+#### Protection from the Unknown
+
+One of the great things about the analytics space is that it's evolving very quickly. Of course, that's also a concern for a product team. Is that business intelligence system you purchased going to be here in a year? Will they "pivot" into a new business focus? Will something better come on the market that provides just the right features to our team? You just don't know. And that's why data prep platforms are a good idea.
+
+By putting data prep between the underlying data and the visualization layer view by users, you provide a buffer against uncertainty. If your data visualization layer is no longer ideal for your needs, you can implement a new system, use the same underlying data, and roll it out to customers with far less impact than if you had to rebuild the complex data models that can cause so many problems with just one little calculation error.
+
+Think of a data prep system as the engine in your car. If the worst happens and it needs to be replaced, there's really not much impact (once it's out of the shop and you've recovered from the sticker shock) to you the user. The steering wheel feels the same, the seats haven't changed, and you don't have to re-learn how to open the trunk.
+
+When you add a data preparation system into your analytics stack, you also open a whole world of visualization options that may not have previously been available. While many analytics visualization systems will connect directly to multiple data sources, some of the best are designed to connect to a single data location where your Engineering team stores the necessary data. If you don't have an Engineering team available — a data prep tool provides exactly what you need. It allows you to get data from many sources and make it available in a single data store. All of a sudden those visualization options you didn't consider due to the need for multiple data sources are back in consideration and your options for visualization became much more broad.
+
+As data product builders we have to walk a fine line between getting just enough functionality in place to create a compelling product and getting the product launched in a timely manner so as not to miss market opportunities. This balancing act means that our data products are never finished; we're always learning more about customer needs, adapting to changing circumstances, or completing functionality that wasn't finalized at launch time. It's never a "launch and forget it" scenario for the analytic product owner.
+
+For us, product agility is even more important than for most product builders. We have to worry about all of these items plus the ever-changing data source environment. Back when I used to worry about hand-crafting connections between my analytics and the data sources, I made decisions based on the complexity of integration. Entire product concepts and roadmap direction were discarded because by the thought of trying wrangle all the required data was too much to bear. But when I began adding data preparation tools into the product stack, everything changed. I could consider a product that would have been extremely difficult in the past. I could prototype new mixes of data sources and show users what they could expect. I could respond to customer needs and market opportunities at an accelerated rate.
+
+If you need agility in your data-driven products, if you want to be able to combine data sources without significant impact on your Engineering team, or if your analytics strategy has an element of uncertainty, I recommend you try using data preparation tools in your product. For me, it's opened a whole new world of possibilities.
+
+_This is a guest re-post of a January 2016_ [_blog_](http://www.nextwavebi.com/articles/2016/1/6/the-data-prep-platform-key-to-data-product-agility) _written by_ [**_Kevin Smith_**](http://www.nextwavebi.com/kevin-smith)**_,_** _leader of Denver, CO based_ [_NextWave Business Intelligence_](http://www.nextwavebi.com/)_.  Founded in 2005, they focus on providing innovative and effective product strategy and analytics consulting services to clients._
