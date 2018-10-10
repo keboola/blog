@@ -58,6 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md
 - _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-keboola.md
