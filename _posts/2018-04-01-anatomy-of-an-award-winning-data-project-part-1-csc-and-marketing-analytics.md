@@ -9,6 +9,8 @@ coverphoto: "/uploads/Untitled design (1).png"
 coverphoto_slider: "/uploads/Untitled design (2).png"
 
 ---
+### Anatomy of an Award Winning Data Project Part 1: CSC and Marketing Analytics
+
 by Kasey Jones Tonsfeldt
 
 Here at Keboola, we take pride in working closely with partners and customers ensuring that each project is a success. Typically we’re there from the beginning - to understand the problem the client needs to solve; to help them define the scope and timeline of the implementation; to provide the necessary resources to get buy in from the rest of their team; to offer alternative perspectives and options when mapping out the project; and to be their ally and guide throughout every step of the process. With all that work, all that dedication, it turns out we develop quite a soft spot for both our clients and their projects.
