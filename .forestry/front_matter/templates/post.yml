@@ -58,7 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/asana.md
+- _posts/2018-10-11-asana.md
 - _posts/2018-10-11-snowflake.md
 - _posts/2018-10-11-please-hold-your-call-is-important.md
 - _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
