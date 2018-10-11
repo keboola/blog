@@ -58,12 +58,12 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/why.md
+- _posts/2018-10-11-why.md
 - _posts/2018-10-11-why.md
 - _posts/2018-10-11-avast.md
 - _posts/2018-10-11-when-salesforce-met-keboola.md
 - _posts/2018-10-11-asana.md
-- _posts/snowflake.md
+- _posts/2018-10-11-snowflake.md
 - _posts/2018-10-11-please-hold-your-call-is-important.md
 - _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
 - _posts/2018-10-11-how-we-hacked-vizable.md
