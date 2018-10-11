@@ -6,8 +6,8 @@ categories: customer-stories
 date: 2018-10-10 00:00:00 +0000
 perex: ''
 user: pavel-dolezal
-coverphoto: ''
-coverphoto_slider: ''
+coverphoto: "/uploads/Untitled design (4)-1.png"
+coverphoto_slider: "/uploads/Untitled design (5)-1.png"
 
 ---
 by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
