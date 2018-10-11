@@ -24,7 +24,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/gorila-mobil-data-driven-business.md
 - marketing.md
 - community.md
 - customer-stories.md
