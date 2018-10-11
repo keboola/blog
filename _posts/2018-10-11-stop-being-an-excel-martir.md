@@ -4,7 +4,10 @@ title: Stop being an Excel slave - evaluate attribution and online campaigns the
 layout: post
 categories: product
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: " At Keboola we can’t stand intractable problems, we have worked with some
+  of our clients to find an easier way to do so.  With Keboola Connection within days
+  marketing consultants will forget about the way they used to slave themselves at
+  the altar of Excel."
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (7)-1.png"
 coverphoto_slider: ''
