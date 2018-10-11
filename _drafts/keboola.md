@@ -7,8 +7,8 @@ date: 2018-10-11 00:00:00 +0000
 perex: How Slevomat is using data to speed up the day-to-day strategic and business
   decisions
 user: ''
-coverphoto: ''
-coverphoto_slider: ''
+coverphoto: "/uploads/Untitled design (9)-1.png"
+coverphoto_slider: "/uploads/jarvis_5a53c609498ebde4362abcfe.jpg"
 
 ---
 ### **Marie Havlíčková, Slevomat CEO: Data helps us to speed up our day-to-day strategic and business decisions**
