@@ -1,7 +1,28 @@
 ---
-title: Asana
+title: Understanding project management workflow by integrating Keboola + Asana
 layout: post
-categories: events
+categories: how-to
 date: 2018-10-11 00:00:00 +0000
+perex: ''
+user: pavel-dolezal
+coverphoto: ''
+coverphoto_slider: ''
 
 ---
+### Understanding project management workflow by integrating Keboola + Asana
+
+by [Colin McGrew](http://blog.keboola.com/author/19180)
+
+[![Related image](https://lh3.googleusercontent.com/7DjjK1aXEbl2iqoVl8vHq9TZsLcGhb4TexfsZNnw0Mt9ytFCZxSSV1OBsy6o9kHUju1xCFnHOR6taFjmdemGv6kzBUSMr7mzW_yPZ2XxaNc-DF6AlFQ5vqiqygPc75SuXPlF87TM "Image: http://k2estrategia.digital/wp-content/uploads/2015/05/como-fazer-briefing-marketing-digital.png" =624x429)](http://blog.keboola.com/author/19180)
+
+Asana is on a mission to help humanity thrive by enabling all teams to work together effortlessly, improve the productivity of teams, and increase the potential output of every team’s effort. They provide a great web-based project management tool which allows users across teams to keep track of their work. 
+
+Although Asana does offer fantastic UI, features to help managers or project managers to gauge the progress of the project, it lacks the simplicity in creating a dashboard to report the progress. For example, the number of tasks completed last week, the number of tasks tagged 1st priority, the number of tasks each user has, etc. With Asana extractor, users can transform and enrich the data with Keboola to have a better insight into the projects contained in Asana. The integration will enhance collaboration and build an actionable, 360-degree view of project management and usage as well as customer experience.
+
+Asana Extractor is written based on Keboola's [Generic Extractor](https://developers.keboola.com/extend/generic-extractor/) (REST API.) A default template is created to extract all of the projects, tasks, and workspaces. Mappings are configured to aid users to have a clean extraction with clear column titles and primary keys in each tables.
+
+Since this extractor is written based on generic extractor, the configuration is not limited by one template. Users can easily switch the template to JSON editor to modify the endpoints and mappings to their likings. However, this modification will required users to have advance generic extractor knowledge and advance understandings in Asana API output.
+
+At this point, we can then push the data to a BI tool to create reports and dashboards like the below example:
+
+Interested in learning more about our Asana integration? [**Contact us.**](https://www.keboola.com/contact)
