@@ -59,7 +59,7 @@ fields:
     maxSize: '1'
 pages:
 - _posts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md
-- _posts/empowering.md
+- _posts/2018-10-11-empowering.md
 - _posts/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.md
 - _posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md
 - _posts/2018-10-11-three-critical.md
