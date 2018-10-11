@@ -58,6 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/kbc.md
 - _posts/another-year-passed.md
 - _posts/2018-10-11-why.md
 - _posts/2018-10-11-why.md
