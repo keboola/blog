@@ -58,6 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/stop-being-an-excel-martir.md
 - _posts/2018-10-11-finding.md
 - _posts/2018-10-11-kbc.md
 - _posts/2018-10-11-another-year-passed.md
