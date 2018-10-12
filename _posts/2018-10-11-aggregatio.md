@@ -3,17 +3,20 @@ title: Facebook Prophet - Forecasting library
 layout: post
 categories: nerds
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: Not all forecasting problems can be solved by the same procedure. Prophet is
+  optimized for the business forecast tasks we have encountered at Facebook.
 user: ''
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
+## Facebook Prophet - Forecasting library
+
 by [Martin Fiser](http://blog.keboola.com/author/22817)
 
 It all started yesterday morning when I saw multiple tweets mentioning a new forecasting library published on my way to work:
 
-![tweet_03jpeg](https://lh3.googleusercontent.com/LrtLKxTtt3TbRZlWAMOA8w3nYzKZrynWG0nZf-xImRT9He-1Yae8Oxe44K9tzVkPK5XWrPbnaXUwzMf_Eao0RwUKIf0fFq_SpqLgNVMWWL9DUtboKhA6XhmZYOia3VFtTDUsJlYg "Image: https://bytebucket.org/VFisa/kbc_blog_posts/raw/245c7aa257d6c3a2b44fa1f098ff44dd29e9f0e5/Expandability%20-%20FB%20Prophet/images/tweet_03.jpeg" =413x571)
+![tweet](https://lh3.googleusercontent.com/LrtLKxTtt3TbRZlWAMOA8w3nYzKZrynWG0nZf-xImRT9He-1Yae8Oxe44K9tzVkPK5XWrPbnaXUwzMf_Eao0RwUKIf0fFq_SpqLgNVMWWL9DUtboKhA6XhmZYOia3VFtTDUsJlYg "Image: https://bytebucket.org/VFisa/kbc_blog_posts/raw/245c7aa257d6c3a2b44fa1f098ff44dd29e9f0e5/Expandability%20-%20FB%20Prophet/images/tweet_03.jpeg" =413x571)
 
 Sounds interesting, I thought. I bookmarked the link for “weekend fun with code” and moved on. The minute I stepped in the office, Amazon S3 had an outage (coincidence?) which impacted half of the internet and KBC as well. Ok, what can i do now then?
 
@@ -29,7 +32,7 @@ The algorithm requires two columns, the date and value column. The current scrip
 
 This is how it looks like in the Keboola:
 
-![custom_sciencepng](https://lh4.googleusercontent.com/qooAwmzQich5pE01qqLlXhinV_eDk0OPWtZN1eidAFWfoeTxZWVROdDXe7uWK_XjuVX6qEYI2HB-skEQ71HwOnt0jWwpcqlr7YoPkgTzTASTKI2Sicjd8-ocJALsplaBnMOGJBGr =624x684)
+![custom](https://lh4.googleusercontent.com/qooAwmzQich5pE01qqLlXhinV_eDk0OPWtZN1eidAFWfoeTxZWVROdDXe7uWK_XjuVX6qEYI2HB-skEQ71HwOnt0jWwpcqlr7YoPkgTzTASTKI2Sicjd8-ocJALsplaBnMOGJBGr =624x684)
 
 To see the output in a visual form, I used Jupyter, which has been [recently integrated within KBC](http://status.keboola.com/call-for-testers-rstudio-and-jupyter-sandboxes). Not bad for a day’s work, what do you say?
 
