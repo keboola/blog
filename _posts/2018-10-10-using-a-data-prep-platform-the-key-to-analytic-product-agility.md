@@ -3,12 +3,15 @@ title: 'Using a Data Prep Platform: The Key to Analytic Product Agility'
 layout: post
 categories: product
 date: 2018-10-10 00:00:00 +0000
-perex: ''
+perex: 'For a product owner, one of the biggest fears is that the product you''re
+  about to launch won''t get the necessary adoption to achieve success. '
 user: ''
 coverphoto: "/uploads/Untitled design (6).png"
 coverphoto_slider: "/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg"
 
 ---
+## Using a Data Prep Platform: The Key to Analytic Product Agility
+
 **_Guest post_** _by Kevin Smith_
 
 For a product owner, one of the biggest fears is that the product you're about to launch won't get the necessary adoption to achieve success. This might happen for a variety of reasons— two of the most common are a lack of fit to the customers' needs and confusing design (it's just too hard to use!).
