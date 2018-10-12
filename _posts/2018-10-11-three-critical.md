@@ -3,12 +3,15 @@ title: Three Critical Steps to Evangelize the New in Business Intelligence and A
 layout: post
 categories: how-to
 date: 2018-10-11 00:00:00 +0000
-perex: ''
-user: ''
+perex: How do you protect the stability of the work you’ve already done, while evangelizing
+  experimentation, exploration and progress within your organization?
+user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (6)-1.png"
 coverphoto_slider: "/uploads/new_idea1_732width.jpg"
 
 ---
+## Three Critical Steps to Evangelize the New in Business Intelligence and Analytics
+
 by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
 
 [![](https://lh3.googleusercontent.com/UKhW1wCAR19Edd7PJN-xTYiQQckal-HUglCtQ9Z4esFC8WsiiIj0_iCHTTdPKvE9z6lIBAOFTaZ9o38BUpGLzSnCQyyo4BJVwzmvq6nhN-7S398Fqz6N7gjf_dDUi63VqvtiH90p =624x416)](http://blog.keboola.com/author/20616)
