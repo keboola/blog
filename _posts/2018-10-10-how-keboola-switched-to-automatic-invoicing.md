@@ -3,21 +3,24 @@ title: How Keboola Switched to Automatic Invoicing
 layout: post
 categories: product
 date: 2018-10-10 11:16:35 +0000
-perex: ''
+perex: 'Automating the invoicing process to cut down up to 2-3 mandays per month.
+  Our goal was clear. But how did we do it? '
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (4).png"
 coverphoto_slider: "/uploads/2015-05-11-1431381813-5381990-overwhelmed_women_business_owner_optimized-thumb.jpg"
 
 ---
+## How Keboola Switched to Automatic Invoicing
+
 Assisting clients with data and automation is our specialty here at Keboola, with the mission of helping businesses become “data-driven.” Several months ago it was our turn to put in moto our own engines and build an automated workflow for our invoicing process. After we lost our two main finance wizards to the joys of childcare, we decided to go on the automated road ourselves for our internal business processes.
 
 For years, the two of them have been issuing invoices one by one. Manually. Hating unnecessary manual tasks, we were eager to put the power of our platform - Keboola Connection - into work and eliminate the manual invoicing.
 
 We expected approximately 2-3 mandays per month to be cut down. We also wanted to get more qualitative data on what’s going on.
 
-With an increase in our global sales activities, we had to automate the entire process and avoid hiring another person to handle this manually (a no-go for a data-driven company like Keboola!). Plus we didn’t want to overload Tereza, our new colleague, with this tedious work and take away her weekends from her. 
+With an increase in our global sales activities, we had to automate the entire process and avoid hiring another person to handle this manually (a no-go for a data-driven company like Keboola!). Plus we didn’t want to overload Tereza, our new colleague, with this tedious work and take away her weekends from her.
 
-On the opposite side, we definitely did not want to waste 10x time in the development of the system so we chose to practice what we preach applying the agile methodology: start small, build quick, fail fast and have the results in production from day one - slow Kaizen style improvement. We didn’t want to have someone write a custom app for us. We wanted to hack our current systems, prototype, fail fast and see where it would lead us. 
+On the opposite side, we definitely did not want to waste 10x time in the development of the system so we chose to practice what we preach applying the agile methodology: start small, build quick, fail fast and have the results in production from day one - slow Kaizen style improvement. We didn’t want to have someone write a custom app for us. We wanted to hack our current systems, prototype, fail fast and see where it would lead us.
 
 **Starting point: our “budget” was 3-4 mandays max!**
 
@@ -43,7 +46,7 @@ _Keboola Generic extractor config for getting clients’ info from Fakturoid int
 
 There was only one more thing to know. Who is supposed to pay for what and when? We store this info in our Google Spreadsheet. It contains basic info about our clients, the services they use, the price they pay for them, the invoicing period (yearly, quarterly, monthly), and the time period for which the info is valid (when their contract is valid; new contract/change = new row). To be able to pair the tables easily, we added a new column with the Fakturoid client ID.
 
-Finally, we set up our [Google Drive Extractor](https://help.keboola.com/tutorial/load/googledrive/) and loaded the data into Keboola Connection. Once we had all the data there, we used SQL to create a Transformation that took everything necessary from the tables (who we bill this month, how much, if out of country = don’t put VAT, add info about current exchange rate, etc.) and created clean output tables. Everything in one place. 
+Finally, we set up our [Google Drive Extractor](https://help.keboola.com/tutorial/load/googledrive/) and loaded the data into Keboola Connection. Once we had all the data there, we used SQL to create a Transformation that took everything necessary from the tables (who we bill this month, how much, if out of country = don’t put VAT, add info about current exchange rate, etc.) and created clean output tables. Everything in one place.
 
 ![](https://lh3.googleusercontent.com/QTAa4B1kVEjO3ox5KyrbQo1MiTD3e4XeRBiD23Lt1uB88bzZxRSDKnwYpLCrO4s-ZZtXKiVsN97Bf9kurdJr65nrYYQQprwRsAzAr5mmfFh0sqNHwZTT6zNYENLgnqHec26vyylo =624x495)
 
@@ -63,7 +66,7 @@ It was the easiest part. We used our [Orchestration](https://help.keboola.com/or
 
 Automating the tasks that are repetitive and time-consuming for your team should not be complicated. We believe in splitting big problems into smaller pieces, solving the small parts and putting them back together just like Lego bricks. The process should be easy, fast, open and put together from self-contained components. So when you have a problem in one part, it doesn’t affect the whole solution and you can easily fix it.
 
-Saving our colleague’s time, enabled her to spend time on more interesting things. And the process scales as we grow. The focus should be turned on more meaningful tasks that bring additional value to the company. Optimising the efficiency is key in this new “data-driven” era and we cannot afford to spend time on tasks that can be automated. 
+Saving our colleague’s time, enabled her to spend time on more interesting things. And the process scales as we grow. The focus should be turned on more meaningful tasks that bring additional value to the company. Optimising the efficiency is key in this new “data-driven” era and we cannot afford to spend time on tasks that can be automated.
 
 **_What we spent?_**
 
