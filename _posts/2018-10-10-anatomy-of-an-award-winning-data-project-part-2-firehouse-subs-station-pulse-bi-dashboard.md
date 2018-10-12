@@ -4,12 +4,17 @@ title: 'Anatomy of an Award Winning Data Project Part 2: Firehouse Subs Station 
 layout: post
 categories: customer-stories
 date: 2018-10-10 00:00:00 +0000
-perex: ''
+perex: 'Not one, but two of our customers won big fancy awards for the work we did
+  together. The concept of a data-driven organization has been discussed and proposed
+  as an ideal for a while now, but how we define and identify those organizations
+  is certainly still up for debate. '
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (4)-1.png"
 coverphoto_slider: "/uploads/Untitled design (5)-1.png"
 
 ---
+### Anatomy of an Award Winning Data Project Part 2: Firehouse Subs Station Pulse BI Dashboard
+
 by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
 
 [![](https://lh6.googleusercontent.com/WiOkM9BtzRI_vfiel1ciIXtFKXBG74soVq4GyNDHRIerU0a97SvByZGyuYDe9tyXPi7D3u4lspHlYGEs_n12V4xXlNwDQkW7SqExOsymqQTfC2tc97h5eiV8Os5Xm47u11z3e_aF =480x320)](http://blog.keboola.com/author/20616)
