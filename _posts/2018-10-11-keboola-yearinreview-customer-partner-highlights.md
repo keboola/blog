@@ -3,7 +3,11 @@ title: 'Keboola #YearInReview: Customer & Partner Highlights'
 layout: post
 categories: product
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: It’s been quite an exciting year for us here at Keboola and the biggest reason
+  for that is our fantastic network of partners and customers -- and of course a huge
+  thanks to our team!  In the spirit of the season, we wanted to take a quick stroll
+  down memory lane and give thanks for some of the big things we were able to be a
+  part of and the people that helped us make them happen!
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
