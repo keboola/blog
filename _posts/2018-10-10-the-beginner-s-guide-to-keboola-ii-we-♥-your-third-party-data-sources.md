@@ -3,15 +3,17 @@ title: 'The Beginner’s Guide To Keboola II: How It Works'
 layout: post
 categories: product
 date: 2018-10-10 00:00:00 +0000
-perex: ''
+perex: A boss with GoodData, who is lounging on a beach half a world away, knows more
+  than any boss present at work without it.
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (8).png"
 coverphoto_slider: "/uploads/images.jpeg"
 
 ---
+## The Beginner’s Guide To Keboola II: How It Works
+
 You already know that Keboola can process your data in such a way that [it makes sense and that it is of value to you](http://blog.keboola.com/the-beginners-guide-to-keboola). This time we shall go a little deeper and show you how it is done in practice.
 
-  
 Let’s say you're the owner of **a chain of coffee shops**. You wish to expand your business and at the same time you would like to figure out where you are losing money. You have lots of data from your **POS system** and of course your **accounting software**.
 
 This is where Keboola steps in.
@@ -26,10 +28,10 @@ We will create for your data **a model with a clear structure** in the [Keboola 
 
 But the model wants to eat – the model wants **to be fed data**. Which, will come mostly from these four main sources:
 
-1. If you run your **own database**, we will connect to it remotely and process all the necessary data. 
-2. If your data is **scattered in multiple systems or locations**, we will tell you exactly how to connect the dots with our interface. 
-3. Do you wish to **relate your data** from cafe sales with your website traffic from Google Analytics data? Or with population using open data from your city hall in each city and neighbourhood? We can do it for you! 
-4. **Historical data** is not a problem either. (Yeah, we're talking about the 10 -year-old Excel sheet with sales data). All you have to do is keep its structure. 
+1. If you run your **own database**, we will connect to it remotely and process all the necessary data.
+2. If your data is **scattered in multiple systems or locations**, we will tell you exactly how to connect the dots with our interface.
+3. Do you wish to **relate your data** from cafe sales with your website traffic from Google Analytics data? Or with population using open data from your city hall in each city and neighbourhood? We can do it for you!
+4. **Historical data** is not a problem either. (Yeah, we're talking about the 10 -year-old Excel sheet with sales data). All you have to do is keep its structure.
 
 #### A short wait for the first report
 
@@ -39,7 +41,7 @@ Once you’ve had your first dose of satisfaction, we guarantee you that you wil
 
 **A boss with GoodData, who is lounging on a beach half a world away, knows more than any boss present at work without it.**
 
-Now, if you wish, you can sit under a beach umbrella in Honolulu with a tablet and every five minutes you can check just how much money you are making. 
+Now, if you wish, you can sit under a beach umbrella in Honolulu with a tablet and every five minutes you can check just how much money you are making.
 
 You will notice that the people who were served by Olivier **never came back** to your cafe.
 
