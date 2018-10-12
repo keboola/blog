@@ -15,7 +15,7 @@ coverphoto_slider: "/uploads/keboola_facebook.png"
 
 "_The whole thing is a bit complicated_…" started Vojta, one of Keboola’s consultants, over an English breakfast in the coffee shop with the best coffee in Prague. He was right. **It was complicated**. But a few hours (and a pint of coffee) I got pretty good idea what was going on. Here, I will try to relay it to you.
 
-**Intro**: Companies today often have enough data to get completely lost in it and it is unfathomable to put it into context and extract any useful meaning. Even if they can, there are high costs associated with time and money.
+> **Intro**: Companies today often have enough data to get completely lost in it and it is unfathomable to put it into context and extract any useful meaning. Even if they can, there are high costs associated with time and money.
 
 ### Finding the gold in the data
 
