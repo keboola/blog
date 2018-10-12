@@ -3,12 +3,15 @@ title: Webhooks and KBC - How to trigger orchestration by form submission (Typef
 layout: post
 categories: how-to
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: 'In this article learn how to trigger orchestration by form submission via
+  a use case. '
 user: ''
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
+## Webhooks and KBC - How to trigger orchestration by form submission (Typeform)
+
 by [Martin Fiser](http://blog.keboola.com/author/22817)
 
 [![Triggering KBC orchestration with webhook](https://lh3.googleusercontent.com/3YK5Pewy5jMCW5duTJlQqVJSbjhr0w6zbga11TqPj5Z9JrT3Zg_mnjyn3KbvmrhR2ZuoQN_vGM1iy_0K-Qw-fTOEGjWQxofztMLZFhuS0gKAjv-rPslHR-xJr91yJ4RwKhtzK7mI "Image: https://bytebucket.org/VFisa/kbc_blog_posts/raw/38feaa35936421b4ff9e1b5ef1cb48cee669c424/Webhook%20automation/images/intro_logo.png" =624x160)](http://blog.keboola.com/author/22817)
@@ -37,9 +40,9 @@ And what it should do:
 
 ![Typeform action](https://lh6.googleusercontent.com/vSqGGtEmNtLJXibJCiChOaCp2moJyEr4ANXhDh3OieOpnStPfbczaBDi2qBKwGDce4amHU1LyD9tb2xmZ61B78HIsmHyH0Q0OA_GaLmeTMbqVnWxZpl9WLEPuwm9N-HFTcjkOEYg =624x415)
 
-The webhook is simply a conversion of orchestration [API call](http://docs.keboolaorchestratorv2api.apiary.io/). 
+The webhook is simply a conversion of orchestration [API call](http://docs.keboolaorchestratorv2api.apiary.io/).
 
-  ![Webhook configuration](https://lh4.googleusercontent.com/l-vQQrSNWRBf0SdaOhoY4hirexNH6VARRp2u0QJuwai3769IH5XM3ODDhO5jG5nYHgbcqMjcbt52kuO2IXzg2yRAVreo9SFvR0_UYbMCAZ2mAQc_dgxOYGH17tJjb5n41UZ8W3Rb =624x1089)
+![Webhook configuration](https://lh4.googleusercontent.com/l-vQQrSNWRBf0SdaOhoY4hirexNH6VARRp2u0QJuwai3769IH5XM3ODDhO5jG5nYHgbcqMjcbt52kuO2IXzg2yRAVreo9SFvR0_UYbMCAZ2mAQc_dgxOYGH17tJjb5n41UZ8W3Rb =624x1089)
 
 Here is the full flow:
 
