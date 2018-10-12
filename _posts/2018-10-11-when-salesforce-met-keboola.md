@@ -3,7 +3,11 @@ title: When Salesforce met Keboola
 layout: post
 categories: product
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: 'Along with being the world’s #1 CRM, Salesforce provides an end-to-end platform
+  to connect with your customers including Marketing Cloud to personalize experiences
+  across email, mobile, social, and the web, Service Cloud to support customer success,
+  Community Cloud to connect customers, partners and employees and Wave Analytics
+  designed to unlock the data within.'
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
