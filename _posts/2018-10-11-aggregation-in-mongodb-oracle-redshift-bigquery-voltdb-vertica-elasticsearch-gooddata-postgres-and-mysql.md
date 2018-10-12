@@ -4,7 +4,8 @@ title: Aggregation in MongoDB, Oracle, Redshift, BigQuery, VoltDB, Vertica, Elas
 layout: post
 categories: nerds
 date: 2018-10-11 00:00:00 +0000
-perex: ''
+perex: A comparison between MongoDB, Oracle, Redshift, BigQuery, VoltDB, Vertica,
+  Elasticsearch, GoodData, Postgres and MySQL
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
@@ -14,7 +15,7 @@ coverphoto_slider: ''
 
 by [Petr Šimeček](http://blog.keboola.com/author/4010)
 
-# "Executive Summary"
+### "Executive Summary"
 
 It kinda got out of my hands. It exploded...
 
