@@ -1,14 +1,18 @@
 ---
-title: 'The Beginner’s Guide To Keboola I: '
+title: The Beginner’s Guide To Keboola
 layout: post
 categories: product
 date: 2018-10-10 00:00:00 +0000
-perex: ''
+perex: Companies today often have enough data to get completely lost in it and it
+  is unfathomable to put it into context and extract any useful meaning. Even if they
+  can, there are high costs associated with time and money.
 user: ''
 coverphoto: "/uploads/Untitled design (9).png"
 coverphoto_slider: "/uploads/keboola_facebook.png"
 
 ---
+## The Beginner’s Guide To Keboola
+
 "_The whole thing is a bit complicated_…" started Vojta, one of Keboola’s consultants, over an English breakfast in the coffee shop with the best coffee in Prague. He was right. **It was complicated**. But a few hours (and a pint of coffee) I got pretty good idea what was going on. Here, I will try to relay it to you.
 
 **Intro**: Companies today often have enough data to get completely lost in it and it is unfathomable to put it into context and extract any useful meaning. Even if they can, there are high costs associated with time and money.
