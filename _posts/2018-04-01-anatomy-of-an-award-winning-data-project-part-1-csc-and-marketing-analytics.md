@@ -3,7 +3,11 @@ title: 'Anatomy of an Award Winning Data Project Part 1: CSC and Marketing Analy
 layout: post
 categories: customer-stories
 date: 2018-04-01 10:37:52 +0000
-perex: ''
+perex: Here at Keboola, we take pride in working closely with partners and customers
+  ensuring that each project is a success. Typically we’re there from the beginning
+  - to understand the problem the client needs to solve; to help them define the scope
+  and timeline of the implementation; to provide the necessary resources to get buy
+  in from the rest of their team.
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (1).png"
 coverphoto_slider: "/uploads/Untitled design (2).png"
