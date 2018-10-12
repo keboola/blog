@@ -3,8 +3,8 @@ title: Webhooks and KBC - How to trigger orchestration by form submission (Typef
 layout: post
 categories: how-to
 date: 2018-10-11 00:00:00 +0000
-perex: 'In this article learn how to trigger orchestration by form submission via
-  a use case. '
+perex: In this article learn how to trigger orchestration by form submission via a
+  use case.
 user: ''
 coverphoto: ''
 coverphoto_slider: ''
