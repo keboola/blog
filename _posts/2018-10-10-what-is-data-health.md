@@ -3,12 +3,16 @@ title: What is data health and why it is critical for your business
 layout: post
 categories: product
 date: 2018-10-10 00:00:00 +0000
-perex: ''
+perex: Check your data health. Why it is essential for great reports and better predictions?
+  Clean data is particularly crucial for CRM, ERP, sales and IT systems with customer
+  data.
 user: pavel-dolezal
 coverphoto: "/uploads/Untitled design (5).png"
 coverphoto_slider: "/uploads/SMAC-healthcare-1.jpg"
 
 ---
+## What is data health and why it is critical for your business
+
 The basics of a great data insight or data visualization is a combination of good, clean data into a single solution architecture. Whether the goal is understanding lifetime value, designing up-sell and cross-sell strategies, defining personas, or developing sophisticated data models, having clean and consolidated data to match the speed of business moments will empowers your team with better analytics, improved marketing campaigns performance and maximised marketing ROI.
 
 Clean data is particularly crucial for CRM, ERP, sales and IT systems with customer data. Having a proper planning and cleansing of your customer data from the beginning will keep you from falling behind on your CRM implementation. Your data needs to be reviewed, filtered and cleaned to ensure that bogus data is not transferred. The cost to the business of processing errors can be evaluated from the time spent on manual troubleshooting, forced ETL re-runs and at worst, representing incorrect or invalid data to the customers or employees to drive their business decisions.
@@ -19,7 +23,7 @@ Clean data is particularly crucial for CRM, ERP, sales and IT systems with custo
 >
 > _Let us help you check your Data Health._
 
- [_Get in touch_](mailto:info@keboola.com)
+[_Get in touch_](mailto:info@keboola.com)
 
 It is safe to say that the majority of data flows have set of expected data types defined and very often the value range as well.
 
@@ -27,18 +31,16 @@ _The solution?_
 
 A way of getting around this is to use SQL or Python transformations but such hard coded configuration or approach can be very time-consuming and it is lacking of the flexibility or simplicity to be reused. Additionally, it would not be obvious which rows and columns include rogue values until these transformations run into an error (or you would have to design a specific workflow to off-load them.)
 
-Another option for you to consider is to describe the data and set up value and type conditions for it in the form of rules. Once that’s done, all you need to do is make sure data flows include rules that check every time you run the orchestration (ETL process). Given its importance, having something at hand like [Data Health App](https://components.keboola.com/components/leochan.datahealth) within Keboola has been designed to help you automate this data check process. 
+Another option for you to consider is to describe the data and set up value and type conditions for it in the form of rules. Once that’s done, all you need to do is make sure data flows include rules that check every time you run the orchestration (ETL process). Given its importance, having something at hand like [Data Health App](https://components.keboola.com/components/leochan.datahealth) within Keboola has been designed to help you automate this data check process.
 
 > Typical use cases:
 >
 > * Ensuring data quality from systems with data collected by users (internal IT systems, CRM, user forms, etc.)
 > * Migrating data from legacy systems - data migration assumptions vs. reality check
 > * Validating crucial fields for report buildup
->
->
 > * Validating location data (store locations and customer locations) to drive contextual marketing ([How healthy is your location data?](https://searchenginewatch.com/sew/how-to/2439015/how-healthy-is-your-location-data))
 
-Are any of the use cases from the above applying to your company? Test the Data Health Application by getting [in touch with us](mailto:info@keboola.com). 
+Are any of the use cases from the above applying to your company? Test the Data Health Application by getting [in touch with us](mailto:info@keboola.com).
 
 #### Keboola Data Health Application
 
