@@ -16,7 +16,7 @@ The rapid evolution in business intelligence and analytics capabilities is both 
 
 ![](/uploads/criticalArticle.jpg)
 
-> ###### _How do you protect the stability of the work you’ve already done, while evangelizing experimentation, exploration and progress within your organization?_
+> ## How do you protect the stability of the work you’ve already done, while evangelizing experimentation, exploration and progress within your organization?
 
 We’ve got a few tips for you.
 
