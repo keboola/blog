@@ -41,7 +41,7 @@ Using solely Administrative Interface, each manager had their own set of statist
 
 Keboola were the ones who contacted us! Their solutions appealed to me immediately. I was eager to start cooperating with them, as soon as my initial in-house changes at Lekárna.cz were implemented.
 
-**What was the m**![](/uploads/image 1.png)**ost difficult aspect of introducing the data changes?**
+**What was the most difficult aspect of introducing the data changes?**
 
 There were certain things we didn’t have to deal with as a small e-commerce site, but once we grew these things became important. As our original system only took into account the rudimentary figures, we had to start incorporating more sophisticated data sets. At the same time, it was necessary to conglomerate all of our data and ensure that all employees were working off the same facts.
 
