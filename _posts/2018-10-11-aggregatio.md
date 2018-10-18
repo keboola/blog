@@ -2,21 +2,19 @@
 title: Facebook Prophet - Forecasting library
 layout: post
 categories: nerds
-date: 2018-10-11 00:00:00 +0000
+date: 2017-03-02 14:51:02 +0000
 perex: Not all forecasting problems can be solved by the same procedure. Prophet is
   optimized for the business forecast tasks we have encountered at Facebook.
-user: ''
+user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-## Facebook Prophet - Forecasting library
-
 by [Martin Fiser](http://blog.keboola.com/author/22817)
 
 It all started yesterday morning when I saw multiple tweets mentioning a new forecasting library published on my way to work:
 
-![tweet](https://lh3.googleusercontent.com/LrtLKxTtt3TbRZlWAMOA8w3nYzKZrynWG0nZf-xImRT9He-1Yae8Oxe44K9tzVkPK5XWrPbnaXUwzMf_Eao0RwUKIf0fFq_SpqLgNVMWWL9DUtboKhA6XhmZYOia3VFtTDUsJlYg "Image: https://bytebucket.org/VFisa/kbc_blog_posts/raw/245c7aa257d6c3a2b44fa1f098ff44dd29e9f0e5/Expandability%20-%20FB%20Prophet/images/tweet_03.jpeg" =413x571)
+![](/uploads/forecasting1.jpg)
 
 Sounds interesting, I thought. I bookmarked the link for “weekend fun with code” and moved on. The minute I stepped in the office, Amazon S3 had an outage (coincidence?) which impacted half of the internet and KBC as well. Ok, what can i do now then?
 
@@ -32,11 +30,11 @@ The algorithm requires two columns, the date and value column. The current scrip
 
 This is how it looks like in the Keboola:
 
-![custom](https://lh4.googleusercontent.com/qooAwmzQich5pE01qqLlXhinV_eDk0OPWtZN1eidAFWfoeTxZWVROdDXe7uWK_XjuVX6qEYI2HB-skEQ71HwOnt0jWwpcqlr7YoPkgTzTASTKI2Sicjd8-ocJALsplaBnMOGJBGr =624x684)
+![](/uploads/forecasting2.jpg)
 
 To see the output in a visual form, I used Jupyter, which has been [recently integrated within KBC](http://status.keboola.com/call-for-testers-rstudio-and-jupyter-sandboxes). Not bad for a day’s work, what do you say?
 
-![chartpng](https://lh3.googleusercontent.com/pWValO5b7Kj11O4OIH3DxQ17o_WvUgUET8Hve6QTTVQ5SuURXA5lp5t6iycfScNx6o4TFwIcIB3Xv_VpYWZuJVCWfJDde7oWSkPnUB8fL94Du9wncPKxP1Pbb7_0XDtvM5Rx5Tac =624x257)
+![](/uploads/forecasting3.jpg)
 
 Just imagine how easy it would be for our users to orchestrate the forecasting process:
 
@@ -45,7 +43,7 @@ Just imagine how easy it would be for our users to orchestrate the forecasting p
 3. Enrich data by forecasted values
 4. Publish them to sales and marketing teams
 
-![orchestrationpng](https://lh5.googleusercontent.com/KbWrezbuezOLgBXXIDoKpwaHpEbDqUCrS5ywxDvo43R9uUkYyoz9y8yhnpC0iilqQQVUee2jmoAW_RrieLbf_nOkCcopv8ElarhVYgOGgVpCcrhIJWejCMia6-6kXJyYZUlpRkkD =624x404)
+![](/uploads/forecasting4.jpg)
 
 ### _Notes:_
 
