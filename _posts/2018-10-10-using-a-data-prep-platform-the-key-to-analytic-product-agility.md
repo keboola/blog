@@ -2,16 +2,14 @@
 title: 'Using a Data Prep Platform: The Key to Analytic Product Agility'
 layout: post
 categories: product
-date: 2018-10-10 00:00:00 +0000
+date: 2016-02-29 12:38:48 +0000
 perex: 'For a product owner, one of the biggest fears is that the product you''re
   about to launch won''t get the necessary adoption to achieve success. '
-user: ''
-coverphoto: "/uploads/Untitled design (6).png"
-coverphoto_slider: "/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg"
+user: pavel-dolezal
+coverphoto: ''
+coverphoto_slider: "/uploads/bricks.jpg"
 
 ---
-## Using a Data Prep Platform: The Key to Analytic Product Agility
-
 **_Guest post_** _by Kevin Smith_
 
 For a product owner, one of the biggest fears is that the product you're about to launch won't get the necessary adoption to achieve success. This might happen for a variety of reasons— two of the most common are a lack of fit to the customers' needs and confusing design (it's just too hard to use!).
@@ -29,8 +27,6 @@ Recently I started working on the analytics strategy for a small start-up firm f
 > None of this seemed to be impossible. I've worked on many data products with similar goals and constraints. Product teams always want to have a platform that's cost-effective, doesn't strain the technical capabilities of the organization, is flexible, and is launched sooner rather than later. It was only after a few more conversations that the problem arose: uncertain data sources.
 
 Most data-driven products work like this: you've got a workflow application such as a help desk application or an ordering system that generates data into a database that you control. You know what data is flowing out of the workflow application and therefore, you understand the data that is available for your analytics. You connect to your database, transform the data into an analytics-ready state, then display the information in analytics on a dashboard. The situation here was different. As a services company, this business had to operate in a technology environment dictated by the customer. Some customers might use Salesforce, some might use Sugar CRM. Still others might use Zoho or one of the myriad other CRM platforms available. Although the team would structure the dashboards and analytics based on their best practices and unique methodology, the data driving the analytics product would differ greatly from customer to customer.
-
-![Different data sources create a messy environment for analysts to work with](/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg "Lego data")
 
 Large numbers of data sources equals an implementation nightmare.
 
