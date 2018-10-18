@@ -58,6 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-11-snowflake.md
 - _posts/heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md
 - _posts/integrating-50-marketing-data-sources.md
 - _posts/heroes-at-liftago.md
@@ -71,7 +72,6 @@ pages:
 - _posts/2018-10-11-gorila-mobil-data-driven-business.md
 - _posts/2018-10-11-how-we-hacked-vizable.md
 - _posts/2018-10-11-please-hold-your-call-is-important.md
-- _posts/2018-10-11-snowflake.md
 - _posts/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.md
 - _posts/2018-10-11-keboola.md
 - _posts/2018-10-11-mcpen.md

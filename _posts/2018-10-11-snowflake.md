@@ -2,7 +2,7 @@
 title: Snowflake vs. Redshift backend speed comparison
 layout: post
 categories: nerds
-date: 2018-10-11 00:00:00 +0000
+date: 2016-09-19 14:06:15 +0000
 perex: At the same time as the announcement about default backend in KBC being shifted
   to Snowflake, I have started working on a new project. The customer pushed us the
   initial dump of two main tables (10M rows each) and some other small attribute tables.
