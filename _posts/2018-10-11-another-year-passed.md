@@ -2,7 +2,7 @@
 title: Another year passed
 layout: post
 categories: product
-date: 2017-12-11 15:16:52 +0000
+date: 2014-11-23 15:16:52 +0000
 perex: 'Petr at Keboola celebrating 5 years of partnership with GoodData, listing
   the highlights of this collaboration together with the latest news within the company. '
 user: pavel-dolezal
