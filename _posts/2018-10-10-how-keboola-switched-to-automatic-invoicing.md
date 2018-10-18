@@ -7,7 +7,7 @@ perex: Automating the invoicing process to cut down up to 2-3 mandays per month.
   goal was clear. But how did we do it?
 user: pavel-dolezal
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/invoicing.jpg"
 
 ---
 Assisting clients with data and automation is our specialty here at Keboola, with the mission of helping businesses become “data-driven.” Several months ago it was our turn to put in moto our own engines and build an automated workflow for our invoicing process. After we lost our two main finance wizards to the joys of childcare, we decided to go on the automated road ourselves for our internal business processes.
