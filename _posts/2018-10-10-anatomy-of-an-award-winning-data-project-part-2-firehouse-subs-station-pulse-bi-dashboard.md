@@ -9,23 +9,19 @@ perex: 'Not one, but two of our customers won big fancy awards for the work we d
   as an ideal for a while now, but how we define and identify those organizations
   is certainly still up for debate. '
 user: pavel-dolezal
-coverphoto: "/uploads/Untitled design (4)-1.png"
-coverphoto_slider: "/uploads/Untitled design (5)-1.png"
+coverphoto: ''
+coverphoto_slider: "/uploads/firehouse.jpg"
 
 ---
-### Anatomy of an Award Winning Data Project Part 2: Firehouse Subs Station Pulse BI Dashboard
-
-by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
-
-[![](https://lh6.googleusercontent.com/WiOkM9BtzRI_vfiel1ciIXtFKXBG74soVq4GyNDHRIerU0a97SvByZGyuYDe9tyXPi7D3u4lspHlYGEs_n12V4xXlNwDQkW7SqExOsymqQTfC2tc97h5eiV8Os5Xm47u11z3e_aF =480x320)](http://blog.keboola.com/author/20616)
+by Kasey Jones Tonsfeldt
 
 As we reported in our previous post, we are still beaming with pride, like proud parents at a little league game or a dance recital. Not one, but two of our customers won big fancy awards for the work we did together. The concept of a data-driven organization has been discussed and proposed as an ideal for a while now, but how we define and identify those organizations is certainly still up for debate. We’re pretty confident that these two customers in question - [Computer Sciences Corporation (CSC)](http://www.csc.com/) and [Firehouse Subs](http://www.firehousesubs.com/) - would be prime contenders. These awards highlight their commitment to go further than their industry counterparts to empower employees and franchisees to leverage data in new and exciting ways.
+
+![](/uploads/firehouse1.jpg)
 
 If you missed last week’s post with CSC’s Chris Marin, check it out [here](https://www.linkedin.com/in/christopher-marin-7792474). Today, let’s learn more about Firehouse Subs award winning project. In case you don’t know much about Firehouse Subs, let me bring you up to speed. The sandwich chain started in 1994 and as of March 2016 has more than 960 locations in 44 states, Puerto Rico and Canada. Firehouse Subs is no stranger to winning awards, either. In 2006, KPMG named them “Company of the Year” and they’ve been recognized for their commitment to community service and public safety as well through Firehouse Subs Public Safety Foundation®, created in 2005.
 
 Now let’s hear from our project champion and our main ally at Firehouse Subs, [Director of Reporting and Analytics, Danny Walsh](https://www.linkedin.com/in/dwalsh79).
-
-![](/uploads/danny firehouse.001.jpg)
 
 Here are the stats:
 
