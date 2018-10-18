@@ -1,35 +1,27 @@
 ---
-title: 'Anatomy of an Award Winning Data Project Part 1: CSC and Marketing Analytics'
+title: CSC and Marketing Analytics
 layout: post
 categories: customer-stories
 date: 2018-04-01 10:37:52 +0000
-perex: Here at Keboola, we take pride in working closely with partners and customers
-  ensuring that each project is a success. Typically we’re there from the beginning
-  - to understand the problem the client needs to solve; to help them define the scope
-  and timeline of the implementation; to provide the necessary resources to get buy
-  in from the rest of their team.
+perex: Anatomy of an Award Winning Data Project Part 1
 user: pavel-dolezal
-coverphoto: "/uploads/Untitled design (1).png"
-coverphoto_slider: "/uploads/Untitled design (2).png"
+coverphoto: ''
+coverphoto_slider: "/uploads/csc.jpg"
 
 ---
-### Anatomy of an Award Winning Data Project Part 1: CSC and Marketing Analytics
-
 by Kasey Jones Tonsfeldt
 
 Here at Keboola, we take pride in working closely with partners and customers ensuring that each project is a success. Typically we’re there from the beginning - to understand the problem the client needs to solve; to help them define the scope and timeline of the implementation; to provide the necessary resources to get buy in from the rest of their team; to offer alternative perspectives and options when mapping out the project; and to be their ally and guide throughout every step of the process. With all that work, all that dedication, it turns out we develop quite a soft spot for both our clients and their projects.
 
-We’ve got skin in the game, so when one of our clients receives an award because of the project we worked on together, we get pretty excited. And when two clients receive an award because of our work together, well, then we’re downright ecstatic and ready to celebrate!
+![](/uploads/cscArticle1.jpg)
 
-![Award winning customer](https://lh5.googleusercontent.com/d2q4Fg_nh4iHBkLM31z8qePZ6ZxDwdDqkDfAjEAWc3cIWENSg_WGiBgsTe65PUdNeUqgWnMtQNcZfy5OisZM9Jj3p2DhfpPK9jP_3H9bjToliETm-GR5yFAAJN52s1dQEwfo1Zjz "Keboola winning awards" =624x468)
+We’ve got skin in the game, so when one of our clients receives an award because of the project we worked on together, we get pretty excited. And when two clients receive an award because of our work together, well, then we’re downright ecstatic and ready to celebrate!
 
 At the end of 2015, two customers were honoured for their commitment to data innovation. **Firehouse Subs®** was awarded the Hospitality Technology Innovation Award and the digital marketing team at **Computer Science Corporation** (CSC) for the ITSMA Diamond Marketing Excellence Award.
 
 Since new partners and clients often ask us to explain what components and environment cultivate a successful data project, we thought we’d take this exceptional opportunity to ask our customers themselves: [_Danny Walsh_](https://www.linkedin.com/in/dwalsh79)_, Director of Reporting and Analytics, Firehouse Sub_s and_ [_Chris Marin_](https://www.linkedin.com/in/christopher-marin-7792474), Senior Principal, Digital Marketing Platform & Analytics, CSC_.
 
 For those of you that don’t know, CSC is a company that actually helps its customers make their own journey to data innovation. To learn more about what they do, check out this awesome infographic they put together.
-
-![](https://lh3.googleusercontent.com/Lmnjjt0wW3R6JEnQbibpgd6eybpIncvKQjPns6Whv1qinPu5XHXSQgs1CJlgZ5dPNgCC9HfDj8h_jCtQ370GMIbv0KdEcPkmT-7ii5ij1zGdCgtP3wHMZWIkCJ_kdmf-SIim-gE8 =436x873)
 
 As you might imagine, given CSC’s business, it’s pretty critical that they use their own software and maintain focus on their own innovation. We’re proud to be a part of that journey.
 
