@@ -37,6 +37,8 @@ When the money started to dwindle, we knew we had to dig deep for better solutio
 
 Using solely Administrative Interface, each manager had their own set of statistics from which they drew data. This basic approach lead to a distortion of figures company-wide figures, since they were not drawn from the same database. There were around 15 interpretations of gross margin floating around simultaneously and it became clear that an improved system was required so that we could take a big step forward with our data collection and analysis.
 
+![](/uploads/lekarnaArticle2.jpg)
+
 **So you contacted Keboola to help with the data?**
 
 Keboola were the ones who contacted us! Their solutions appealed to me immediately. I was eager to start cooperating with them, as soon as my initial in-house changes at Lekárna.cz were implemented.
