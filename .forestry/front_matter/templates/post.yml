@@ -58,6 +58,9 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md
+- _posts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md
+- _posts/2018-10-11-gorila-mobil-data-driven-business.md
 - _posts/2018-10-11-how-we-hacked-vizable.md
 - _posts/2018-10-11-please-hold-your-call-is-important.md
 - _posts/2018-10-11-snowflake.md
@@ -74,14 +77,11 @@ pages:
 - _posts/2018-10-11-when-salesforce-met-keboola.md
 - _posts/2018-10-11-asana.md
 - _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
-- _posts/2018-10-11-gorila-mobil-data-driven-business.md
 - _posts/2018-10-11-aggregatio.md
-- _posts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md
 - _posts/2018-10-11-empowering.md
 - _posts/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.md
 - _posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md
 - _posts/2018-10-11-three-critical.md
-- _posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md
 - _posts/2018-10-11-bi-modal.md
 - _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-keboola.md
