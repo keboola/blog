@@ -7,18 +7,14 @@ perex: We’ve recently experienced two fairly large system problems that have a
   approximately 35% of our clients.
 user: pavel-dolezal
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/holdTheLine.jpg"
 
 ---
 We’ve recently experienced two fairly large system problems that have affected approximately 35% of our clients.
 
 The first issue took 50 minutes to resolve and the other approximately 10 hours. The root cause in both cases was the way we handled the provisioning of adhoc sandboxes on top of our [SnowflakeDB](http://www.snowflake.net/) (a few words about "[how we started w/ them](http://blog.keboola.com/new-dose-of-steroids-in-the-keboola-backend)").
 
-![](https://lh6.googleusercontent.com/XhSDWGageKlm6GBFyxwIakUKFtF1SQhEJZ2qsAyiig_c6UKwb1cvLQCKimC852Yax3eN6l6LiyYDFfAJD4emAvjaMba1pDNtxkV5DvvNZOMYlc1kb_u8ZzR2rS06GUVcp73vvDQY =624x197)
-
-We managed to find a workaround for the first problem, but the second one was out of our hands.  All we could do was fill in a support ticket with Snowflake and wait. Our communication channels were flooded with questions from our clients and there was nothing we could do. Pretty close to what you would call a worst-case scenario.! Fire! Panic in Keboola!
-
-![](https://lh6.googleusercontent.com/K-zhs5bsf6uJWXMpeYDwsWeowtn75cppytIy00iXUnARsjymGOlcbYwU0rP-iH4v_1tJvp5-bn_QWGN-JTdpr_cMQm68VY5Kf7r1Dhv8SwwfwJXbK-D3rd_8fniG5mv-sE71eag5 =624x137)
+We managed to find a workaround for the first problem, but the second one was out of our hands.  All we could do was fill in a support ticket with Snowflake and wait. Our communication channels were flooded with questions from our clients and there was nothing we could do. Pretty close to what you would call a worst-case scenario! Fire! Panic in Keboola!
 
 My first thoughts were like: “Sh..t! What if we run the whole system on our own infrastructure, we could do something now. We could try to solve the issue and not have to just wait…”
 
