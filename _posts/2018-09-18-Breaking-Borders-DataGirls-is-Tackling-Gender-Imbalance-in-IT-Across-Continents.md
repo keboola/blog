@@ -6,7 +6,7 @@ date: 2018-09-18 00:00:00 +0000
 perex: ''
 user: pavel-dolezal
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/datagirls-1.jpg"
 
 ---
 DataGirls, a.k.a. SheLovesData, teaches women about data analysis through educational yet enjoyable workshops. The gender gap has long been an industry-wide issue, yet not enough companies are taking proactive steps to eradicate the problem at its core.  By making data exciting and engaging, Keboola is helping pave the way for women to enter IT at an early age.
