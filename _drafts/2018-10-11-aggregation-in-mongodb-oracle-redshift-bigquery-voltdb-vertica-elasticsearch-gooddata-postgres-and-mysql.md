@@ -11,8 +11,6 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-## Aggregation in MongoDB, Oracle, Redshift, BigQuery, VoltDB, Vertica, Elasticsearch, GoodData, Postgres and MySQL
-
 by [Petr Šimeček](http://blog.keboola.com/author/4010)
 
 ### "Executive Summary"
@@ -60,9 +58,9 @@ Two tests are being done:
 * **Test A** - perform the aggregation in years, and days within the year, where the number of entries, the daily average value and the maximum value are recorded
 * **Test B** - exactly the same as Test A, but  with an hour filter applied
 
-I’ve tried to replicate the conditions as much as possible, using Amazon Redshift, Google BigQuery, VoltDB, HP Vertica, Elasticsearch, GoodData, Postgres and MySQL. The purpose is not really to find who is the fastest; that’s why I don’t rely on having exactly the same conditions.  To be exact, Google BigQuery is “unknown hw” so it wouldn’t be possible anyway. I’m more interested in how difficult — and how easy — it is to get the same result when using these different platforms. I have tasked Redshift with doing 10x the same - 500.000.000 lines, but these are 10x repetitions of the same data set. In the GoodData example I’ve added some complications, so you can see how easy it is to work with. 
+I’ve tried to replicate the conditions as much as possible, using Amazon Redshift, Google BigQuery, VoltDB, HP Vertica, Elasticsearch, GoodData, Postgres and MySQL. The purpose is not really to find who is the fastest; that’s why I don’t rely on having exactly the same conditions.  To be exact, Google BigQuery is “unknown hw” so it wouldn’t be possible anyway. I’m more interested in how difficult — and how easy — it is to get the same result when using these different platforms. I have tasked Redshift with doing 10x the same - 500.000.000 lines, but these are 10x repetitions of the same data set. In the GoodData example I’ve added some complications, so you can see how easy it is to work with.
 
-And here are the results: 
+And here are the results:
 
 ### MongoDB
 
@@ -101,31 +99,31 @@ Exact query used:
 
 SELECT
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(dayofyear FROM created_at),
-
- 	COUNT(*),
-
- 	AVG(value),
-
- 	MIN(value),
-
- 	MAX(value)
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(dayofyear FROM created_at),
+    
+    COUNT(*),
+    
+    AVG(value),
+    
+    MIN(value),
+    
+    MAX(value)
 
 FROM RandomData
 
 GROUP BY
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(dayofyear FROM created_at)
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(dayofyear FROM created_at)
 
 ORDER BY
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(dayofyear FROM created_at);
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(dayofyear FROM created_at);
 
 Redshift dw1.xlarge (**15s**)
 
@@ -147,47 +145,47 @@ Used query:
 
 SELECT
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(DAYOFYEAR FROM created_at),
-
- 	EXTRACT(HOUR FROM created_at),
-
- 	COUNT(*),
-
- 	AVG(value),
-
- 	MIN(value),
-
- 	MAX(value)
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(DAYOFYEAR FROM created_at),
+    
+    EXTRACT(HOUR FROM created_at),
+    
+    COUNT(*),
+    
+    AVG(value),
+    
+    MIN(value),
+    
+    MAX(value)
 
 FROM RandomData
 
 WHERE
 
- 	created_at BETWEEN
-
- 	TIMESTAMP '2012-07-16 00:00:00'
-
- 	AND
-
- 	TIMESTAMP '2012-07-16 01:00:00'
+    created_at BETWEEN
+    
+    TIMESTAMP '2012-07-16 00:00:00'
+    
+    AND
+    
+    TIMESTAMP '2012-07-16 01:00:00'
 
 GROUP BY
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(dayofyear FROM created_at),
-
- 	EXTRACT(HOUR FROM created_at)
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(dayofyear FROM created_at),
+    
+    EXTRACT(HOUR FROM created_at)
 
 ORDER BY
 
- 	EXTRACT(YEAR FROM created_at),
-
- 	EXTRACT(dayofyear FROM created_at),
-
- 	EXTRACT(HOUR FROM created_at);
+    EXTRACT(YEAR FROM created_at),
+    
+    EXTRACT(dayofyear FROM created_at),
+    
+    EXTRACT(HOUR FROM created_at);
 
 Redshift dw1.xlarge (**1.3s**)(first run)
 
@@ -211,7 +209,7 @@ And the query plan, for those who love it :)
 
 ### Google BigQuery:
 
-You can communicate with BigQuery using REST API  or web interface. I’ve used the client inside the console running on the server. I had to download sample data onto my drive. 
+You can communicate with BigQuery using REST API  or web interface. I’ve used the client inside the console running on the server. I had to download sample data onto my drive.
 
 Necessary steps before the actual query:
 
@@ -239,27 +237,27 @@ The query:
 
 SELECT
 
-  YEAR(created_on) AS Year,
+YEAR(created_on) AS Year,
 
-  DAYOFYEAR(created_on) AS DayOfYear,
+DAYOFYEAR(created_on) AS DayOfYear,
 
-  COUNT(*) AS Count,
+COUNT(*) AS Count,
 
-  AVG(value) AS Avg,
+AVG(value) AS Avg,
 
-  MIN(value) AS Min,
+MIN(value) AS Min,
 
-  MAX(value) AS Max
+MAX(value) AS Max
 
 FROM \[rad.randomData\]
 
 GROUP BY
 
-  Year, DayOfYear
+Year, DayOfYear
 
 ORDER BY
 
-  Year, DayOfYear;
+Year, DayOfYear;
 
 **-- 7s (1.3GB)**
 
@@ -269,19 +267,19 @@ The query:
 
 SELECT
 
-  YEAR(created_on) AS Year,
+YEAR(created_on) AS Year,
 
-  DAYOFYEAR(created_on) AS DayOfYear,
+DAYOFYEAR(created_on) AS DayOfYear,
 
-  HOUR(created_on) AS Hour,
+HOUR(created_on) AS Hour,
 
-  COUNT(*) AS Count,
+COUNT(*) AS Count,
 
-  AVG(value) AS Avg,
+AVG(value) AS Avg,
 
-  MIN(value) AS Min,
+MIN(value) AS Min,
 
-  MAX(value) AS Max
+MAX(value) AS Max
 
 FROM \[rad.randomData\]
 
@@ -289,19 +287,19 @@ WHERE created_on >= '2012-07-16 00:00:00' AND created_on <= '2012-07-16 01:00:00
 
 GROUP BY
 
-  Year, DayOfYear, Hour
+Year, DayOfYear, Hour
 
 ORDER BY
 
-  Year, DayOfYear, Hour;
+Year, DayOfYear, Hour;
 
 **-- 2.9s / 1.6s (cached)**
 
 ### VoltDB
 
-I stumbled upon this database by chance (Q4/2013). They make [lots of claims](http://voltdb.com/products/key-features/), but I was surprised to find you can’t even extract the day of year from the time stamp; you’ve got to make a pre-processing and prepare the data for it. 
+I stumbled upon this database by chance (Q4/2013). They make [lots of claims](http://voltdb.com/products/key-features/), but I was surprised to find you can’t even extract the day of year from the time stamp; you’ve got to make a pre-processing and prepare the data for it.
 
-My “tour” of the VoltDB ended with me calling their support where VoltDB Solution Engineer named [Dheeraj Remella](https://www.linkedin.com/in/dremella) tried to help me (he was excellent!) and promised he would do the test for me. The actual email exchange took quite a while. 
+My “tour” of the VoltDB ended with me calling their support where VoltDB Solution Engineer named [Dheeraj Remella](https://www.linkedin.com/in/dremella) tried to help me (he was excellent!) and promised he would do the test for me. The actual email exchange took quite a while.
 
 Meanwhile, they managed to release version 4.0, which includes EXTRACT() function. Results follow:
 
@@ -315,25 +313,25 @@ Elapsed time: **1735.586 seconds**
 
 SELECT
 
- 	EXTRACT(YEAR FROM create_on_ts) AS Year,
-
- 	EXTRACT(DAY_OF_YEAR FROM create_on_ts) AS DayOfYear,
-
- 	COUNT(*) as groupCount,
-
- 	SUM(value) as totalValue,
-
- 	MIN(value) as minimumValue,
-
- 	MAX(value) as maximumValue
+    EXTRACT(YEAR FROM create_on_ts) AS Year,
+    
+    EXTRACT(DAY_OF_YEAR FROM create_on_ts) AS DayOfYear,
+    
+    COUNT(*) as groupCount,
+    
+    SUM(value) as totalValue,
+    
+    MIN(value) as minimumValue,
+    
+    MAX(value) as maximumValue
 
 FROM RandomData
 
 GROUP BY
 
- 	EXTRACT(YEAR FROM create_on_ts),
-
- 	EXTRACT(DAY_OF_YEAR FROM create_on_ts);
+    EXTRACT(YEAR FROM create_on_ts),
+    
+    EXTRACT(DAY_OF_YEAR FROM create_on_ts);
 
 **-- 70ms**
 
@@ -367,9 +365,9 @@ SET TIMEZONE 'UTC';
 
 CREATE TABLE RandomData_T (
 
-     created_on TIMESTAMP,
+created_on TIMESTAMP,
 
-     value DECIMAL(22,20)
+value DECIMAL(22,20)
 
 );
 
@@ -385,31 +383,31 @@ SELECT * FROM RandomData_T LIMIT 10;
 
 SELECT
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on),
+EXTRACT(doy FROM created_on),
 
-     COUNT(*),
+COUNT(*),
 
-     AVG(value),
+AVG(value),
 
-     MIN(value),
+MIN(value),
 
-     MAX(value)
+MAX(value)
 
 FROM RandomData_T
 
 GROUP BY
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on)
+EXTRACT(doy FROM created_on)
 
 ORDER BY
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on);
+EXTRACT(doy FROM created_on);
 
 \--  Time: First fetch (366 rows): **2068ms**
 
@@ -417,47 +415,47 @@ ORDER BY
 
 SELECT
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on),
+EXTRACT(doy FROM created_on),
 
-     EXTRACT(HOUR FROM created_on),
+EXTRACT(HOUR FROM created_on),
 
-     COUNT(*),
+COUNT(*),
 
-     AVG(value),
+AVG(value),
 
-     MIN(value),
+MIN(value),
 
-     MAX(value)
+MAX(value)
 
 FROM RandomData_T
 
 WHERE
 
-     created_on BETWEEN
+created_on BETWEEN
 
-     TIMESTAMP '2012-07-16 00:00:00'
+TIMESTAMP '2012-07-16 00:00:00'
 
-     AND
+AND
 
-     TIMESTAMP '2012-07-16 01:00:00'
+TIMESTAMP '2012-07-16 01:00:00'
 
 GROUP BY
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on),
+EXTRACT(doy FROM created_on),
 
-     EXTRACT(HOUR FROM created_on)
+EXTRACT(HOUR FROM created_on)
 
 ORDER BY
 
-     EXTRACT(YEAR FROM created_on),
+EXTRACT(YEAR FROM created_on),
 
-     EXTRACT(doy FROM created_on),
+EXTRACT(doy FROM created_on),
 
-     EXTRACT(HOUR FROM created_on);
+EXTRACT(HOUR FROM created_on);
 
 \--   Time: First fetch (2 rows): **26ms**
 
@@ -465,7 +463,7 @@ Jan used AWS instance type 4xlarge, approximately 30GB of RAM, SSD disks and 4x 
 
 ### Elasticsearch
 
-Around New Year I put a teaser about these tests on my Facebook, and [Karel Minarik](http://cz.linkedin.com/in/karelminarik) called me to say he would do this test in ElasticSearch. I was very excited, and here is the result. Executive Summary — it’s fast as hell! It’s quite complicated to get to the point when you can actually query, and it takes a while to import.  For me it is actually too difficult to achieve it thanks to lots of Ruby code. 
+Around New Year I put a teaser about these tests on my Facebook, and [Karel Minarik](http://cz.linkedin.com/in/karelminarik) called me to say he would do this test in ElasticSearch. I was very excited, and here is the result. Executive Summary — it’s fast as hell! It’s quite complicated to get to the point when you can actually query, and it takes a while to import.  For me it is actually too difficult to achieve it thanks to lots of Ruby code.
 
 Karmi's results are [here](http://goo.gl/A3j1Up).
 
@@ -477,7 +475,7 @@ Aggregation + filter: **10ms**
 
 Sure, it does not try to tackle the milliseconds differences, but there is no match for its ease-of-use when producing results.
 
-I uploaded data from S3 into Keboola Connection (about as difficult as sending an email with an attachment). I told the Keboola Connection how to import it into GoodData. The preparation inside the GoodData project is very simple — I’ve appointed the first column as date (with time) and the second to be a number. 
+I uploaded data from S3 into Keboola Connection (about as difficult as sending an email with an attachment). I told the Keboola Connection how to import it into GoodData. The preparation inside the GoodData project is very simple — I’ve appointed the first column as date (with time) and the second to be a number.
 
 ![](https://lh3.googleusercontent.com/LhBKqVvFcqiqZkijNPq69thPnG34RV7QnWt8Yhrn3aA2iJkiEnaogMDihL6Z0yEr4cCIdHLPL-ME2_R8UY79nXHdYtFjhUtRIRBDgYrV_wnjjd37g9ubEX_o28QmWzjNyhHtxqeu =624x111)
 
@@ -498,9 +496,9 @@ and you "look at them” through the year, and the day in the year.
 
 To conclude the second test you just add the filters.
 
-Both of the tests are in the screencast below. The footage is not edited on YouTube, and you can see how instinctive and fast it is. Yes, it’s possible to measure the time it takes to calculate the report, but that’s not the point.  The point is to show how EASY it is compared to other approaches. 
+Both of the tests are in the screencast below. The footage is not edited on YouTube, and you can see how instinctive and fast it is. Yes, it’s possible to measure the time it takes to calculate the report, but that’s not the point.  The point is to show how EASY it is compared to other approaches.
 
-I thought I could make it a bit more complicated and show you how to create "By how many % did the aggregated count of records change day by day". Again, here you can find the unedited video: 
+I thought I could make it a bit more complicated and show you how to create "By how many % did the aggregated count of records change day by day". Again, here you can find the unedited video:
 
 GoodData offers you a link with every report “explain” v DB" which shows what needs to be done for the actual query. When you chart it, it looks like this:
 
@@ -528,17 +526,17 @@ Finally, I did same tests in MySQL. Server has 64GB RAM, SSD discs...
 
 SELECT
 
-     YEAR(\`created_on\`), 
+YEAR(\`created_on\`),
 
-     DAYOFYEAR(\`created_on\`),
+DAYOFYEAR(\`created_on\`),
 
-     COUNT(*),
+COUNT(*),
 
-     AVG(value),
+AVG(value),
 
-     MIN(value),
+MIN(value),
 
-     MAX(value)
+MAX(value)
 
 FROM \`randomData\`
 
@@ -556,25 +554,25 @@ Most of the time was used for creating the tmp table:
 
 SELECT
 
-     YEAR(\`created_on\`),
+YEAR(\`created_on\`),
 
-     DAYOFYEAR(\`created_on\`),
+DAYOFYEAR(\`created_on\`),
 
-     HOUR(\`created_on\`),
+HOUR(\`created_on\`),
 
-     COUNT(*),
+COUNT(*),
 
-     AVG(value),
+AVG(value),
 
-     MIN(value),
+MIN(value),
 
-     MAX(value)
+MAX(value)
 
 FROM \`randomData\`
 
 WHERE
 
-     \`created_on\` BETWEEN '2012-07-16 00:00:00' AND '2012-07-16 01:00:00'
+\`created_on\` BETWEEN '2012-07-16 00:00:00' AND '2012-07-16 01:00:00'
 
 GROUP BY 1,2,3
 
@@ -586,12 +584,12 @@ Summary to MySQL: it's optimizer is crap :) [Hynek Vychodil](http://cz.linkedin.
 
 ### A final few words ….
 
-Importing the data always poses different degrees of difficulty so I don’t include them in my evaluation. But I can say the final aggregation of data for the end user has always been very fast. 
+Importing the data always poses different degrees of difficulty so I don’t include them in my evaluation. But I can say the final aggregation of data for the end user has always been very fast.
 
-If you know how to use SQL and you just need a few queries, BigQuery should be your choice.  
+If you know how to use SQL and you just need a few queries, BigQuery should be your choice.
 
-If you want to ask 'zillions' of business questions and not take care of your own DB cluster, then Amazon Redshift is great. 
+If you want to ask 'zillions' of business questions and not take care of your own DB cluster, then Amazon Redshift is great.
 
-If your data doesn’t have a very firm data structure, ElasticSearch is perfect (Karmi told me there is a guy from Germany who pours more than 1TB of data into Elastic every day and he has no problem with speed). 
+If your data doesn’t have a very firm data structure, ElasticSearch is perfect (Karmi told me there is a guy from Germany who pours more than 1TB of data into Elastic every day and he has no problem with speed).
 
 If you want to process the data and/or you have a more complicated query structure, and somebody will be asking lots of business questions, then I believe you should go with Keboola Connection and GoodData.
