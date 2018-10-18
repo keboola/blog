@@ -8,18 +8,16 @@ perex: There’s one trend on Gartner’s radar that hasn’t changed much over 
   the days of your IT or analytics department being report factories.
 user: pavel-dolezal
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/empowering.jpg"
 
 ---
-## Empowering the Business User in your BI and Analytics Environment
-
 by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
-
-[![](https://lh4.googleusercontent.com/7EJdHgVk6ZuOSLXMbgtGzfZwVRcBPTm_XlhOqjaLGjcHy4SARzPWWb-DNbQX2LJuojhlovBlYG0tXVk5NHxfK8ag7B7kBsOcrxDUGC0y70iKrH2b6sUeXmpuR-5scm4Ylcx1oHV6 =624x416)](http://blog.keboola.com/author/20616)
 
 There’s one trend on Gartner’s radar that hasn’t changed much over the last few years and that’s the increasing move toward a self-service BI model. Gone are the days of your IT or analytics department being report factories. And if those days aren’t gone for you, then it’s time you make some substantive changes to your business intelligence environment. When end-users are forced to rely on another department to deliver the reports they need, the entire concept of being a “data-driven” organization goes right out the window.
 
-### _So other than giving your users access to ad hoc reporting capabilities, how do  you empower the user?_
+![](/uploads/empoweringArticle1.jpg)
+
+## So other than giving your users access to ad hoc reporting capabilities, how do  you empower the user?
 
 First it’s critical to understand that you’ve likely got two segments of users. Today we’re going to focus on just one - your **_Business Users._**
 
