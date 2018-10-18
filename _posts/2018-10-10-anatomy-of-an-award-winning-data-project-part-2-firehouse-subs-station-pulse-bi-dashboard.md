@@ -3,9 +3,8 @@ title: 'Anatomy of an Award Winning Data Project Part 2: Firehouse Subs Station 
   BI Dashboard'
 layout: post
 categories: customer-stories
-date: 2018-10-10 00:00:00 +0000
-perex: 'Not one, but two of our customers won big fancy awards for the work we did
-  together. The concept of a data-driven organization has been discussed and proposed
+date: 2016-04-12 14:39:20 +0000
+perex: 'The concept of a data-driven organization has been discussed and proposed
   as an ideal for a while now, but how we define and identify those organizations
   is certainly still up for debate. '
 user: pavel-dolezal
