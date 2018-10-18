@@ -2,7 +2,7 @@
 title: 'When Salesforce Met Keboola: Why Is This So Great?'
 layout: post
 categories: product
-date: 2018-10-11 00:00:00 +0000
+date: 2017-10-10 14:08:54 +0000
 perex: Salesforce provides an end-to-end platform to connect with your customers including
   Marketing Cloud to personalize experiences across email, mobile, social, and the
   web, Service Cloud to support customer success, Community Cloud to connect customers,
