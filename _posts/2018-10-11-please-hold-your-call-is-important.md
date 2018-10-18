@@ -22,8 +22,8 @@ But, we were forced to just wait and rely on Snowflake. This is the account of w
 
 * 7:35pm (UTC+2) - we filed a Zendesk ticket with Snowflake
 * 5 minutes later, Milan fires a direct email to our contacts at Snowflake. 10 minutes later, [Todd Beauchene](https://www.linkedin.com/in/toddbeauchene) calls his cell and assures him that he’s there to help.
-* 29 min after the first email to Todd, he comes back to us via e-mail and confirms the emergency procedures have started (“**Don’t worry dudes, I’m here to help**”). He suggests immediate confcall. Martin in Prague drops whatever it is he does on Friday nights (it’s 8:20pm in Prague at this point) and travels across the city to the office. Ondra, meanwhile in Bali (UTC+8, 2:30am) prepares for the emergency shift and goes to sleep
-* one hour later we hold the conference call with Martin and me (UTC+2) and Todd (UTC-8). Within that one hour the Snowflake engineering team has diagnosed the problem, suggested a workaround and the fix was being built while we were speaking.
+* 29 min after the first email to Todd, he comes back to us via e-mail and confirms the emergency procedures have started (“**Don’t worry dudes, I’m here to help**”). He suggests immediate confcall. Martin in Prague drops whatever it is he does on Friday nights (it’s 8:20pm in Prague at this point) and travels across the city to the office. Ondra, meanwhile in Bali (UTC+8, 2:30am) prepares for the emergency shift and goes to sleep.
+* One hour later we hold the conference call with Martin and me (UTC+2) and Todd (UTC-8). Within that one hour the Snowflake engineering team has diagnosed the problem, suggested a workaround and the fix was being built while we were speaking.
 
 Todd has only one to-do item for our team:  “Go to sleep. Before you’re up we’ll have integration tests ready and the fix should be deployed into production. “
 
