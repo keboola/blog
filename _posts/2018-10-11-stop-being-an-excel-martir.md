@@ -2,7 +2,7 @@
 title: Stop being an Excel slave
 layout: post
 categories: product
-date: 2018-10-14 14:37:23 +0000
+date: 2018-08-13 14:37:23 +0000
 perex: Evaluate attribution and online campaigns the easy way
 user: pavel-dolezal
 coverphoto: "/uploads/excelSlaveCover.jpg"
