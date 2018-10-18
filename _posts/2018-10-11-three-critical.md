@@ -38,13 +38,13 @@ While empowering self service BI can certainly free up some time and resources f
 
 ## #2. Look for tools and solutions that make experimentation easy.
 
-![](https://lh6.googleusercontent.com/DfQk1wvEpxhQpKpaFA9gPrO4iApah1e9FKRd_akWD88rolJkkiXyldirMcXyNTUpSIhdcq1KAmUIhRumTcHvMoX1HL17_VJsX4uibQFjcTnuyst-xzlpb0NVG7OsEzgRfrzbb19- =624x416)
+![](/uploads/criticalArticle2.jpg)
 
 Your team and your leadership is going to be a lot more excited about experimenting with new tools if you make the process and simple (and cost effective) as possible. At [Keboola](http://www.keboola.com/), we often say that the key to innovation is not just Fail Fast. Fail Forward. It’s also Fail Cheap. If you’ve followed our advice above, you’ve hopefully found some technologies that make bridging connections to new technologies or learning new techniques as simple as possible. For example, with [Keboola’s App Store](https://components.keboola.com/), with just a click of a button, you can bring in dozens of new data sources, apps with complex algorithms like bucket analysis, Natural Language Processing, predictive analytics and a whole host of other data innovations. If you want to learn more, check our blog on [Data Monetization and how Data Science can help](http://blog.keboola.com/keboola-data-monetization-series-how-data-science-can-help).
 
 ## #3. Emphasize a culture of curiosity, experimentation and learning
 
-![](https://lh4.googleusercontent.com/WKqaJIf7kfky-2k2WyHAIsIhYJlqohPOtalI6smwy9zbRVNpf2kej0Dej7FOsl7iFUW-VnzQVZkNIR7gXkKJv8bhjmu0ppZHDaMZSLaY5Cg-yl9Br8fuKWDV1Jw9jIOG_tP_HsJd =624x416)
+![](/uploads/criticalArticle3.jpg)
 
 While taking a smart approach to technology adoption can certainly help your business really learn to Evangelize the New in business intelligence, the real innovation is going to come from creating and supporting a culture that encourages data curiosity and innovation. All too often, leadership focuses so much on the day-to-day that they forget to empower their teams to think and dream and strategize about tomorrow. Instead, foster a culture that empowers and rewards initiative and imagination.
 
