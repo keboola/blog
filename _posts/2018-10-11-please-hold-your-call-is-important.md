@@ -3,19 +3,13 @@ title: Please hold, your call is important
 layout: post
 categories: how-to
 date: 2018-10-11 00:00:00 +0000
-perex: |-
-  We’ve recently experienced two fairly large system problems that have affected approximately 35% of our clients.
-
-  The first issue took 50 minutes to resolve and the other approximately 10 hours. The root cause in both cases was the way we handled the provisioning of adhoc sandboxes on top of our SnowflakeDB (a few words about "how we started w/ them").
+perex: We’ve recently experienced two fairly large system problems that have affected
+  approximately 35% of our clients.
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-## Please hold, your call is important to us
-
-by [Petr Šimeček](http://blog.keboola.com/author/4010)
-
 We’ve recently experienced two fairly large system problems that have affected approximately 35% of our clients.
 
 The first issue took 50 minutes to resolve and the other approximately 10 hours. The root cause in both cases was the way we handled the provisioning of adhoc sandboxes on top of our [SnowflakeDB](http://www.snowflake.net/) (a few words about "[how we started w/ them](http://blog.keboola.com/new-dose-of-steroids-in-the-keboola-backend)").
