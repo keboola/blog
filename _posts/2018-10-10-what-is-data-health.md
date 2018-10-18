@@ -2,17 +2,15 @@
 title: What is data health and why it is critical for your business
 layout: post
 categories: product
-date: 2018-10-10 00:00:00 +0000
+date: 2017-09-20 11:27:11 +0000
 perex: Check your data health. Why it is essential for great reports and better predictions?
   Clean data is particularly crucial for CRM, ERP, sales and IT systems with customer
   data.
 user: pavel-dolezal
-coverphoto: "/uploads/Untitled design (5).png"
-coverphoto_slider: "/uploads/SMAC-healthcare-1.jpg"
+coverphoto: ''
+coverphoto_slider: "/uploads/datahealth.jpg"
 
 ---
-## What is data health and why it is critical for your business
-
 The basics of a great data insight or data visualization is a combination of good, clean data into a single solution architecture. Whether the goal is understanding lifetime value, designing up-sell and cross-sell strategies, defining personas, or developing sophisticated data models, having clean and consolidated data to match the speed of business moments will empowers your team with better analytics, improved marketing campaigns performance and maximised marketing ROI.
 
 Clean data is particularly crucial for CRM, ERP, sales and IT systems with customer data. Having a proper planning and cleansing of your customer data from the beginning will keep you from falling behind on your CRM implementation. Your data needs to be reviewed, filtered and cleaned to ensure that bogus data is not transferred. The cost to the business of processing errors can be evaluated from the time spent on manual troubleshooting, forced ETL re-runs and at worst, representing incorrect or invalid data to the customers or employees to drive their business decisions.
@@ -64,7 +62,7 @@ _Example:_
 
 Input Table:
 
-![Screen Shot 2017-08-29 at 15023 PMpng](https://lh4.googleusercontent.com/PrihX1Id9EeZijXKdqHiknKFpuUSXqBTIZnvaxMqIvH3rRoc37n_MQ_lgB6ZtRmyXaZEH7fjssnfm0Lv1_VgU7_bcyABzO31tx8H_bbcc1QwgYI2Ef3QA2Xn9C30EkgTYtR3jcIg =624x332)
+![](/uploads/datahealth1.jpg)
 
 _Rules:_
 
@@ -74,6 +72,6 @@ _Rules:_
 
 _Output table:_
 
-![Screen Shot 2017-08-29 at 21203 PMpng](https://lh6.googleusercontent.com/zmsYl7dj5ZEy-TU2sDhnquCFbj4mOOkrwtSb2eSlKyQDuL6R0jPW7516vTtNjHW1haTunruzOt50u3gGBgOpKWpY742hhZr0A8eODnMhZVvrZX52bfKQeg0FaNuOnPBariEfyJpA "Image: https://lh5.googleusercontent.com/XhjbsODnBLqID6hc8jYO6AuekKtc-31pTiqRwHBl7c716XTJwyZAN0WOSRS0A6xIoxaekITJiaZdusM6OMeQbYURoor0yAc_NHPEViJiMY1_9uKyWSKXlqVFtPLaeeF7swL8m-Pz" =624x292)
+![](/uploads/datahealth2.jpg)
 
 If you’re already a Keboola user you can find the Data Health app alongside [the rest of our data applications](https://components.keboola.com/components). Not yet a user and want to learn more? [Contact us](https://www.keboola.com/contact) and let's check your data health!
