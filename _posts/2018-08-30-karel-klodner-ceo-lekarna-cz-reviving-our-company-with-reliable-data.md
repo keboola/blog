@@ -17,6 +17,8 @@ Lékárna.cz has been the beneficiary of said method.
 
 Lékárna.cz is the first Czech online pharmacy which allows customers to both purchase medicine and solicit advice from experienced pharmacists. When we first were in touch, they were going through a tough time and were complete novices in regards to data. We changed that. They are now placed within the top 15 online stores nationwide, thanks to their transition to data-driven company.
 
+![](/uploads/lekarnaArticle.jpg)
+
 > **We talk to company CEO, Karel Klodner, about this successful transition.**
 
 **You have been running Lékárna.cz since 2013. How has the company changed in that time?**
@@ -39,13 +41,11 @@ Using solely Administrative Interface, each manager had their own set of statist
 
 Keboola were the ones who contacted us! Their solutions appealed to me immediately. I was eager to start cooperating with them, as soon as my initial in-house changes at Lekárna.cz were implemented.
 
-**What was the most difficult aspect of introducing the data changes?**
+**What was the m**![](/uploads/image 1.png)**ost difficult aspect of introducing the data changes?**
 
 There were certain things we didn’t have to deal with as a small e-commerce site, but once we grew these things became important. As our original system only took into account the rudimentary figures, we had to start incorporating more sophisticated data sets. At the same time, it was necessary to conglomerate all of our data and ensure that all employees were working off the same facts.
 
 Our new ERP system was introduced, which took a little time. We are now able to take into account many varying factors: various time shifts, discount calculations, valuation of warehouse stocks, etc. This improved analysis has undoubtedly given us the tools by which to instil growth.
-
-![](/uploads/image 1.png)
 
 **At which point did Lekárna.cz cross the boundary from being a small e-commerce retailer, run almost by intuition, to a large one that demanded a re-setting of this nature?**
 
