@@ -2,7 +2,7 @@
 title: Reviving our Company with Reliable Data, Karel Klodner, CEO Lékárna.cz
 layout: post
 categories: product
-date: 2018-08-30 00:00:00 +0000
+date: 2018-04-08 23:48:09 +0000
 perex: Here at Keboola, we have never shied away from taking an often unorthodox approach.
   Case in point is one of the methods we use to scope out businesses that could use
   our help.
