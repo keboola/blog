@@ -2,25 +2,22 @@
 title: Gorila Mobil - Data-Driven Business
 layout: post
 categories: customer-stories
-date: 2018-10-11 00:00:00 +0000
-perex: 'In July 2014, O2 announced that it had acquired Gorila Mobil (virtual mobile
-  operator). Gorila approached us at Keboola a couple of months before their official
-  launch.  They had one goal: “We need to have a data-driven company and we want you
-  to help us set it up.” '
+date: 2014-11-18 14:53:23 +0000
+perex: 'Gorila approached us at Keboola a couple of months before their official launch.
+  They had one goal: “We need to have a data-driven company and we want you to help
+  us set it up.” '
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-## Gorila Mobil - Data-Driven Business
-
 by [Petr Šimeček](http://blog.keboola.com/author/4010)
 
-In July 2014, [O2 announced](http://byznys.ihned.cz/c1-62479960-kellnerova-o2-koupila-preprodejce-tarifu-gorila-mobil-zakaznici-to-pry-nepociti) that it had acquired Gorila Mobil (virtual mobile operator). Gorila approached us at Keboola a couple of months before their official launch.  They had one goal: “We need to have a data-driven company and we want you to help us set it up.” 
+In July 2014, [O2 announced](http://byznys.ihned.cz/c1-62479960-kellnerova-o2-koupila-preprodejce-tarifu-gorila-mobil-zakaznici-to-pry-nepociti) that it had acquired Gorila Mobil (virtual mobile operator). Gorila approached us at Keboola a couple of months before their official launch.  They had one goal: “We need to have a data-driven company and we want you to help us set it up.”
 
 The brain behind Gorila is [Roman Novacek](https://www.linkedin.com/in/novacekroman), a brain that works a bit differently than yours or mine.
 
-### _18 months ago_
+## 18 months ago
 
 It was the morning of April 23rd 2013 and I was on my way to one of the largest tech hubs - TechSquare to see Roman. Back then Roman had started a company called Tarifomat which was offering its customers a way to find the best mobile operator deal and help them switch. Honestly, Tarifomat was a great idea with a very difficult execution path. Their sales funnel is verrrry long. Basically they get paid only a ½ year after the client switches and only in the case that he doesn’t cancel beforehand.  The path to getting paid is paved with unexpected traps like “the courier that was delivering the SIM card hasn’t found the address” and similar issues. A perfect fit for us if the client could increase their margins by 30x. We rolled up our sleeves and proceeded with the project. It was a success. It had to be, our VP of Propaganda [wrote](http://tomcupr.cz/post/40834805363/jak-gooddata-a-keboola-meni-muj-zivot) that companies can count on us and we have to honor that promise.
 
@@ -30,7 +27,7 @@ Tarifomat got a perfect overview of their whole funnel (up to 1500 requests a da
 
 Gorila Mobil was another virtual operator (inside the O2 network) and they tried to be very cool (check out the [YouTube channel](https://www.youtube.com/user/gorilamobil)). But being cool is not the only ingredient for success… you need more…
 
-![](https://lh4.googleusercontent.com/4zHvf_HpK49DHDOHwBZ6ufyIHac5OpyFKUdNhYCyGW6JnkURxT8cP8ogcA28W1ykxZSxKT6DEnhHbMl3EZE0rsiWS_bMnOv3hMQ6EEl7NnUw3AYJRtRJ3-sHD5OzhVX2etG1xx25 =624x352)
+![](/uploads/gorila1.jpg)
 
 With our help Roman put together the daily dashboards which mapped out the full acquisition channel down to each campaign/media/type/position/brand message/product. The O2 team was taken back when they saw that. The number of activated SIM cards were growing, expenses were falling - everybody was happy, champagne was being opened…. Only Roman’s team wasn’t celebrating. People weren’t actually using the SIM cards as they had envisioned inside Gorila Mobil. Now what ???
 
@@ -38,7 +35,7 @@ Friday afternoon:  _"Let’s dig into the GoodData dashboards and solve this!"_
 
 Sunday evening: _Claim "Gorila mobil - the most of internet, FUP you!" changed to "5 Kč/hr for calls and all the data you need"._
 
-A complete switch in brand positioning, based solely on data!  I get shivers running down my spine just thinking about it. While we were chilling in our offices, playing ping pong; Romans’ team was rocking it! 5Kc worked! - they got enough data to support their further visions; they were bold and full of energy.  
+A complete switch in brand positioning, based solely on data!  I get shivers running down my spine just thinking about it. While we were chilling in our offices, playing ping pong; Romans’ team was rocking it! 5Kc worked! - they got enough data to support their further visions; they were bold and full of energy.
 
 Roman had a vision that data describes the now as it is and that we should use that knowledge to validate strategic directions and decisions.
 
@@ -49,8 +46,6 @@ Unfortunately, this great ride lasted only 3 months. The Gorila project was over
 Roman moved onto a new project, and Keboola was ready. Anyhow, who can say you have a iPhone cover from the [real cherry wood](http://www.esperia.cz/dreveny-kryt-pro-iphone-5c-esperia-eclat-modry-tresen.html)? We are very interested to see how they will handle the tricky things like [life time warranty](http://www.epishop.cz/dozivotni-zaruka) for the bamboo iPad cover and what role data will play in that business.
 
 I caught Roman during his trip through China where he was stuffing himself with chicken feet - so here’s a quick Google Docs style interview :)
-
-![](https://lh4.googleusercontent.com/l2aCYqT7o3gKvPvM_NUouL2OxcA2hb3_jm3CAebIg7-zj4bnZfXlkRSCMDl08dKXYtQjs0ith9saTSNcKAlEj4Z-M4_ZIWRY6PEyQ1Zx-2oWfq4qVEJ75nUFZ-6d51OXh_iE_JtO =381x500)
 
 PS: **Roman, what was the hardest thing in the beginning of Gorila ?**
 
@@ -66,7 +61,7 @@ RN: Once I convinced my partners to build a “metrics driven company” the har
 
 PS: **Could you show us something?**
 
-**![](https://lh3.googleusercontent.com/u2oqlwu95k_vH-U6hJlHVb3aijG8YTxNdiV77WwWJTOkWQFSWB1TMOZjrlqzM-3uPzs7sQHRRlBjOMlVECob2XNiG2dprJlR0wgehA7jQyAPCpnzRAd2FplgTthOlWGf5tcmIAPK =624x385)**
+![](/uploads/gorila2.jpg)
 
 RN: Yep, I have smuggled the axis a bit….Now you will ask what it is and how we worked with it, right ? :)  What you can see in the report is the SIM cards activation in time. The dotted lines are linear extrapolations - trends - so you can see the general trend, growing or stagnation. We have this report on everybody’s dashboard and we can filter it according to the channel where SIM card was activated (for example large newspaper stand network, post offices, lottery terminals, etc.)  Exactly in the same way you can see what activations we have according to a marketing channel. If you click on any point inside the report another dashboard opens and you can see how much money we get from that particular set of activations and how these people behave. It’s hard to describe, it is much better to show in reality :)
 
