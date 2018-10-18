@@ -6,7 +6,7 @@ date: 2018-10-10 00:00:00 +0000
 perex: Companies today often have enough data to get completely lost in it and it
   is unfathomable to put it into context and extract any useful meaning. Even if they
   can, there are high costs associated with time and money.
-user: ''
+user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: "/uploads/keboolaGuide.jpg"
 
