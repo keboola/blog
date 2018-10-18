@@ -2,11 +2,11 @@
 title: Why a hackathon needs real data...
 layout: post
 categories: community
-date: 2018-09-18 00:00:00 +0000
+date: 2017-01-10 21:56:21 +0000
 perex: Hackathon Inspiration, brought to you by Keboola, Deloitte, & Lékárna.cz
 user: pavel-dolezal
-coverphoto: "/uploads/Delloite Image 1 copy.jpg"
-coverphoto_slider: "/uploads/Delloite.jpg"
+coverphoto: ''
+coverphoto_slider: "/uploads/deloitte.jpg"
 
 ---
 For Keboola, our work is our passion. Some consider their career a 9 to 5, escaping the shackles of the office for evening escapism in the form of a beer and a TV screen. The lucky ones know how to blend what they do with what they love. In our digital world, we find true meaning in our work, and others are able to benefit from our passion. There is nothing that enthuses us more than when we are able to see the fruits of our labour, and how our work has practically helped others. 
