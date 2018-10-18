@@ -27,6 +27,6 @@ Anyone interested in finding out more can keep an eye on all upcoming workshops 
 
 _Photographs from workshops abroad:_ [_https://www.facebook.com/pg/DataDriven.SG/photos/_](https://www.facebook.com/pg/DataDriven.SG/photos/ "https://www.facebook.com/pg/DataDriven.SG/photos/")
 
-_Photographs from Czech workshops:_ [_https://www.facebook.com/pg/datagirls/photos/ _](https://www.facebook.com/pg/datagirls/photos/ "https://www.facebook.com/pg/datagirls/photos/")
+_Photographs from Czech workshops:_ [https://www.facebook.com/pg/datagirls/photos/](https://www.facebook.com/pg/datagirls/photos/ "https://www.facebook.com/pg/datagirls/photos/")
 
 Keboola launched the DataGirls project in 2014, teaching data analysis to girls and women free of charge. DataGirls workshops are now held in the Czech Republic, UK, Singapore, Australia, New Zealand, Indonesia and, most recently, Hong Kong.
