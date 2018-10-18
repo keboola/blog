@@ -58,6 +58,9 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md
+- _posts/2018-10-10-keboola.md
+- _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md
 - _posts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md
 - _posts/2018-10-11-gorila-mobil-data-driven-business.md
@@ -84,12 +87,9 @@ pages:
 - _posts/2018-10-11-three-critical.md
 - _posts/2018-10-11-bi-modal.md
 - _posts/2018-10-10-keboola.md
-- _posts/2018-10-10-keboola.md
-- _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-mcpen.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-i.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.md
-- _posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md
 - _posts/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.md
 - _posts/2018-10-10-what-is-data-health.md
 - _posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.md
