@@ -2,20 +2,16 @@
 title: 'The Beginner’s Guide To Keboola III: We ♥ Your Third Party Data Sources'
 layout: post
 categories: product
-date: 2018-10-10 00:00:00 +0000
+date: 2014-07-07 12:43:19 +0000
 perex: You’re certainly using them, you probably like them, and perhaps they even
   help you save some money. However, you’ll find the real treasure of third party
   data sources the moment you interconnect them and find the answers to your business
   questions.
 user: pavel-dolezal
-coverphoto: "/uploads/0.jpeg"
-coverphoto_slider: "/uploads/Keboola UK - source slides.png"
+coverphoto: ''
+coverphoto_slider: "/uploads/keboolaGuide3.jpg"
 
 ---
-## The Beginner’s Guide To Keboola III: We ♥ Your Third Party Data Sources
-
-You’re certainly using them, you probably like them, and perhaps they even help you save some money. However, you’ll find the real treasure of third party data sources the moment you **interconnect** them and find the **answers** to your business questions.
-
 In this edition of the Beginner’s Guide you’ll find out how to use data from external services and databases to better understand your data. You will also begin to recognize the importance of getting to know your data (actually it’s time to become best friends), and how to ask the right questions to get the right results (or buckle up for one bumpy ride!)
 
 ### What data sources does Keboola use?
