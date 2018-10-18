@@ -58,6 +58,8 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.md
+- _posts/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md
 - _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-keboola.md
@@ -93,9 +95,7 @@ pages:
 - _posts/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.md
 - _posts/2018-10-10-what-is-data-health.md
 - _posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.md
-- _posts/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.md
 - _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.md
 - _posts/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md
-- _posts/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.md
 - _posts/2018-03-24-see-how-keboola-automated-personalized-mailchimp-surveymonkey-campaigns.md
