@@ -2,16 +2,14 @@
 title: 'The Beginner’s Guide To Keboola II: How It Works'
 layout: post
 categories: product
-date: 2018-10-10 00:00:00 +0000
+date: 2014-06-09 13:08:20 +0000
 perex: A boss with GoodData, who is lounging on a beach half a world away, knows more
   than any boss present at work without it.
 user: pavel-dolezal
-coverphoto: "/uploads/Untitled design (8).png"
-coverphoto_slider: "/uploads/images.jpeg"
+coverphoto: ''
+coverphoto_slider: "/uploads/keboolaGuide2.jpg"
 
 ---
-## The Beginner’s Guide To Keboola II: How It Works
-
 You already know that Keboola can process your data in such a way that [it makes sense and that it is of value to you](http://blog.keboola.com/the-beginners-guide-to-keboola). This time we shall go a little deeper and show you how it is done in practice.
 
 Let’s say you're the owner of **a chain of coffee shops**. You wish to expand your business and at the same time you would like to figure out where you are losing money. You have lots of data from your **POS system** and of course your **accounting software**.
