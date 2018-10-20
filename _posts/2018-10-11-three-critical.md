@@ -11,7 +11,7 @@ coverphoto_slider: "/uploads/critical.jpg"
 
 ---
   
-by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
+by Kasey Jones Tonsfeldt
 
 The rapid evolution in business intelligence and analytics capabilities is both exhilarating and overwhelming.
 
