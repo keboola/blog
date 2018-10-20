@@ -10,7 +10,7 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by [Martin Fiser](http://blog.keboola.com/author/22817)
+by Martin Fiser
 
 It all started yesterday morning when I saw multiple tweets mentioning a new forecasting library published on my way to work:
 
