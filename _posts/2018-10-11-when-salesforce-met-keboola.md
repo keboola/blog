@@ -12,7 +12,7 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by [Martin Humpolec](http://blog.keboola.com/author/22475)
+by Martin Humpolec
 
 ## How can I get more out of my Salesforce data?
 
