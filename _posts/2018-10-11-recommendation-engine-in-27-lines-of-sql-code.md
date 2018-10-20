@@ -11,7 +11,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/27lines.jpg"
 
 ---
-by [Milan Veverka](http://blog.keboola.com/author/8793)
+by Milan Veverka
 
 In the data preparation space, very frequently the focus lies in BI as the ultimate destination of data. But we see, more and more often, how data enrichment can loop straight back into the primary systems and processes.
 
