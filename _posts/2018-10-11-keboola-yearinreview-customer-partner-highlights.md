@@ -11,7 +11,7 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by [Colin McGrew](http://blog.keboola.com/author/19180)
+by Colin McGrew
 
 It’s been quite an exciting year for us here at Keboola and the biggest reason for that is our fantastic network of partners and customers -- and of course a huge thanks to our team!  In the spirit of the season, we wanted to take a quick stroll down memory lane and give thanks for some of the big things we were able to be a part of and the people that helped us make them happen!
 
