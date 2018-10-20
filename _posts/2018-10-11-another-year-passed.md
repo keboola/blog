@@ -10,7 +10,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/five.jpg"
 
 ---
-by [Petr Šimeček](http://blog.keboola.com/author/4010)
+by Petr Šimeček
 
 Yesterday my GoodData account turned 5 years old!
 
