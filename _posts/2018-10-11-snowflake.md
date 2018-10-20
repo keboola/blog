@@ -11,7 +11,7 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by [Martin Fiser](http://blog.keboola.com/author/22817)
+by Martin Fiser
 
 ## Intro
 
