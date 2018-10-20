@@ -10,8 +10,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/critical.jpg"
 
 ---
-## Three Critical Steps to Evangelize the New in Business Intelligence and Analytics
-
+  
 by [Kasey Jones Tonsfeldt](http://blog.keboola.com/author/20616)
 
 The rapid evolution in business intelligence and analytics capabilities is both exhilarating and overwhelming.
