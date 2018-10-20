@@ -58,6 +58,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-11-how-we-hacked-vizable.md
 - _posts/2018-10-11-asana.md
 - _posts/2018-10-11-gorila-mobil-data-driven-business.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md
@@ -72,7 +73,6 @@ pages:
 - _posts/2018-10-10-keboola.md
 - _posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md
 - _posts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md
-- _posts/2018-10-11-how-we-hacked-vizable.md
 - _posts/2018-10-11-please-hold-your-call-is-important.md
 - _posts/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.md
 - _posts/2018-10-11-keboola.md

@@ -10,7 +10,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/vizable.jpg"
 
 ---
-by [Milan Veverka](http://blog.keboola.com/author/8793)
+by Milan Veverka
 
 Tableau unveiled their new Vizable app the first full day of the Tableau User Conference 2015 (A.K.A. TC-15) to much oohs and aahs. Vizable is a tablet app that allows users to take data from an .xls or .csv file and easily interact with it right on their tablet. It is unparalleled in its ease of use and intuitiveness, providing an exciting new way to consume data and drive insights. More information here: [http://vizable.tableau.com/](http://vizable.tableau.com/ "http://vizable.tableau.com/")
 
