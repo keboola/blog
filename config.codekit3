@@ -23,6 +23,13 @@
 		"oAP": "\/.forestry\/front_matter\/templates\/post.yml",
 		"oF": 0
 		},
+	"\/.forestry\/settings.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/settings.yml",
+		"oF": 0
+		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -309,13 +316,6 @@
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
-	"\/_layouts\/tags.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/tags.html",
-		"oF": 0
-		},
 	"\/_posts\/2018-03-20-see-how-keboola.md": {
 		"cB": 0,
 		"cS": 0,
@@ -406,7 +406,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
+	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
