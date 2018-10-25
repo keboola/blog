@@ -23,13 +23,6 @@
 		"oAP": "\/.forestry\/front_matter\/templates\/post.yml",
 		"oF": 0
 		},
-	"\/.forestry\/settings.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/.forestry\/settings.yml",
-		"oF": 0
-		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -413,7 +406,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
+	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1441,24 +1434,6 @@
 		"oA": 0,
 		"oAP": "\/robots.txt",
 		"oF": 0
-		},
-	"\/tag.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/invalid-output-filename-pattern.error",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
 		},
 	"\/uploads\/0.jpeg": {
 		"ft": 16384,
