@@ -23,10 +23,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- marketing.md
-- community.md
-- customer-stories.md
-- nerds.md
-- how-to.md
-- product.md
