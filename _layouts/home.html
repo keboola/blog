@@ -57,7 +57,7 @@
 	</div>
 	<div class="article-list">
 		<i class="pict"></i>
-		{% for post in site.posts %}
+		{% for post in paginator.posts %}
 			<article>
 				<p class="p-date">
 					{{ post.date | date: '%B %d, %Y' }} | {% for category in post.categories limit:1 %}
@@ -69,6 +69,17 @@
 				<p class="p-more"><a href="{{ post.url }}">Go to the article</a></p>
 			</article>
 		{% endfor %}
+
+		{% if paginator.total_pages > 1 %}
+			<div class="pagination">
+			{% if paginator.previous_page %}
+				<div class="pagination-prev"><p><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="a-ico btn-prev"><i>Newer</i></a></p></div>
+			{% endif %}
+			{% if paginator.next_page %}
+				<div class="pagination-next"><p><a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="a-ico btn-more"><i>Older</i></a></p></div>
+			{% endif %}
+			</div>
+		{% endif %}
 	</div>
 </div></div>
 {% include foot.html %}

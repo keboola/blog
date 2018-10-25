@@ -6,10 +6,3 @@
 	<li><a href="/how-to/"{% if page.url contains '/how-to/' %} class="item-act"{% endif %}>how to</a></li>
 	<li><a href="/nerds/"{% if page.url contains '/nerds/' %} class="item-act"{% endif %}>nerds</a></li>
 </ul></div>
-
-{% comment %}<div class="article-categories-list"><ul>
-	{% for tag in site.category %}
-		{% assign t = tag | first %}
-		<li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
-	{% endfor %}
-</ul></div>{% endcomment %}
