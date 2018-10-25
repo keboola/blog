@@ -18,7 +18,7 @@ sections:
 - type: directory
   path: categories
   label: Categories
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
