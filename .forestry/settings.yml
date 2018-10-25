@@ -15,6 +15,11 @@ sections:
   label: Users
   create: none
   match: "**/*.{json,yaml,yml}"
+- type: directory
+  path: categories
+  label: Categories
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
