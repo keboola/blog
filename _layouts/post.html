@@ -17,8 +17,8 @@
 			{% endfor %}
 		</div>
 		<div class="article-header-share">
-			<a href="" class="share-btn-fb"><i></i>0</a>
-			<a href="" class="share-btn-tw"><i></i>0</a>
+			<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-fb"><i></i></a>
+			<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-tw"><i></i></a>
 		</div>
 	</div>
 </div></article>
@@ -27,8 +27,8 @@
 	{{ content }}
 
 	<div class="article-detail-share">
-		<a href="" class="share-btn-fb"><i></i>0</a>
-		<a href="" class="share-btn-tw"><i></i>0</a>
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-fb"><i></i></a>
+		<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" data-text="{{ page.title }}" data-url="{{ site.url }}{{ site.baseurl }}{{ page.url }}" class="share-btn-tw"><i></i></a>
 	</div>
 </article>
 
