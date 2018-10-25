@@ -8,5 +8,8 @@ pagination:
   category: nerds
   permalink: /:num/
   title: 'Nerds - Page :num'
+  trail: 
+    before: 2
+    after: 2 
 
 ---

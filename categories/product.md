@@ -8,5 +8,8 @@ pagination:
   category: product
   permalink: /:num/
   title: 'Product - Page :num'
+  trail: 
+    before: 2
+    after: 2 
 
 ---

@@ -8,5 +8,8 @@ pagination:
   category: community
   permalink: /:num/
   title: 'Community - Page :num'
+  trail: 
+    before: 2
+    after: 2 
 
 ---

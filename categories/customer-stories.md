@@ -8,5 +8,8 @@ pagination:
   category: customer-stories
   permalink: /:num/
   title: 'Customer Stories - Page :num'
+  trail: 
+    before: 2
+    after: 2 
 
 ---

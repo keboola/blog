@@ -8,5 +8,8 @@ pagination:
   category: ​​events
   permalink: /:num/
   title: 'Events - Page :num'
+  trail: 
+    before: 2
+    after: 2 
 
 ---
