@@ -594,7 +594,7 @@
       .font-size(16, 1.2em);
     }
     p{
-      .font-size(14, 1.4em);
+      .font-size(14, 1.6em);
     }
   }
   .category-header-desc{
@@ -648,8 +648,23 @@
     padding-left:40px;
     padding-right:40px;
 
-    p,blockquote{
+    h2,h3,h4,h5,h6,p,blockquote,ul,ol{
       max-width:100%;
+    }
+    h2,h3,h4,h5,h6,{
+      .font-size(30, 1.3em);
+    }
+    h3{
+      .font-size(24, 1.3em);
+    }
+    h4{
+      .font-size(22, 1.3em);
+    }
+    h5{
+      .font-size(18, 1.3em);
+    }
+    h6{
+      .font-size(16, 1.3em);
     }
     blockquote{
       padding-left:20px;
@@ -828,6 +843,45 @@
       margin-left:-20px;
       margin-right:-20px;
     }
+    h2,h3,h4,h5,h6,{
+      .font-size(28, 1.3em);
+    }
+    h3{
+      .font-size(24, 1.3em);
+    }
+    h4{
+      .font-size(20, 1.3em);
+    }
+    h5{
+      .font-size(18, 1.3em);
+    }
+    h6{
+      .font-size(16, 1.3em);
+    }
+    p{
+      margin:0 0 20px 0;
+      .font-size(14, 1.6em);
+    }
+    li{
+      padding-left:28px;
+      .font-size(14, 1.6em);
+    }
+    ul{
+      li{
+        &:before{
+          left:6px;
+          top:10px;
+        }
+      }
+    }
+    ol{
+      li{
+        &:before{
+          width:28px;
+          .font-size(14, 1.6em);
+        }
+      }
+    }
   }
 
 
@@ -934,7 +988,7 @@
       letter-spacing:1px;
     }
     p{
-      .font-size(14, 1.3em);
+      .font-size(14, 1.5em);
       letter-spacing:1px;
     }
   }
@@ -981,8 +1035,23 @@
   // ARTICLE DETAIL - CONTENT
   // ---------
   .article-detail-content{
-    p,blockquote{
-      margin-bottom:20px;
+    p,blockquote,ul,ol{
+      margin-bottom:15px;
+    }
+    h2,h3,h4,h5,h6,{
+      .font-size(22, 1.3em);
+    }
+    h3{
+      .font-size(20, 1.3em);
+    }
+    h4{
+      .font-size(18, 1.3em);
+    }
+    h5{
+      .font-size(16, 1.3em);
+    }
+    h6{
+      .font-size(14, 1.3em);
     }
     p{
       .font-size(14, 1.8em);
@@ -1203,7 +1272,7 @@
       .font-size(20, 1.3em);
     }
     p{
-      .font-size(12, 1.3em);
+      .font-size(12, 1.5em);
     }
   }
   .category-header-desc{
