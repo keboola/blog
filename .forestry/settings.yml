@@ -16,7 +16,7 @@ sections:
   create: none
   match: "**/*.{json,yaml,yml}"
 - type: directory
-  path: categories
+  path: _categories
   label: Categories
   create: documents
   match: "**/*"
