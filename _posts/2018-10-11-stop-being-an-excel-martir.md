@@ -31,7 +31,7 @@ Our solution (tested and developed for one client and deployed at others) involv
 4. Interlink campaign system statistics with the campaign spreadsheet.
 5. And we’re done: interlinking allows you to keep track of updated data every day - congratulations you have made a first step to automation.
 
-Let’s take a more detailed look. Obtaining data from basic, commonly used systems for Keboola Connection was simple. However, the only thing that AdWords, Sklik, and Facebook Ads have in common after the data has been downloaded is the interaction date. So how can we know that we have data for a single campaign being run in various different places? This is why we added an internal campaign ID to the campaign name. Once this change is introduced, the name may look something like “Springfield Power Plant – The Sun Is Our Friend | id_00001”.
+Let’s take a more detailed look. Obtaining data from basic, commonly used systems for Keboola Connection was simple. However, the only thing that AdWords, Sklik, and Facebook Ads have in common after the data has been downloaded is the interaction date. So how can we know that we have data for a single campaign being run in various different places? This is why we added an internal campaign ID to the campaign name. Once this change is introduced, the name may look something like “Springfield Power Plant – The Sun Is Our Friend – id_00001”.
 
 When you have identified which interactions result from which campaign, you need to interlink the statistics with plans, budgets, and companies in the CRM (which was the basis for the entire BI solution – in this case GoodData). A simple spreadsheet in Google Spreadsheets that looks like this, for example, is enough:
 
