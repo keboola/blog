@@ -7,7 +7,7 @@ perex: You’re certainly using them, you probably like them, and perhaps they e
   help you save some money. However, you’ll find the real treasure of third party
   data sources the moment you interconnect them and find the answers to your business
   questions.
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: "/uploads/keboolaGuide3.jpg"
 
