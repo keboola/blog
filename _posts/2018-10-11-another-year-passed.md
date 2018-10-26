@@ -5,13 +5,11 @@ categories: product
 date: 2014-11-23 15:16:52 +0000
 perex: 'Petr at Keboola celebrating 5 years of partnership with GoodData, listing
   the highlights of this collaboration together with the latest news within the company. '
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: "/uploads/five.jpg"
 
 ---
-by Petr Šimeček
-
 Yesterday my GoodData account turned 5 years old!
 
 It is one in the morning and the delivery service calls my phone; surprise! We’ve got champagne for you. It was from my colleagues. I’m alone and sick with the flu in bed, but I almost shed a tear.
