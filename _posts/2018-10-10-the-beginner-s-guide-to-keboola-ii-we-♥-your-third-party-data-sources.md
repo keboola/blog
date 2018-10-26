@@ -5,7 +5,7 @@ categories: product
 date: 2014-06-09 13:08:20 +0000
 perex: A boss with GoodData, who is lounging on a beach half a world away, knows more
   than any boss present at work without it.
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: "/uploads/keboolaGuide2.jpg"
 
