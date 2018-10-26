@@ -6,13 +6,11 @@ date: 2016-06-29 13:43:38 +0000
 perex: In the data preparation space, very frequently the focus lies in BI as the
   ultimate destination of data. But we see, more and more often, how data enrichment
   can loop straight back into the primary systems and processes.
-user: pavel-dolezal
+user: milan-veverka
 coverphoto: ''
 coverphoto_slider: "/uploads/27lines.jpg"
 
 ---
-by Milan Veverka
-
 In the data preparation space, very frequently the focus lies in BI as the ultimate destination of data. But we see, more and more often, how data enrichment can loop straight back into the primary systems and processes.
 
 Take recommendation. Just the basic type (“customers who bought this also bought…”). That, in its simplest form, is an outcome of basket analysis.
