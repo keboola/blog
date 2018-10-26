@@ -61,6 +61,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-11-asana.md
 - _posts/2018-10-11-how-we-hacked-vizable.md
 - _posts/2018-10-11-three-critical.md
 - _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
@@ -97,7 +98,6 @@ pages:
 - _posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md
 - _posts/2018-10-11-gorila-mobil-data-driven-business.md
-- _posts/2018-10-11-asana.md
 - _posts/heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md
 - _posts/integrating-50-marketing-data-sources.md
 - _posts/heroes-at-liftago.md
