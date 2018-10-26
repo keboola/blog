@@ -48,6 +48,7 @@ fields:
     - milan-veverka
     - petr-simecek
     - sarah-henderson
+    - pavel-dolezal
   label: user
 - type: file
   name: coverphoto
