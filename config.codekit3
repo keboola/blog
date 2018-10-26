@@ -316,7 +316,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
+	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1046,39 +1046,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/detail-img-2.jpg": {
-		"ft": 16384,
-		"iS": 47658,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/detail-img-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/detail-img.jpg": {
-		"ft": 16384,
-		"iS": 86266,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/detail-img.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/home-article-img-big.jpg": {
-		"ft": 16384,
-		"iS": 211516,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/home-article-img-big.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/ico-article-list-img.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1189,61 +1156,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/martin-karasek.jpg": {
-		"ft": 16384,
-		"iS": 31661,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/martin-karasek.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/most-recent-img-1.jpg": {
-		"ft": 16384,
-		"iS": 82045,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/most-recent-img-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/most-recent-img-2.jpg": {
-		"ft": 16384,
-		"iS": 46253,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/most-recent-img-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/pavel-dolezal.jpg": {
-		"ft": 16384,
-		"iS": 6366,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/pavel-dolezal.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/petr-urbanek.jpg": {
-		"ft": 16384,
-		"iS": 19188,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/petr-urbanek.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/users\/colin-mcgrew.jpg": {
 		"ft": 16384,
 		"iS": 9803,
@@ -1283,6 +1195,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/users\/milan-veverka.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/pavel-dolezal.jpg": {
+		"ft": 16384,
+		"iS": 6366,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/pavel-dolezal.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
