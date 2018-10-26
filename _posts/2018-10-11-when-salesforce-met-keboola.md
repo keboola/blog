@@ -7,13 +7,11 @@ perex: Salesforce provides an end-to-end platform to connect with your customers
   Marketing Cloud to personalize experiences across email, mobile, social, and the
   web, Service Cloud to support customer success, Community Cloud to connect customers,
   partners and employees and Wave Analytics designed to unlock the data within.
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by Martin Humpolec
-
 ## How can I get more out of my Salesforce data?
 
 Along with being the world’s #1 CRM, [Salesforce](https://www.salesforce.com/) provides an end-to-end platform to connect with your customers including Marketing Cloud to personalize experiences across email, mobile, social, and the web, Service Cloud to support customer success, Community Cloud to connect customers, partners and employees and Wave Analytics designed to unlock the data within.
