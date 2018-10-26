@@ -6,13 +6,11 @@ date: 2016-03-22 14:44:57 +0000
 perex: There’s one trend on Gartner’s radar that hasn’t changed much over the last
   few years and that’s the increasing move toward a self-service BI model. Gone are
   the days of your IT or analytics department being report factories.
-user: pavel-dolezal
+user: kasey-jones-tonsfeldt
 coverphoto: ''
 coverphoto_slider: "/uploads/empowering.jpg"
 
 ---
-by Kasey Jones Tonsfeldt
-
 There’s one trend on Gartner’s radar that hasn’t changed much over the last few years and that’s the increasing move toward a self-service BI model. Gone are the days of your IT or analytics department being report factories. And if those days aren’t gone for you, then it’s time you make some substantive changes to your business intelligence environment. When end-users are forced to rely on another department to deliver the reports they need, the entire concept of being a “data-driven” organization goes right out the window.
 
 ![](/uploads/empoweringArticle1.jpg)
