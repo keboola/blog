@@ -5,14 +5,11 @@ categories: how-to
 date: 2018-10-11 00:00:00 +0000
 perex: How do you protect the stability of the work you’ve already done, while evangelizing
   experimentation, exploration and progress within your organization?
-user: pavel-dolezal
+user: kasey-jones-tonsfeldt
 coverphoto: ''
 coverphoto_slider: "/uploads/critical.jpg"
 
 ---
-  
-by Kasey Jones Tonsfeldt
-
 The rapid evolution in business intelligence and analytics capabilities is both exhilarating and overwhelming.
 
 ![](/uploads/criticalArticle.jpg)
