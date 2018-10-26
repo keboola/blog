@@ -42,10 +42,12 @@ fields:
     source:
       type: simple
     options:
-    - pavel-dolezal
-    - petr-urbanek
-    - martin-karasek
-    - henderson-sarah
+    - colin-mcgrew
+    - elena-manole
+    - kasey-jones-tonsfeldt
+    - milan-veverka
+    - petr-simecek
+    - sarah-henderson
   label: user
 - type: file
   name: coverphoto

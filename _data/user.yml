@@ -1,13 +1,10 @@
 ---
+- id: petr-simecek
+  name: Petr Šimeček
+  desc: ''
 - id: sarah-henderson
   name: 'Sarah Henderson '
   desc: ''
 - id: pavel-dolezal
   name: Pavel Doležal
   desc: pavel dolezal pavel
-- id: petr-urbanek
-  name: Petr Urbanek
-  desc: petr petr petr
-- id: martin-karasek
-  name: Martin karásek
-  desc: martin KARI karásek
