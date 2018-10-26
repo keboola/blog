@@ -7,13 +7,11 @@ date: 2016-04-12 14:39:20 +0000
 perex: 'The concept of a data-driven organization has been discussed and proposed
   as an ideal for a while now, but how we define and identify those organizations
   is certainly still up for debate. '
-user: pavel-dolezal
+user: kasey-jones-tonsfeldt
 coverphoto: ''
 coverphoto_slider: "/uploads/firehouse.jpg"
 
 ---
-by Kasey Jones Tonsfeldt
-
 As we reported in our previous post, we are still beaming with pride, like proud parents at a little league game or a dance recital. Not one, but two of our customers won big fancy awards for the work we did together. The concept of a data-driven organization has been discussed and proposed as an ideal for a while now, but how we define and identify those organizations is certainly still up for debate. We’re pretty confident that these two customers in question - [Computer Sciences Corporation (CSC)](http://www.csc.com/) and [Firehouse Subs](http://www.firehousesubs.com/) - would be prime contenders. These awards highlight their commitment to go further than their industry counterparts to empower employees and franchisees to leverage data in new and exciting ways.
 
 ![](/uploads/firehouse1.jpg)
