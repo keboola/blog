@@ -13,7 +13,7 @@
 					{% for data in site.data['user'] %}
 						{% if data.id == post.user %}
 							<p class="p-author">
-								<span class="img"><img src="/img/{{ data.id }}.jpg" alt="{{ data.name }}"></span>Written by {{ data.name }}
+								<span class="img"><img src="/img/users/{{ data.id }}.jpg" alt="{{ data.name }}"></span>Written by {{ data.name }}
 							</p>
 						{% endif %}
 					{% endfor %}

@@ -87,6 +87,24 @@
 		"rFN": 1,
 		"uCM": 0
 		},
+	"\/_drafts\/2018-10-26-style-test.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_drafts\/2018-10-26-style-test.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
 	"\/_drafts\/_posts\/test.md": {
 		"cB": 0,
 		"cS": 0,
@@ -987,6 +1005,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
@@ -1154,6 +1179,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/martin-karasek.jpg": {
 		"ft": 16384,
 		"iS": 31661,
@@ -1204,6 +1239,72 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/petr-urbanek.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/colin-mcgrew.jpg": {
+		"ft": 16384,
+		"iS": 9803,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/colin-mcgrew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/elena-manole.jpg": {
+		"ft": 16384,
+		"iS": 12522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/elena-manole.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/kasey-jones-tonsfeldt.jpg": {
+		"ft": 16384,
+		"iS": 15956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/kasey-jones-tonsfeldt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/milan-veverka.jpg": {
+		"ft": 16384,
+		"iS": 10987,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/milan-veverka.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/petr-simecek.jpg": {
+		"ft": 16384,
+		"iS": 12039,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/petr-simecek.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/users\/sarah-henderson.jpg": {
+		"ft": 16384,
+		"iS": 9280,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/users\/sarah-henderson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
