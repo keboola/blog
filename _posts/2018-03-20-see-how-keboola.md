@@ -4,7 +4,7 @@ title: See How Keboola Automated Personalized MailChimp + SurveyMonkey Campaigns
 perex: 'Our client is in the event business organizing regular meetups for CEO’s in
   the Vancouver area, specifically for technology companies. '
 date: 2018-02-14 00:00:00 +0000
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 cover_photo_slider: ''
 categories: how-to
