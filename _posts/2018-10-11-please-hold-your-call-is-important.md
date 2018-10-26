@@ -5,7 +5,7 @@ categories: how-to
 date: 2018-10-11 00:00:00 +0000
 perex: We’ve recently experienced two fairly large system problems that have affected
   approximately 35% of our clients.
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: "/uploads/holdTheLine-1.jpg"
 
