@@ -11,8 +11,6 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by Martin Fiser
-
 ## Intro
 
 At the same time as the [announcement](http://blog.keboola.com/new-dose-of-steroids-in-the-keboola-backend) about default backend in KBC being shifted to Snowflake, I have started working on a new project. The customer pushed us the initial dump of two main tables (10M rows each) and some other small attribute tables.
