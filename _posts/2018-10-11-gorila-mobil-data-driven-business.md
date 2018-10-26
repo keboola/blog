@@ -6,13 +6,11 @@ date: 2014-11-18 14:53:23 +0000
 perex: 'Gorila approached us at Keboola a couple of months before their official launch.
   They had one goal: “We need to have a data-driven company and we want you to help
   us set it up.” '
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by Petr Šimeček
-
 In July 2014, [O2 announced](http://byznys.ihned.cz/c1-62479960-kellnerova-o2-koupila-preprodejce-tarifu-gorila-mobil-zakaznici-to-pry-nepociti) that it had acquired Gorila Mobil (virtual mobile operator). Gorila approached us at Keboola a couple of months before their official launch.  They had one goal: “We need to have a data-driven company and we want you to help us set it up.”
 
 The brain behind Gorila is [Roman Novacek](https://www.linkedin.com/in/novacekroman), a brain that works a bit differently than yours or mine.
