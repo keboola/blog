@@ -61,6 +61,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
 - _posts/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.md
 - _posts/2018-10-26-style-test.md
 - _posts/2018-10-11-stop-being-an-excel-martir.md
@@ -76,7 +77,6 @@ pages:
 - _posts/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.md
 - _posts/2018-10-11-empowering.md
 - _posts/2018-10-11-aggregatio.md
-- _posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md
 - _posts/2018-10-11-when-salesforce-met-keboola.md
 - _posts/2018-10-11-avast.md
 - _posts/2018-10-11-why.md

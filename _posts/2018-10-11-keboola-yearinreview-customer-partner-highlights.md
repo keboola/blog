@@ -6,13 +6,11 @@ date: 2016-12-21 14:56:17 +0000
 perex: In the spirit of the season, we wanted to take a quick stroll down memory lane
   and give thanks for some of the big things we were able to be a part of and the
   people that helped us make them happen!
-user: pavel-dolezal
+user: colin-mcgrew
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by Colin McGrew
-
 It’s been quite an exciting year for us here at Keboola and the biggest reason for that is our fantastic network of partners and customers -- and of course a huge thanks to our team!  In the spirit of the season, we wanted to take a quick stroll down memory lane and give thanks for some of the big things we were able to be a part of and the people that helped us make them happen!
 
 ![](/uploads/2016.jpg)
