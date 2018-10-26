@@ -5,13 +5,11 @@ categories: nerds
 date: 2017-03-02 14:51:02 +0000
 perex: Not all forecasting problems can be solved by the same procedure. Prophet is
   optimized for the business forecast tasks we have encountered at Facebook.
-user: pavel-dolezal
+user: petr-simecek
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-by Martin Fiser
-
 It all started yesterday morning when I saw multiple tweets mentioning a new forecasting library published on my way to work:
 
 ![](/uploads/forecasting1.jpg)
