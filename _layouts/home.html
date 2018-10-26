@@ -36,12 +36,8 @@
 					{% assign postcountingin = postcountingin | plus: 1 %}
 					{% if postcountingin < 7 %}
 						<li><a href="{{ post.url }}">
-							<div class="img"><img src="{{ post.coverphoto_slider }}" alt=""></div>
-							<i class="bg-img"></i>
-							<div class="item-desc">
-								<h2>{{ post.title }}</h2>
-								<p>Go to the article</p>
-							</div>
+							<div class="img"><img src="{{ post.coverphoto_slider }}" alt="{{ post.title }}"></div>{% comment %}<i class="bg-img"></i>{% endcomment %}
+							<div class="item-desc"><h2>{{ post.title }}</h2><p>Go to the article</p></div>
 						</a></li>
 					{% endif %}
 				{% endif %}
