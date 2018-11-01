@@ -49,6 +49,7 @@ fields:
     - petr-simecek
     - sarah-henderson
     - pavel-dolezal
+    - martin-fiser
   label: user
 - type: file
   name: coverphoto
