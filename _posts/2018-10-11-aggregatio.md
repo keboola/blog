@@ -8,6 +8,7 @@ perex: Not all forecasting problems can be solved by the same procedure. Prophet
 user: petr-simecek
 coverphoto: ''
 coverphoto_slider: ''
+permalink: facebook-prophet-forecasting-library
 
 ---
 It all started yesterday morning when I saw multiple tweets mentioning a new forecasting library published on my way to work:
