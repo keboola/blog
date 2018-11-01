@@ -9,6 +9,7 @@ perex: At the same time as the announcement about default backend in KBC being s
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
+permalink: snowflake-vs-redshift-backend-speed-comparison
 
 ---
 ## Intro
