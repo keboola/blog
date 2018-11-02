@@ -10,11 +10,14 @@
 	<meta name="author" content="r4ms3s.cz">
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
 
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@keboola">
+	{% if page.url == '/' %}<meta property="og:title" content="Keboola papers">
+	{% else %}<meta property="og:title" content="{{ page.title }} - Keboola papers">{% endif %}
+	<meta property="og:url" content="https://blog.keboola.com{{ page.url }}">
+	<meta property="og:description" content="Collection of blogs about our work on data projects, client stories as well as guest and partner posts.">
 	<meta property="og:image" content="https://blog.keboola.com/img/ogImg.jpg">
 
-	<meta name="twitter:card" content="summary"></meta>
-	<meta name="twitter:site" content="@keboola"></meta>
-	
 	<link rel="shortcut icon" href="/favicon.ico">
 	
 	<link rel="stylesheet" href="/css/style.css?v=2">
