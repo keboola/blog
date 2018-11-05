@@ -62,6 +62,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-10-11-snowflake.md
 - _posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md
 - _posts/2018-10-11-empowering.md
@@ -102,4 +103,3 @@ pages:
 - _posts/heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md
 - _posts/integrating-50-marketing-data-sources.md
 - _posts/heroes-at-liftago.md
-- _posts/2018-03-20-see-how-keboola.md
