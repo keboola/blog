@@ -9,14 +9,20 @@
 	<meta name="description" content="Collection of blogs about our work on data projects, client stories as well as guest and partner posts.">
 	<meta name="author" content="r4ms3s.cz">
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
-
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@keboola">
+	
 	{% if page.url == '/' %}<meta property="og:title" content="Keboola papers">
 	{% else %}<meta property="og:title" content="{{ page.title }} - Keboola papers">{% endif %}
 	<meta property="og:url" content="https://blog.keboola.com{{ page.url }}">
 	<meta property="og:description" content="Collection of blogs about our work on data projects, client stories as well as guest and partner posts.">
 	<meta property="og:image" content="https://blog.keboola.com/img/ogImg.jpg">
+	
+	{% if page.url == '/' %}<meta property="twitter:title" content="Keboola papers">
+	{% else %}<meta property="twitter:title" content="{{ page.title }} - Keboola papers">{% endif %}
+  	<meta name="twitter:url" content="https://blog.keboola.com{{ page.url }}"/>
+  	<meta name="twitter:description" content="Collection of blogs about our work on data projects, client stories as well as guest and partner posts."/>
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://blog.keboola.com/img/ogImg.jpg"/>
+	<meta name="twitter:site" content="@keboola">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 	
