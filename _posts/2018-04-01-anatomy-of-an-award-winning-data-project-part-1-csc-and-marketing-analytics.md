@@ -43,9 +43,9 @@ Here are the stats:
 
 To learn more about the project, first we asked Chris to provide a little context into the problem we were solving and the vision of the solution.
 
-**Keboola: What was the overall objective for the project?**
+**What was the overall objective for the project?**
 
-_Chris: To consolidate complicated ecosystem of 50+ tools into a single location for KPI’s and insights_
+_To consolidate complicated ecosystem of 50+ tools into a single location for KPI’s and insights_
 
 **How did you expect users would benefit and why would they “bother”?**
 
