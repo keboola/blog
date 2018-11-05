@@ -40,4 +40,4 @@ The second example is a customer who just implemented Salesforce CRM basics - co
 
 ## Conclusion
 
-It is easy to think about many other examples Keboola Connection can play an important role in, not just as a middle-man between Salesforce and other systems, but also to help identify important information across all the records we have.  What use case can you see in your environment?
+It is easy to think about many other examples Keboola Connection can play an important role in, not just as a middle-man between Salesforce and other systems, but also to help identify important information across all the records we have. What use case can you see in your environment?
