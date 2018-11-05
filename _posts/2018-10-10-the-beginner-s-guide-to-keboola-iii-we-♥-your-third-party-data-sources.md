@@ -16,7 +16,7 @@ In this edition of the Beginner’s Guide you’ll find out how to use data from
 
 ### What data sources does Keboola use?
 
-The short answer…...lots. At Keboola, we are able to connect to **most modern systems**. We simply need to find the **API** and it’s ready, set, go.  We like to think of APIs as magical translators that allow programs to exchange data and thus make it more meaningful to you.
+The short answer…...lots. At Keboola, we are able to connect to **most modern systems**. We simply need to find the **API** and it’s ready, set, go. We like to think of APIs as magical translators that allow programs to exchange data and thus make it more meaningful to you.
 
 These are the 9 nominees for “**most used source in a Keboola project**” (in no particular order):
 
