@@ -43,11 +43,11 @@ Unfortunately, this great ride lasted only 3 months. The Gorila project was over
 
 Roman moved onto a new project, and Keboola was ready. Anyhow, who can say you have a iPhone cover from the [real cherry wood](http://www.esperia.cz/dreveny-kryt-pro-iphone-5c-esperia-eclat-modry-tresen.html)? We are very interested to see how they will handle the tricky things like [life time warranty](http://www.epishop.cz/dozivotni-zaruka) for the bamboo iPad cover and what role data will play in that business.
 
-I caught Roman during his trip through China where he was stuffing himself with chicken feet - so here’s a quick Google Docs style interview :)
+I caught Roman during his trip through China where he was stuffing himself with chicken feet - so here’s a quick Google Docs style interview. 
 
 PS: **Roman, what was the hardest thing in the beginning of Gorila ?**
 
-RN: Convincing O2 that we have to be agile and have NO time for endless meetings. We wanted to focus 100% of our time and energy on marketing and we knew we needed the company to be 100% based on data.  In the beginning no one believed this vision inside O2. Today, (after the Gorla acquisition) O2 wants to have the same system as we had (using the sales / activation/ channels activation data from yesterday). [Dusan Simonovic](https://www.linkedin.com/in/madcap) and [Jiri Caudr](https://www.linkedin.com/in/jiricaudr) are the stakeholders and I hope they will be successful with that. When you know what is going on inside the company, you don’t have to speculate . That gives you real power to make decisions and work hard to achieve you goals; because you know exactly WHAT you’re doing and WHY you’re doing it. No stumbling in the dark. That’s how you oddelis zrno od plev….
+RN: Convincing O2 that we have to be agile and having NO time for endless meetings. We wanted to focus 100% of our time and energy on marketing and we knew we needed the company to be 100% based on data.  In the beginning no one believed this vision inside O2. Today, (after the Gorila acquisition) O2 wants to have the same system as we had (using the sales / activation/ channels activation data from yesterday). [Dusan Simonovic](https://www.linkedin.com/in/madcap) and [Jiri Caudr](https://www.linkedin.com/in/jiricaudr) are the stakeholders and I hope they will be successful with that. When you know what is going on inside the company, you don’t have to speculate . That gives you real power to make decisions and work hard to achieve you goals; because you know exactly WHAT you’re doing and WHY you’re doing it. No stumbling in the dark. That’s how you oddelis zrno od plev….
 
 PS: **What do you mean by “odděluje zrna od plev”?**
 
@@ -69,4 +69,4 @@ RN: We were spending around 1.5M / month on advertising. Marketing wise, our ads
 
 PS:  **Now you’re data guy forever?**
 
-RN: You got it buddy! :-) In any company starting data analytics will be the first thing that I will be taking care off. Once we see inside the data and what’s going on inside the company, we are better able to take risks and test new things.
+RN: You got it buddy! In any company starting data analytics will be the first thing that I will be taking care off. Once we see inside the data and what’s going on inside the company, we are better able to take risks and test new things.
