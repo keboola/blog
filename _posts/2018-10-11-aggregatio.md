@@ -60,9 +60,3 @@ Not all forecasting problems can be solved by the same procedure. Prophet is opt
 * a reasonable number of missing observations or large outliers
 * historical trend changes, for instance due to product launches or logging changes
 * trends that are non-linear growth curves, where a trend hits a natural limit or saturates
-
-  Martin Fiser (Fisa)
-
-  Keboola, Vancouver, Canada
-
-  Twitter: @VFisa
