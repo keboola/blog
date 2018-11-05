@@ -34,7 +34,7 @@ First step: exporting our clients from our old accounting tool [Flexibee](https:
 
 _Keboola Generic extractor config for getting clients’ info from Fakturoid into Keboola Connection_
 
-With our customers’ records ready we just needed to get the data into Keboola Connection. It was time to set up our [Generic Extractor](https://developers.keboola.com/extend/generic-extractor/). Within half an hour it was done! 
+With our customers’ records ready we just needed to get the data into Keboola Connection. It was time to set up our [Generic Extractor](https://developers.keboola.com/extend/generic-extractor/). Within half an hour it was done!
 
 ## **Step 3  —  Creating two tables with invoices and their items for uploading into Fakturoid**
 
@@ -73,4 +73,4 @@ Saving our colleague’s time, enabled her to spend time on more interesting thi
 
 Total = circa 11 hours
 
-Do you have any process that takes too much time from your team and want to automate? [Write us a few lines](mailto:info@keboola.com) (not of code, no!) and we’d be happy to help you!
+Do you have any process that takes too much time from your team and want to automate? [Write us a few lines](mailto:info@keboola.com) (not of code, don't worry!) and we’d be happy to help you!
