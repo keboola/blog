@@ -756,6 +756,10 @@ section{
     .opacity(20);
     .transition(all .2s ease-in-out);
 
+    &.disabled{
+      visibility:hidden;
+      cursor:default;
+    }
     &:hover{
       .opacity(100);
     }
