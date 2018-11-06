@@ -1,5 +1,5 @@
 ---
-title: Big Data is about Quality, not Quantity
+title: Big Data Is About Quality, Not Quantity
 layout: post
 categories: product
 date: 2018-09-18 00:00:00 +0000
