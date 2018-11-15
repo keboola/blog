@@ -62,6 +62,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/keboola-appointed-new-head-of-sales-europe.md
 - _posts/2018-03-20-see-how-keboola.md
 - _posts/2018-10-11-snowflake.md
 - _posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md
