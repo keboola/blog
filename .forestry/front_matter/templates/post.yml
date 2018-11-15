@@ -62,6 +62,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.md
 - _posts/daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.md
 - _posts/data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.md
 - _posts/keboola-appointed-new-head-of-sales-europe.md
