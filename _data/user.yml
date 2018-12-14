@@ -1,4 +1,7 @@
 ---
+- id: fenek-pr
+  name: Fenek PR
+  desc: Fenek PR
 - id: martin-fiser
   name: Martin Fišer
   desc: ''
