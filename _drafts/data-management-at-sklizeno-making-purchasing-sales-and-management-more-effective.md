@@ -7,7 +7,7 @@ date: 2018-11-15 13:17
 perex: ''
 user: elena-manole
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/sklizeno.jpg"
 
 ---
 ### **Data management at Sklizeno: making purchasing, sales and management more effective**
