@@ -4,7 +4,7 @@ layout: post
 categories: customer-stories
 date: 2018-11-15 13:25
 perex: ''
-user: elena-manole
+user: fenek-pr
 coverphoto: ''
 coverphoto_slider: "/uploads/pietro.jpg"
 
