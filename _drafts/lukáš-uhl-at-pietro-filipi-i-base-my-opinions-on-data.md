@@ -4,13 +4,11 @@ layout: post
 categories: customer-stories
 date: 2018-11-15 13:25
 perex: ''
-user: ''
+user: elena-manole
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-**Lukáš Uhl at Pietro Filipi: I base my opinions on data** 
-
 ### **A data-driven approach behind the company’s transformation: how Pietro Filipi found a way out of their insolvency.**
 
 Czech fashion brand Pietro Filipi has been producing clothes since 1993; since autumn 2017, a new owner has been at the helm. Michal Mička’s C2H investment firm bought 80% of Pietro Filipi, with the aim of reviving the brand’s prosperity and supporting its expansion both abroad and into e-commerce.
@@ -31,7 +29,6 @@ One of my first phone calls was to Keboola, because I base my opinions on data, 
 
 **And back then what state was the data in?**
 
-  
 It was in a terrible state. They only had Excel reports, containing a huge number of interconnected tables containing up to 12 years of history. Every morning, one lady at controlling got up and spent an hour and a half starting the Excel tables there. Then, she manually copied the data for the previous day from our internal system. She filled the billions of cells and sent it to others quite regularly. It was a pointless task. When somebody wanted information not directly contained in these Excel Spreadsheets, it was impossible to get it. For example, when sales declined, somebody asked why. If it was low footfall, we could find out there, because the information was in the adjacent cell. But if I wanted some information about the product mix, or who exactly was doing a shift or things like that, it wasn’t available.
 
 We also had a rich source of information from cameras monitoring store footfall, but our ancient records were subdivided into days and branches, and didn’t have an aggregate overview of the entire network over a longer period. I had to sit for hours on end copying out cells from the tons of Excel spreadsheets, so that I could get an overall view of footfall, in Tableau.
@@ -70,8 +67,7 @@ We had a chronic lack of development capacities and my requests were 180th in th
 
 **Getting back to the present and the future:  what’s the next step for you in terms of data?**
 
-  
-Here we have to say something like Pietro at Kara, which we recently bought. In that case, the reporting is about one million times worse than it is here. Here’s an example. One of Kara's stores told me that they relocated to the centre of Teplice, which helped a lot. The sales improved, and everything was wonderful. I said I was interested in when that was, what was the revenue like before and after, and which product categories this improvement was driving. A couple of days later I received a handwritten PDF ... 
+Here we have to say something like Pietro at Kara, which we recently bought. In that case, the reporting is about one million times worse than it is here. Here’s an example. One of Kara's stores told me that they relocated to the centre of Teplice, which helped a lot. The sales improved, and everything was wonderful. I said I was interested in when that was, what was the revenue like before and after, and which product categories this improvement was driving. A couple of days later I received a handwritten PDF ...
 
 Some sales plans for individual stores and months versus real results are processed in their own system, but it can’t be accessed, printed, or even exported to Excel. So, we have 50 branches times 12 months, which is 600 numbers, and the only thing we can do with it is to manually rewrite it. People aren’t used to that. It’s a completely different world! So, we must put in place some reporting there so we can figure out what’s going on in the company, because right now we have no idea.
 
