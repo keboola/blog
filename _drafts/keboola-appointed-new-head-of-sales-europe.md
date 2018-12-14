@@ -6,7 +6,7 @@ date: 2018-11-15 13:11:08 +0000
 perex: ''
 user: elena-manole
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/jakubTurner.jpg"
 
 ---
 ### Jakub Turner will lead both Prague and London sales teams.
