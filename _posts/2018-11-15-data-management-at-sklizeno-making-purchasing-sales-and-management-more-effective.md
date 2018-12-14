@@ -5,7 +5,7 @@ layout: post
 categories: customer-stories
 date: 2018-11-15 13:17
 perex: ''
-user: elena-manole
+user: fenek-pr
 coverphoto: ''
 coverphoto_slider: "/uploads/sklizeno-1.jpg"
 
