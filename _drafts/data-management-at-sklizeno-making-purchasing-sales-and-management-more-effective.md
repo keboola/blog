@@ -5,7 +5,7 @@ layout: post
 categories: customer-stories
 date: 2018-11-15 13:17
 perex: ''
-user: ''
+user: elena-manole
 coverphoto: ''
 coverphoto_slider: ''
 
