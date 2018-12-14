@@ -7,7 +7,7 @@ date: 2018-11-15 13:23
 perex: ''
 user: elena-manole
 coverphoto: "/uploads/helloBankCover.jpg"
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/helloBankSmall.jpg"
 
 ---
 Until last year, it was called Cetelem, a provider of consumer credit and credit cards. In the autumn of 2017, BNP Paribas’ subsidiary was transformed into a new bank. Hello bank! caters for retail clients and has come up with several new products, so far not made public, for them this year. We visited the company for comments and news from the bank’s data back-office.
