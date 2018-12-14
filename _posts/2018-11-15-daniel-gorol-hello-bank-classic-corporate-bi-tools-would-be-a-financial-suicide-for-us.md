@@ -5,7 +5,7 @@ layout: post
 categories: customer-stories
 date: 2018-11-15 13:23
 perex: ''
-user: elena-manole
+user: fenek-pr
 coverphoto: "/uploads/helloBankCover.jpg"
 coverphoto_slider: "/uploads/helloBankSmall.jpg"
 
