@@ -6,7 +6,7 @@ date: 2018-11-15 13:25
 perex: ''
 user: elena-manole
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/pietro.jpg"
 
 ---
 ### **A data-driven approach behind the company’s transformation: how Pietro Filipi found a way out of their insolvency.**
