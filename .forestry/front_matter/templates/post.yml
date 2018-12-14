@@ -50,6 +50,7 @@ fields:
     - sarah-henderson
     - pavel-dolezal
     - martin-fiser
+    - martin-fiser
   label: user
 - type: file
   name: coverphoto
