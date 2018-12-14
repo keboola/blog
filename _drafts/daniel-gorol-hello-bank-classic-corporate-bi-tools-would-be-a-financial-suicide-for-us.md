@@ -6,7 +6,7 @@ categories: customer-stories
 date: 2018-11-15 13:23
 perex: ''
 user: elena-manole
-coverphoto: ''
+coverphoto: "/uploads/helloBankCover.jpg"
 coverphoto_slider: ''
 
 ---
