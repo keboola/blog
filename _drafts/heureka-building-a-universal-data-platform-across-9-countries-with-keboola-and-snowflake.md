@@ -10,13 +10,13 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-## **Heureka: building a universal data platform across 9 countries with Keboola and Snowflake** 
+## **Heureka: building a universal data platform across 9 countries with Keboola and Snowflake**
 
 **Summary**
 
 **Client**: Heureka is the leading e-commerce shopping platform in Central and Eastern Europe, with millions of products from approximately 50,000 online stores in the Czech Republic and Slovakia. Under the control of Rockaway, a venture capital firm and the owner of Heureka, the group has expanded into Hungary, Romania and Bulgaria, through the acquisition of Arukereso in 2017. It also moved into Slovenia, Croatia, Serbia and Bosnia & Hercegovina, through the acquisition of Ceneje in 2018. As a result, the group now holds market leader positions in 9 CEE countries, and the Heureka management also supervises the whole portfolio.
 
-**Our hero:** Michal Buzek, Head of Business Intelligence at Heureka.
+**Our #datahero:** Michal Buzek, Head of Business Intelligence at Heureka.
 
 **Purpose:** Firstly to make managerial reporting more efficient and coherent; secondly, to scale it and thus consolidate reporting across the regions; and finally, to provide data to the primary clients, the online stores.
 
@@ -28,7 +28,7 @@ coverphoto_slider: ''
 
 **Heureka,** the leading e-commerce shopping platform (sometimes called a “comparison shopping engine”) in Central and Eastern Europe, decided at the beginning of 2017 to set up the Business Intelligence Department. The company’s CEO, Tomáš Braverman, felt that there was much potential in the firm’s data for all the parts of the Heureka business, mostly in the innovations to both products and company website, and to a better service for clients, approximately 50,000 online stores in the Czech Republic and Slovakia.
 
-It was then that **Michal Buzek joined Heureka, with clear first goal: to build a data platform, the basis of all the future data analytics needs.** 
+It was then that **Michal Buzek joined Heureka, with clear first goal: to build a data platform, the basis of all the future data analytics needs.**
 
 In his previous working experience, Michal worked at Seznam.cz (sometimes called Czech Google), the Czech Republic’s biggest search engine, which used Keboola Connection. As the new Head of Business Intelligence, he got in touch with us, one of his first calls. Among the firm’s strategic decisions was the use of Snowflake as its data warehouse solution.
 
@@ -46,7 +46,7 @@ First, implementation across the group took place in just weeks, surprising even
 
 Michal’s team’s purpose isn’t about reporting; this work was merely the first step to more advanced data analysis. The **BI team in Heureka serves all employees ‒ most notably the management, product owners and marketing specialists.**
 
-The basic work of the BI team involves providing internal clients with product analysis, relevant customer data and any help with their daily schedule and decision-making. Here, the combination of Keboola, Snowflake and GoodData as a reporting tool was also essential. Now, all the employees all around the region have  access to all the information they need in a few simple clicks. 
+The basic work of the BI team involves providing internal clients with product analysis, relevant customer data and any help with their daily schedule and decision-making. Here, the combination of Keboola, Snowflake and GoodData as a reporting tool was also essential. Now, all the employees all around the region have  access to all the information they need in a few simple clicks.
 
 The longest SQL transformation at Heureka consists of more than 1000 rows which means any changes to the code could potentially cause huge damage to the business. This is also why BI team heavily uses the Keboola Connection sandbox feature.
 
