@@ -28,7 +28,7 @@ The attitude towards data was one of the reasons why I decided to join. The CEO 
 
 **What does the data team look like?**
 
-Well, you’re talking to it right now. BI is my responsibility, and Liftago has a 27-member BI team. The first person to join us is an intern from Poland, who studied quantitative finance and is highly skilled at data modelling in R. Right now, my job mostly involves ETL and BI. We work together perfectly and, for example, we built a brand new dataflow for marketing incentivisation within two weeks. We’re considering recruiting another full-time team member soon, but we also work with consultancy company Trologic.
+Well, you are talking to it right now. BI is my responsibility, and Liftago has a 27-member BI team. The first person to join us is an intern from Poland, who studied quantitative finance and is highly skilled at data modelling in R. Right now, my job mostly involves ETL and BI. We work together perfectly and, for example, we built a brand new dataflow for marketing incentivisation within two weeks. We’re considering recruiting another full-time team member soon, but we also work with consultancy company Trologic.
 
 **Outsourcing in BI, and using agencies, consulting companies and micro teams is a big issue right now…**
 
