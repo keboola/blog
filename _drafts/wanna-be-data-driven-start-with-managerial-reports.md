@@ -2,7 +2,7 @@
 layout: ''
 title: Wanna be data-driven? Start with managerial reports
 perex: ''
-categories: ''
+categories: how-to
 date: ''
 user: ''
 coverphoto: ''
