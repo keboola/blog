@@ -6,8 +6,11 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: true
+  hidden: false
   default: post
+  description: post
+  config:
+    required: true
 - type: text
   label: permalink
   name: permalink
