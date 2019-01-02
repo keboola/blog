@@ -8,6 +8,7 @@ perex: ''
 user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: ''
+permalink: heureka-build
 
 ---
 ## **Heureka: building a universal data platform across 9 countries with Keboola and Snowflake**
