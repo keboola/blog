@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Back to school! Learn to work with Keboola in our Keboola Academy!
-perex: ''
+perex: Being in the data analytics/business intelligence market for 10 years, we know
+  very well that transforming a company into data-driven organization is not about
+  databases, apps or even the data itself.
 categories: events
 date: 2018-12-20 00:00:00 +0000
 user: elena-manole
@@ -11,7 +13,7 @@ coverphoto_slider: "/uploads/academy.jpg"
 ---
 ![](/uploads/w67mHhdJo6BqfcWw2dAgBedIAZ2Z7-ijJLnapEV5Thb8FSRmUCSEfqpJhoEXnc8TMqovvvJ-L0FOHH4J7EaGcu0y-hY0BxxuI3RhXlkrMN989NgU2SpKIREMMOGMNq3G5R980TLb.jpeg)
 
-#### **Being in the data analytics/business intelligence market for 10 years, we know very well that transforming a company into data-driven organization is not about databases, apps or even the data itself. It is always about people, their will and skill to leverage data in both their strategic decisions and everyday work. That is why we are always highlighting the people responsible for the change within the company and calling them #dataheroes. And that is also the reason for our new educational programme - Keboola Academy.**
+#### **It is always about people, their will and skill to leverage data in both their strategic decisions and everyday work. That is why we are always highlighting the people responsible for the change within the company and calling them #dataheroes. And that is also the reason for our new educational programme - Keboola Academy.**
 
 Keboola mission has always been about empowerment. Giving the management and employees the right information to do their work better. To talk about substance and next steps instead of arguing about who has the right numbers. To help specialist to see the whole picture and give managers tools to assess specialists work. To bring one source of truth, one universal language across the whole company, its departments and branches.
 
