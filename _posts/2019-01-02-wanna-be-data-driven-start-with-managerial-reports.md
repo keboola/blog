@@ -35,6 +35,8 @@ We love how our partner Looker has put it: you need a single source of truth for
 
 > _“I need data to assess team performance and opinions. Without them I am easily bullshited.” says Lukáš Uhl and Jan Langer agrees on that: “In general, I’ve more fact-based arguments up my sleeve so to speak.”_
 
+ 
+
 ![](/uploads/5axUnfCvYr-EaPvgugpG0p3-Qt8f1JbzPzAUpvw6xJ6ttxsAxkKthwEL-7TdAW2v1eDzWoI893Hj9kcwD7mRb2bxcKZmZifDbkZxaO3Ho18TcmeXII8_QHcbNZCVarStEzQzg2v8.jpeg)
 
 #### **Data health**
