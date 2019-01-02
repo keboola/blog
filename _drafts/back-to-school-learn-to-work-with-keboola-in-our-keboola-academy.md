@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Back to school! Learn to work with Keboola in our Keboola Academy!
 perex: ''
 categories: events
