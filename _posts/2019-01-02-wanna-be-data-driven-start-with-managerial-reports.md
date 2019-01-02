@@ -11,9 +11,7 @@ coverphoto_slider: "/uploads/learning.jpg"
 ---
 ### Wanna be data-driven? Start with managerial reports
 
-![](https://lh3.googleusercontent.com/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W =602x401)
-
-**Data-driven company has been a buzzword for nearly two decades. We ourselves use the term a lot because we strongly believe that data is the key to drive any business forward. But what does it really mean to be data-driven? Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
+![](/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg)**Data-driven company has been a buzzword for nearly two decades. We ourselves use the term a lot because we strongly believe that data is the key to drive any business forward. But what does it really mean to be data-driven? Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
 
 Nothing will tell you how data-driven a company is than looking at it’s managerial reports.. Asking how the reports are being put on tells you a lot about data infrastructure, use of business intelligence apps and state of data automation. If the manager spends more than half an hour on his report, putting data from different systems into Excel spreadsheet, then he is probably wasting his time and your money.
 
@@ -31,9 +29,9 @@ So what does good managerial reporting look like?
 
 We love how our partner Looker has put it: you need a single source of truth for all. As CEO of Lékárna.cz, leading Czech e-commerce pharmacy, explained the situation before implementing Keboola: “_Each manager had their own set of statistics from which they drew data. This approach lead to a distortion of company-wide figures, since they were not drawn from the same database. There were around 15 interpretations of gross margin floating around simultaneously.”_  Having a single source of truth means no more arguing about the data and more time to discuss on future next steps. You can discuss what worked, what didn’t work and how to make the thing better next time.
 
-> _“I need data to assess team performance and opinions. Without them I am easily bullshited.”_ says Lukáš Uhl and Jan Langer agrees on that: _“In general, I’ve more fact-based arguments up my sleeve so to speak.”_
+> _“I need data to assess team performance and opinions. Without them I am easily bullshited.” says Lukáš Uhl and Jan Langer agrees on that: “In general, I’ve more fact-based arguments up my sleeve so to speak.”_
 
-_![](https://lh3.googleusercontent.com/5axUnfCvYr-EaPvgugpG0p3-Qt8f1JbzPzAUpvw6xJ6ttxsAxkKthwEL-7TdAW2v1eDzWoI893Hj9kcwD7mRb2bxcKZmZifDbkZxaO3Ho18TcmeXII8_QHcbNZCVarStEzQzg2v8 =602x329)_
+![](/uploads/5axUnfCvYr-EaPvgugpG0p3-Qt8f1JbzPzAUpvw6xJ6ttxsAxkKthwEL-7TdAW2v1eDzWoI893Hj9kcwD7mRb2bxcKZmZifDbkZxaO3Ho18TcmeXII8_QHcbNZCVarStEzQzg2v8.jpeg)
 
 #### **Data health**
 
