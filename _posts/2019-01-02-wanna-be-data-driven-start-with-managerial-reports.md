@@ -9,8 +9,9 @@ coverphoto: ''
 coverphoto_slider: "/uploads/learning.jpg"
 
 ---
+### **Data-driven company has been a buzzword for nearly two decades. We ourselves use the term a lot because we strongly believe that data is the key to drive any business forward. But what does it really mean to be data-driven? Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
 
-![](/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg)**Data-driven company has been a buzzword for nearly two decades. We ourselves use the term a lot because we strongly believe that data is the key to drive any business forward. But what does it really mean to be data-driven? Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
+![](/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg)
 
 Nothing will tell you how data-driven a company is than looking at it’s managerial reports.. Asking how the reports are being put on tells you a lot about data infrastructure, use of business intelligence apps and state of data automation. If the manager spends more than half an hour on his report, putting data from different systems into Excel spreadsheet, then he is probably wasting his time and your money.
 
