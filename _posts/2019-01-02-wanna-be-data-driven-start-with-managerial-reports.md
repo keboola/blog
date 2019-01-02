@@ -19,7 +19,7 @@ Wonder what a typical managerial meeting looks like in a data-driven company? Do
 
 The Sales Director of Sklizeno, a fresh food retail chain, reported the same problems:
 
-“_We used to run our ERP on WinShop and then converted data from that system to Excel files. At night, we produced reports for the top management from those inputs so that we could come up with conclusions, compare stores with each other, year on year, by segments, etc. But we had less and less time for that, and the reporting frequency gradually dropped to one six-monthly report._“
+> “_We used to run our ERP on WinShop and then converted data from that system to Excel files. At night, we produced reports for the top management from those inputs so that we could come up with conclusions, compare stores with each other, year on year, by segments, etc. But we had less and less time for that, and the reporting frequency gradually dropped to one six-monthly report._“
 
 If your organization is having these issues, do not worry. We are often surprised by how many companies, even the big successful ones with huge IT and in house data analytics team, have a big mess in their data structure and how obvious it is from their management meetings.
 
@@ -27,7 +27,11 @@ So what does good managerial reporting look like?
 
 #### **A single source of truth for all**
 
-We love how our partner Looker has put it: you need a single source of truth for all. As CEO of Lékárna.cz, leading Czech e-commerce pharmacy, explained the situation before implementing Keboola: “_Each manager had their own set of statistics from which they drew data. This approach lead to a distortion of company-wide figures, since they were not drawn from the same database. There were around 15 interpretations of gross margin floating around simultaneously.”_  Having a single source of truth means no more arguing about the data and more time to discuss on future next steps. You can discuss what worked, what didn’t work and how to make the thing better next time.
+We love how our partner Looker has put it: you need a single source of truth for all. As CEO of Lékárna.cz, leading Czech e-commerce pharmacy, explained the situation before implementing Keboola: 
+
+> “_Each manager had their own set of statistics from which they drew data. This approach lead to a distortion of company-wide figures, since they were not drawn from the same database. There were around 15 interpretations of gross margin floating around simultaneously.”_
+
+ Having a single source of truth means no more arguing about the data and more time to discuss on future next steps. You can discuss what worked, what didn’t work and how to make the thing better next time.
 
 > _“I need data to assess team performance and opinions. Without them I am easily bullshited.” says Lukáš Uhl and Jan Langer agrees on that: “In general, I’ve more fact-based arguments up my sleeve so to speak.”_
 
@@ -39,7 +43,11 @@ You must work with the right, cleaned data. You have to trust it in order to fol
 
 #### **Automated**
 
-Reports shouldn’t take too much time to prepare. This is usually the first thing we do when implementing Keboola - automating the reports. For someone who has been using Excel sheets before it is usually dream come true. _“On a quarterly basis I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before, it took me a whole day._” says Jan Langer. While it is usually very convenient and cheap to hire an assistant to do this repetitive work, it is usually also risky.
+Reports shouldn’t take too much time to prepare. This is usually the first thing we do when implementing Keboola - automating the reports. For someone who has been using Excel sheets before it is usually dream come true. 
+
+> _“On a quarterly basis I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before, it took me a whole day._”
+
+says Jan Langer. While it is usually very convenient and cheap to hire an assistant to do this repetitive work, it is usually also risky.
 
 #### **Detailed if needed**
 
@@ -47,6 +55,10 @@ You have to be able to look into detail. This is the bottleneck of lots of the b
 
 #### **Used**
 
-For any report to be effective it must be used. As Lukáš Uhl, ex-Chief Logistic Officer at DeliveryHero puts it: “_Any report is meaningless unless there is a process connected to it._” That is also why it is hard and essential to come up with the right metrics and KPIs. You only achieve the right outcome by measuring, reporting and acting on the right KPIs.
+For any report to be effective it must be used. As Lukáš Uhl, ex-Chief Logistic Officer at DeliveryHero puts it: 
+
+> “_Any report is meaningless unless there is a process connected to it._”
+
+ That is also why it is hard and essential to come up with the right metrics and KPIs. You only achieve the right outcome by measuring, reporting and acting on the right KPIs.
 
 To conclude - being data-driven does not mean having an algorithm running your company - it means using the data properly, leveraging it to making better decisions and building better services. And we feel proud that Keboola has always been the right partner in doing so. If you want to learn more about Keboola, feel free to send us a message at [contactus@keboola.com](mailto:contactus@keboola.com).
