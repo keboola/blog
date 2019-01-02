@@ -4,7 +4,7 @@ title: Back to school! Learn to work with Keboola in our Keboola Academy!
 perex: ''
 categories: events
 date: 2018-12-20 00:00:00 +0000
-user: ''
+user: elena-manole
 coverphoto: ''
 coverphoto_slider: "/uploads/academy.jpg"
 
