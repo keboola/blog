@@ -3,7 +3,7 @@ layout: ''
 title: Wanna be data-driven? Start with managerial reports
 perex: ''
 categories: how-to
-date: ''
+date: 2019-01-01 23:00:00 +0000
 user: fenek-pr
 coverphoto: ''
 coverphoto_slider: "/uploads/learning.jpg"
