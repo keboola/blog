@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Wanna be data-driven? Start with managerial reports
-perex: ''
+perex: Data-driven company has been a buzzword for nearly two decades. We ourselves
+  use the term a lot because we strongly believe that data is the key to drive any
+  business forward. But what does it really mean to be data-driven?
 categories: how-to
 date: 2019-01-01 23:00:00 +0000
 user: fenek-pr
@@ -9,7 +11,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/learning.jpg"
 
 ---
-#### **Data-driven company has been a buzzword for nearly two decades. We ourselves use the term a lot because we strongly believe that data is the key to drive any business forward. But what does it really mean to be data-driven? Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
+#### **Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
 
  
 
