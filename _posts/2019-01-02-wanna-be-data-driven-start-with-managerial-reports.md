@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Wanna be data-driven? Start with managerial reports
 perex: ''
 categories: how-to
