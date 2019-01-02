@@ -6,7 +6,7 @@ categories: how-to
 date: ''
 user: fenek-pr
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/learning.jpg"
 
 ---
 ### Wanna be data-driven? Start with managerial reports
