@@ -11,13 +11,11 @@ coverphoto: ''
 coverphoto_slider: "/uploads/learning.jpg"
 
 ---
- 
-
-![](/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg)
-
 #### **Where do you start? Our experience based on working with hundreds of clients worldwide, both rapidly growing companies and enterprises, is that the one place to start with any digital transition and data innovation is (drumroll) - Managerial reports.**
 
-Nothing will tell you how data-driven a company is than looking at it’s managerial reports.. Asking how the reports are being put on tells you a lot about data infrastructure, use of business intelligence apps and state of data automation. If the manager spends more than half an hour on his report, putting data from different systems into Excel spreadsheet, then he is probably wasting his time and your money.
+Nothing will tell you how data-driven a company is than looking at it’s managerial reports.. Asking how the reports are being put on tells you a lot about data infrastructure, use of business intelligence apps and state of data automation. If the manager spends more than half an hour on his report, putting data from different systems into Excel spreadsheet, then he is probably wasting his time and your money. 
+
+![](/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg)
 
 Wonder what a typical managerial meeting looks like in a data-driven company? Do the managers use the same data sets? Do they argue about which numbers are correct or more truthful? If one of them is talking about margin, is it the same margin the other one was referring to?
 
