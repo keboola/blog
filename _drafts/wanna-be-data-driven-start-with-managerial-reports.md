@@ -4,7 +4,7 @@ title: Wanna be data-driven? Start with managerial reports
 perex: ''
 categories: how-to
 date: ''
-user: ''
+user: fenek-pr
 coverphoto: ''
 coverphoto_slider: ''
 
