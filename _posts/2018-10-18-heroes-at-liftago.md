@@ -8,6 +8,7 @@ perex: ''
 user: petr-simecek
 coverphoto: ''
 coverphoto_slider: "/uploads/liftago.jpg"
+permalink: interview-bert-svab-liftago
 
 ---
 **It’s great having a chance to sit down with you “virtually”, Bert. Could you kick off by introducing yourself and what you do?**
