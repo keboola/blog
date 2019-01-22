@@ -7,12 +7,14 @@ date: 2018-10-18 00:00:00 +0000
 perex: ''
 user: petr-simecek
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/liftago.jpg"
 
 ---
 **It’s great having a chance to sit down with you “virtually”, Bert. Could you kick off by introducing yourself and what you do?**
 
 Sure. I’m only in my mid-twenties and currently work as a business intelligence analyst at Liftago, a transportation startup in Prague, Czech Republic. I’m also a member of the Google Developer Group, and I organise hackathons and industry events in my home town of Pilsen. I almost ended up at the electronics and electrical engineering faculty of a local university, but I soon realised that I didn’t want to follow the standard programming or electrical engineering path.
+
+![](/uploads/liftago-taxi.jpg)
 
 **Tell us about** [**Liftago**](http://www.liftago.cz/)**, the company you’re currently working for.**
 
