@@ -1,6 +1,5 @@
 ---
-title: Integrating a huge number marketing sources into CRM? A CSC (now DXC) case
-  study
+title: Integrating a huge number marketing sources into CRM?
 layout: post
 categories: customer-stories
 date: 2019-01-21 01:00:00 +0000
