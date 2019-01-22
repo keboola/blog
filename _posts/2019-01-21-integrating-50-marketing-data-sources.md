@@ -6,7 +6,7 @@ categories: customer-stories
 date: 2019-01-21 01:00:00 +0000
 perex: ''
 user: kasey-jones-tonsfeldt
-coverphoto: ''
+coverphoto: "/uploads/dxc-cover.jpg"
 coverphoto_slider: "/uploads/dxc-slider.jpg"
 
 ---
