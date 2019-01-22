@@ -10,10 +10,6 @@ coverphoto: ''
 coverphoto_slider: ''
 
 ---
-### Interview: Bert Svab, Liftago on why hackathons matter, and what it’s like to lead BI at an ambitious transportation startup at just 25
-
-![Bert Svab, Aimtec Hackathon](https://lh5.googleusercontent.com/BzHqFJICviPdmwWVrFTNWmDZ40bdlPGCl6wD1tndaqyDFNNZwBi200fXIpnU50cr66caAWOvni-MJ75sykskwyQ1y4aVIysK-ypKhTGxuo0Yh7LaMRVKmx58MKGXyl_Y-mD-RPxW =602x400)
-
 **It’s great having a chance to sit down with you “virtually”, Bert. Could you kick off by introducing yourself and what you do?**
 
 Sure. I’m only in my mid-twenties and currently work as a business intelligence analyst at Liftago, a transportation startup in Prague, Czech Republic. I’m also a member of the Google Developer Group, and I organise hackathons and industry events in my home town of Pilsen. I almost ended up at the electronics and electrical engineering faculty of a local university, but I soon realised that I didn’t want to follow the standard programming or electrical engineering path.
@@ -39,14 +35,6 @@ I  like working with our consultancy company, Trologic, very much. Trologic bri
 What I like about Liftago most is the openness. We work with a local open-data initiative organising and attending hackathons, in which we’re trying to bring public transport data to our data, to help users get around as smoothly as possible.
 
 We recently opened up one of our data sets and challenged the tech community to work with it in different ways by tagging **#jedemeData**. The outcome was amazing, and you can see the results [**here.**](https://twitter.com/search?src=typd&q=%23jedemedata)
-
-[**![Pavliscak Matus](https://lh5.googleusercontent.com/BX5zXf_oVd30_bTwUaHUmJ4J4wq9uqwa8ihgjdeHhrTFTNPtleqRpLTqVOiSFkyDH2Q94Sq7598ltaH-Uq6lqe_zFx_ccrrG3S3IsrVaKa50e4oLPyZ5O1wBPhi91s7lXXITKaHr =602x305)**](https://twitter.com/search?src=typd&q=%23jedemedata)
-
-Open data by Liftago and Power BI: Matus Pavliscak
-
-![](https://lh4.googleusercontent.com/qrvjIOA5JB_2wAkc-TuLTyvjXXnfhqSvuBs6kpEdbG8GfcMcaLfnF3qwzBFmvSWvndosiRSJzDWYi6OtU-uwF-3nQE8XMNajuczhR21cdvoJ33lrW6n04b-KdfU6_9neTPTCQgOl =602x273)
-
-Paradox of choice by Martin Polacko
 
 **What are the most critical components for success in a data-driven startup?**
 
