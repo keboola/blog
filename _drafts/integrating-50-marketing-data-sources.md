@@ -2,7 +2,7 @@
 title: Integrating a huge number marketing sources into CRM? That’s a job for Keboola!
   A CSC (now DXC) case study
 layout: post
-categories: events
+categories: customer-stories
 date: 2018-10-18 00:00:00 +0000
 perex: ''
 user: kasey-jones-tonsfeldt
