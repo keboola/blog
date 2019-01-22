@@ -5,7 +5,7 @@ layout: post
 categories: customer-stories
 date: 2018-10-18 00:00:00 +0000
 perex: ''
-user: pavel-dolezal
+user: fenek-pr
 coverphoto: ''
 coverphoto_slider: ''
 
