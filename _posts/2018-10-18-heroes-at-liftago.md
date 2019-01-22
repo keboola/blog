@@ -1,6 +1,5 @@
 ---
-title: 'Interview: Bert Svab, Liftago on why hackathons matter, and what it’s like
-  to lead BI at an ambitious transportation startup at just 25'
+title: 'Interview: Bert Svab, Liftago on why hackathons matter'
 layout: post
 categories: events
 date: 2019-01-22 09:00:00 +0000
