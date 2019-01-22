@@ -3,11 +3,11 @@ title: Integrating a huge number marketing sources into CRM? A CSC (now DXC) cas
   study
 layout: post
 categories: customer-stories
-date: 2018-10-18 00:00:00 +0000
+date: 2019-01-21 01:00:00 +0000
 perex: ''
 user: kasey-jones-tonsfeldt
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/dxc-slider.jpg"
 
 ---
 ### **Summary**
