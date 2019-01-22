@@ -3,11 +3,11 @@ title: 'Heureka: building a universal data platform across 9 countries with Kebo
   and Snowflake'
 layout: post
 categories: customer-stories
-date: 2018-10-18 00:00:00 +0000
+date: 2019-01-17 01:00:00 +0000
 perex: ''
 user: fenek-pr
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/heureka.jpg"
 
 ---
 ### **Summary**
