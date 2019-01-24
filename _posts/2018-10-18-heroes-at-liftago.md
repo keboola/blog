@@ -2,7 +2,7 @@
 title: 'Interview: Bert Svab, Liftago on why hackathons matter'
 layout: post
 categories: events
-date: 2019-01-22 09:00:00 +0000
+date: 2017-11-14 09:00:00 +0000
 perex: ''
 user: petr-simecek
 coverphoto: ''
