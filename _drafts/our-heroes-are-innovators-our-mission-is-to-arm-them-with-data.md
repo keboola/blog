@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: events
+permalink: our-heroes-are-innovators
 title: Our heroes are innovators. Our mission is to arm them with data
 perex: ''
 date: ''
@@ -11,7 +12,7 @@ coverphoto_slider: ''
 ---
 ![](https://lh4.googleusercontent.com/vsJNQ8qnxF8fep5sKugp5OQ9H55PsR-czwNAL19YJ_C_773yiJbY1Sr3shu11ZakPB7_4-WPmyaHQ1_d1D5EjnjB1QPg71CuAebOl2H7GYjYbUnhXZRH-pAOu1dPxkps9pRGS4WJ =602x339)
 
-**This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.**
+### **This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.**
 
 Right from the start, we’ve been building our software on the premise that the cloud is the future. We also believe that transparency is the key. Both to getting the most from the platform as well as maintaining data security, as opposed to the black-box solutions. As the cloud is standard these days, and companies are now really experiencing the pain of being vendor-locked, we’re really happy that these values holding are strong, more so than ever before.
 
@@ -27,6 +28,6 @@ By defining our role and looking at the current situation on the market, we feel
 
 Our mission in the US is simple - to find our #dataheroes. We used the term Data Hero a lot internally, but the context was a person who was responsible for Keboola implementation at an organization. But the more we’ve been using the term, the more we’ve found it really appropriate. Because it doesn’t really matter if the person is a CEO or data analyst. Rather,  the main thing we’re looking for is his or her desire to make a change within the company by using data.
 
-If you’re reading this, the chances are that you know Keboola already. So, I’d like to ask you to help us in our effort to help other companies to fight off the “Googles and Amazons of their domain” or to put it another way, to enable thousands of companies to achieve their goals of becoming the new Amazon. 
+If you’re reading this, the chances are that you know Keboola already. So, I’d like to ask you to help us in our effort to help other companies to fight off the “Googles and Amazons of their domain” or to put it another way, to enable thousands of companies to achieve their goals of becoming the new Amazon.
 
-We’re looking for partners. We have a great relationship with GoodData, Snowflake, Looker and consultancy firms such as Deloitte. But above all, we’d like to talk to innovators within the enterprise or rapidly growing companies, so that we can arm them with data. 
+We’re looking for partners. We have a great relationship with GoodData, Snowflake, Looker and consultancy firms such as Deloitte. But above all, we’d like to talk to innovators within the enterprise or rapidly growing companies, so that we can arm them with data.
