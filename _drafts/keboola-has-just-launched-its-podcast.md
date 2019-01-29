@@ -11,6 +11,8 @@ coverphoto_slider: ''
 ---
 DataHeroes offers a chance to learn something new about data, technology, and data-driven companies
 
+![](https://lh4.googleusercontent.com/p_dCl_-CTjzbxidmAFHydRPO8QkZr8wAmq7LyYd_nO11wRxkqxbNNwwJTsasqaWJ6Z9rldELjsPb3xsARvlmETt-X3LZzuJJYBW3Gy7E_lne4TWQ5AVU6863gv40zUbIzTrPgIxa =602x301)
+
 Our CEO, Pavel Dolezal, hosts DataHeroes - a podcast about data, current technology trends and innovative company culture.
 
 He decided to create this DataHeroes Podcast to share everything he has learned from the real Data heroes – people that are changing their companies significantly from within - from CEOs to lead data scientists. The cultural aspects of data and data-driven companies are discussed and sometimes conversation goes into topic of ideal data/tech stack as well.
