@@ -4,8 +4,8 @@ categories: events
 permalink: our-heroes-are-innovators
 title: Our heroes are innovators. Our mission is to arm them with data
 perex: ''
-date: 2019-01-28 23:00:00 +0000
-user: fenek-pr
+date: 2018-12-23 23:00:00 +0000
+user: pavel-dolezal
 coverphoto: ''
 coverphoto_slider: "/uploads/kblCover-1.jpg"
 
