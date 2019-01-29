@@ -10,7 +10,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/kblCover-1.jpg"
 
 ---
-#### **This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.**
+This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.
 
 ![](/uploads/keboola-img-brand.jpg)
 
