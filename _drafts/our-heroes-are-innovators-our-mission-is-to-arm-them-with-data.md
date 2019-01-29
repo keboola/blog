@@ -7,12 +7,12 @@ perex: ''
 date: ''
 user: ''
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/kblCover-1.jpg"
 
 ---
-![](https://lh4.googleusercontent.com/vsJNQ8qnxF8fep5sKugp5OQ9H55PsR-czwNAL19YJ_C_773yiJbY1Sr3shu11ZakPB7_4-WPmyaHQ1_d1D5EjnjB1QPg71CuAebOl2H7GYjYbUnhXZRH-pAOu1dPxkps9pRGS4WJ =602x339)
+#### **This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.**
 
-### **This year, Keboola is celebrating its 10th anniversary. Being in the data analytics/business intelligence market for so long, it gives us a unique insight into how the market is changing and what the future of data analytics looks like. In the end, we see that deciding not to build Keboola as a black box for one particular use case was not only a good decision but crucial for our future opportunities.**
+![](/uploads/keboola-img-brand.jpg)
 
 Right from the start, we’ve been building our software on the premise that the cloud is the future. We also believe that transparency is the key. Both to getting the most from the platform as well as maintaining data security, as opposed to the black-box solutions. As the cloud is standard these days, and companies are now really experiencing the pain of being vendor-locked, we’re really happy that these values holding are strong, more so than ever before.
 
