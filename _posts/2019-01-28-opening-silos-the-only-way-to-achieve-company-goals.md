@@ -2,7 +2,7 @@
 layout: post
 categories: product
 title: 'Opening Silos: The Only Way to Achieve Company Goals'
-perex: ''
+perex: When everybody pulls the same direction, the amount of force is more significant.
 date: 2019-01-28 23:00:00 +0000
 user: fenek-pr
 coverphoto: ''
