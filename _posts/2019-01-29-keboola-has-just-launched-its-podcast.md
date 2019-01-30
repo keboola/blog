@@ -3,15 +3,15 @@ layout: post
 categories: community
 title: Keboola has launched its Podcast!
 perex: ''
-date: ''
+date: 2019-01-29 23:00:00 +0000
 user: fenek-pr
 coverphoto: ''
-coverphoto_slider: "/uploads/data heroes.jpg"
+coverphoto_slider: "/uploads/dataHeroesSlides.jpg"
 
 ---
 DataHeroes offers a chance to learn something new about data, technology, and data-driven companies.
 
-![](https://lh4.googleusercontent.com/p_dCl_-CTjzbxidmAFHydRPO8QkZr8wAmq7LyYd_nO11wRxkqxbNNwwJTsasqaWJ6Z9rldELjsPb3xsARvlmETt-X3LZzuJJYBW3Gy7E_lne4TWQ5AVU6863gv40zUbIzTrPgIxa =602x301)
+![](/uploads/data-heroes-img.jpg)
 
 Our CEO, [Pavel Dolezal](https://www.linkedin.com/in/paveld/), hosts [DataHeroes](https://itunes.apple.com/cz/podcast/dataheroes/id1442313148?mt=2) - a podcast about data, current technology trends and innovative company culture.
 
