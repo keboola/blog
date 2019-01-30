@@ -3,7 +3,7 @@ layout: post
 categories: events
 permalink: our-heroes-are-innovators
 title: Our heroes are innovators. Our mission is to arm them with data
-perex: ''
+perex: This year, Keboola is celebrating its 10th anniversary.
 date: 2018-12-23 23:00:00 +0000
 user: pavel-dolezal
 coverphoto: ''
