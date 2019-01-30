@@ -3,7 +3,8 @@ layout: post
 categories: community
 permalink: keboola-founders-diary
 title: Keboola Founders diary - How it all started
-perex: ''
+perex: Ten years ago I was a typical nerd, compiling Linux system from the source
+  code, working for the digital company První multimediální as a Linux admin.
 date: 2019-01-28 23:00:00 +0000
 user: petr-simecek
 coverphoto: ''
