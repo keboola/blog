@@ -4,7 +4,7 @@ categories: community
 title: 'Data, Dogs and Delicious Food - Life as an Intern at Keboola Data Services '
 perex: World of data is constantly changing, it requires you to be fast and it’s full
   of Czech people.
-date: 2019-01-29 23:00:00 +0000
+date: 2019-01-30 17:00:00 +0000
 user: elena-manole
 coverphoto: ''
 coverphoto_slider: "/uploads/dogsSlides.jpg"
