@@ -2,20 +2,19 @@
 layout: post
 categories: community
 title: Keboola has launched its Podcast!
-perex: ''
+perex: DataHeroes offers a chance to learn something new about data, technology, and
+  data-driven companies.
 date: 2019-01-29 23:00:00 +0000
 user: fenek-pr
 coverphoto: ''
 coverphoto_slider: "/uploads/dataHeroesSlides.jpg"
 
 ---
-DataHeroes offers a chance to learn something new about data, technology, and data-driven companies.
-
-![](/uploads/data-heroes-img.jpg)
 
 Our CEO, [Pavel Dolezal](https://www.linkedin.com/in/paveld/), hosts [DataHeroes](https://itunes.apple.com/cz/podcast/dataheroes/id1442313148?mt=2) - a podcast about data, current technology trends and innovative company culture.
 
-He decided to create this DataHeroes Podcast to share everything he has learned from the real Data heroes – people that are changing their companies significantly from within - from CEOs to lead data scientists. The cultural aspects of data and data-driven companies are discussed and sometimes conversation goes into topic of ideal data/tech stack as well.
+  
+![](/uploads/data-heroes-img.jpg)He decided to create this DataHeroes Podcast to share everything he has learned from the real Data heroes – people that are changing their companies significantly from within - from CEOs to lead data scientists. The cultural aspects of data and data-driven companies are discussed and sometimes conversation goes into topic of ideal data/tech stack as well.
 
 Pavel’s first guest is [Jeff Miller](https://www.linkedin.com/in/mill4397/) VP of technology for Chicago-based restaurant chain Roti, which has enjoyed rapid expansion over the past year. The company is moving from a traditionally-led food chain to a tech and data-first company. Pavel is keen to find out how Roti has done so and learn about the challenges it faces, while still retaining almost 100 percent year-on-year growth, even in an immensely tough and fast-paced market today. And Jeff's experiences from previous jobs it made him the most logical choice for the first episode. Incidentally, Pavel also happens to be a big fan of Roti mediterranean food.
 
