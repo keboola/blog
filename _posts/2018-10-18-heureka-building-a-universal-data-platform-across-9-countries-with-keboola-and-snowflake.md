@@ -4,7 +4,8 @@ title: 'Heureka: building a universal data platform across 9 countries with Kebo
 layout: post
 categories: customer-stories
 date: 2019-01-17 01:00:00 +0000
-perex: ''
+perex: Central data platform built with Keboola Connection on Snowflake cloud data
+  warehouse
 user: fenek-pr
 coverphoto: ''
 coverphoto_slider: "/uploads/heureka.jpg"
