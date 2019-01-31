@@ -5,7 +5,7 @@ title: Keboola has launched its Podcast!
 perex: DataHeroes offers a chance to learn something new about data, technology, and
   data-driven companies.
 date: 2019-01-29 23:00:00 +0000
-user: fenek-pr
+user: jiri-vicherek
 coverphoto: ''
 coverphoto_slider: "/uploads/dataHeroesSlides.jpg"
 
