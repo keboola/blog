@@ -54,6 +54,8 @@ fields:
     - pavel-dolezal
     - martin-fiser
     - fenek-pr
+    - elena-wong
+    - jiri-vicherek
   label: user
 - type: file
   name: coverphoto
