@@ -176,6 +176,23 @@ header{
   border-bottom:1px solid #F1F2F3;
 }
 
+// HEADER - FORM
+// ---------
+.header-form{
+  .in{
+    text-align:center;
+  }
+  h1{
+    float:none;
+    margin:0 auto 0;
+
+    a{
+      margin:0 auto 0;
+      background-position:center center;
+    }
+  }
+}
+
 // HEADER - BTN MENU
 // ---------
 .btn-show-menu{
@@ -1376,6 +1393,139 @@ section{
 
 
 
+
+// ---------
+// ERROR PAGE
+// ---------
+.page-error{
+  height:100%;
+
+  body{
+    height:100%;
+    background:#090912;
+  }
+  .page{
+    height:100%;
+    overflow:visible;
+  }
+  .header-form{
+    h1{
+      a{
+        background-image:url(../img/logo-white.svg);
+      }
+    }
+  }
+}
+.page-error-content{
+  width:100%;
+  
+  .in{
+    min-height:840px;
+    text-align:center;
+  }
+}
+
+
+// ERROR PAGE - 404
+// ---------
+.page-error-404{
+  width:100%;
+  height:700px;
+  line-height:700px;
+  //padding-bottom:59.32%;
+  background-size:100% auto;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-image:url(../img/page-error-404-bg.svg);
+  text-align:center;
+  overflow:hidden;
+}
+.globe-img{
+  position:relative;
+  display:inline-block;
+  margin:0 auto 0;
+  .sq(560px);
+  vertical-align:middle;
+  .c;
+
+  &:hover,
+  &.show-globe{
+    .page-error-moon-content{
+      .rotateY(180deg);
+    }
+  }
+  .globe{
+    position:relative;
+    float:left;
+    .sq(100%);
+    z-index:5;
+  }
+}
+
+.page-error-moon{
+  position:absolute;
+  right:0;
+  top:0;
+  margin:-10px 0 0 -10px;
+  .sq(200px);
+  //.rotate(45deg);
+  -webkit-perspective:1000px;
+  -moz-perspective:1000px;
+  -ms-perspective:1000px;
+  perspective:1000px;
+  z-index:10;
+}
+.page-error-moon-content{
+  position:relative;
+  .sq(100%);
+  
+  -webkit-transition:0.6s;
+  -moz-transition:0.6s;
+  -ms-transition:0.6s;
+  transition:0.6s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  
+  .moon-content,
+  .space-program{
+    position:absolute;
+    left:0;
+    top:0;
+    .sq(100%);
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+  
+    -webkit-transition:0.6s;
+    -moz-transition:0.6s;
+    -ms-transition:0.6s;
+    transition:0.6s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .moon-content{
+    background-image:url(../img/page-error-404-moon.png);
+
+    .rotateY(0deg);
+    z-index: 2;
+  }
+  .space-program{
+    background-image:url(../img/page-error-404-space-program.svg);
+    background-color:#324155;
+
+    .border-radius(100px);
+
+    .rotateY(180deg);
+  }
+}
 
 
 

@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,37 +7,37 @@
 		"uuidString": "F4305CCB-1CE9-4587-B1A2-3F11698BF0D0"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28905",
 "files": {
-	"\/.forestry\/front_matter\/templates\/category.yml": {
+	"/.forestry/front_matter/templates/category.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.forestry\/front_matter\/templates\/category.yml",
+		"oAP": "/.forestry/front_matter/templates/category.yml",
 		"oF": 0
 		},
-	"\/.forestry\/front_matter\/templates\/post.yml": {
+	"/.forestry/front_matter/templates/post.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.forestry\/front_matter\/templates\/post.yml",
+		"oAP": "/.forestry/front_matter/templates/post.yml",
 		"oF": 0
 		},
-	"\/.forestry\/settings.yml": {
+	"/.forestry/settings.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.forestry\/settings.yml",
+		"oAP": "/.forestry/settings.yml",
 		"oF": 0
 		},
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/.gitignore",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"\/404.md": {
+	"/404.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -46,7 +46,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/invalid-output-filename-pattern.error",
+		"oAP": "/invalid-output-filename-pattern.error",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -55,911 +55,1087 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/_config.yml": {
+	"/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_config.yml",
+		"oAP": "/_config.yml",
 		"oF": 0
 		},
-	"\/_data\/user.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_data\/user.yml",
-		"oF": 0
-		},
-	"\/_drafts\/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_drafts\/2018-10-26-style-test.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/2018-10-26-style-test.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_drafts\/_posts\/test.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/_posts\/test.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_drafts\/heroes-at-liftago.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/heroes-at-liftago.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_drafts\/heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_drafts\/integrating-50-marketing-data-sources.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_drafts\/integrating-50-marketing-data-sources.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_includes\/category.html": {
+	"/_data/user.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/category.html",
+		"oAP": "/_data/user.yml",
 		"oF": 0
 		},
-	"\/_includes\/foot.html": {
+	"/_drafts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_drafts/2018-10-11-aggregation-in-mongodb-oracle-redshift-bigquery-voltdb-vertica-elasticsearch-gooddata-postgres-and-mysql.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_drafts/2018-10-26-style-test.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_drafts/2018-10-26-style-test.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_drafts/_posts/test.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_drafts/_posts/test.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_drafts/slevomat-snowflake-is-an-unbelievable-time-saver.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_drafts/slevomat-snowflake-is-an-unbelievable-time-saver.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_includes/category.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/foot.html",
+		"oAP": "/_includes/category.html",
 		"oF": 0
 		},
-	"\/_includes\/head.html": {
+	"/_includes/foot-simple.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/head.html",
+		"oAP": "/_includes/foot-simple.html",
 		"oF": 0
 		},
-	"\/_layouts\/collect.html": {
+	"/_includes/foot.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_layouts\/collect.html",
+		"oAP": "/_includes/foot.html",
 		"oF": 0
 		},
-	"\/_layouts\/error.html": {
+	"/_includes/head-simple.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_layouts\/error.html",
+		"oAP": "/_includes/head-simple.html",
 		"oF": 0
 		},
-	"\/_layouts\/home.html": {
+	"/_includes/head.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_layouts\/home.html",
+		"oAP": "/_includes/head.html",
 		"oF": 0
 		},
-	"\/_layouts\/post.html": {
+	"/_layouts/collect.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_layouts\/post.html",
+		"oAP": "/_layouts/collect.html",
 		"oF": 0
 		},
-	"\/_posts\/2018-03-20-see-how-keboola.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/invalid-output-filename-pattern.error",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-how-keboola-switched-to-automatic-invoicing.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-how-keboola-switched-to-automatic-invoicing.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-keboola.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-keboola.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-mcpen.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-mcpen.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-i.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-i.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-10-what-is-data-health.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-10-what-is-data-health.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-aggregatio.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-aggregatio.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-another-year-passed.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-another-year-passed.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-asana.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-asana.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-avast.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-avast.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-bi-modal.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-bi-modal.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-empowering.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-empowering.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-finding.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-finding.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-gorila-mobil-data-driven-business.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-gorila-mobil-data-driven-business.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-how-we-hacked-vizable.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-how-we-hacked-vizable.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-kbc.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-kbc.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-keboola-yearinreview-customer-partner-highlights.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-keboola-yearinreview-customer-partner-highlights.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-keboola.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-keboola.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-mcpen.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-mcpen.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-please-hold-your-call-is-important.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-please-hold-your-call-is-important.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-snowflake.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-snowflake.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-stop-being-an-excel-martir.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-stop-being-an-excel-martir.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-three-critical.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-three-critical.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-when-salesforce-met-keboola.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-when-salesforce-met-keboola.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-10-11-why.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-10-11-why.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-11-15-daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-11-15-daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-11-15-data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-11-15-data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-11-15-keboola-appointed-new-head-of-sales-europe.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-11-15-keboola-appointed-new-head-of-sales-europe.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/2018-11-15-lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2018-11-15-lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 1,
-		"uCM": 0
-		},
-	"\/_posts\/Published\/.gitkeep": {
+	"/_layouts/error.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_posts\/Published\/.gitkeep",
+		"oAP": "/_layouts/error.html",
 		"oF": 0
 		},
-	"\/_site": {
+	"/_layouts/home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_layouts/home.html",
+		"oF": 0
+		},
+	"/_layouts/post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_layouts/post.html",
+		"oF": 0
+		},
+	"/_posts/2018-03-20-see-how-keboola.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/invalid-output-filename-pattern.error",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-04-01-anatomy-of-an-award-winning-data-project-part-1-csc-and-marketing-analytics.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-08-30-karel-klodner-ceo-lekarna-cz-reviving-our-company-with-reliable-data.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-09-18-Big-Data-is-about-Quality,-not-Quantity.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-09-18-Breaking-Borders-DataGirls-is-Tackling-Gender-Imbalance-in-IT-Across-Continents.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-09-18-Why-hackathon-needs-real-data---Hackathon-Inspiration,-brought-to-you-by-Keboola,-Deloitte,-&-Lékárna.cz.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-anatomy-of-an-award-winning-data-project-part-2-firehouse-subs-station-pulse-bi-dashboard.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-keboola.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-keboola.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-mcpen.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-mcpen.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-the-beginner-s-guide-to-keboola-i.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-the-beginner-s-guide-to-keboola-i.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-the-beginner-s-guide-to-keboola-ii-we-♥-your-third-party-data-sources.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-the-beginner-s-guide-to-keboola-iii-we-♥-your-third-party-data-sources.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-10-what-is-data-health.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-10-what-is-data-health.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-aggregatio.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-aggregatio.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-another-year-passed.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-another-year-passed.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-asana.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-asana.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-avast.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-avast.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-bi-modal.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-bi-modal.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-empowering.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-empowering.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-finding.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-finding.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-gorila-mobil-data-driven-business.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-gorila-mobil-data-driven-business.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-how-we-hacked-vizable.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-how-we-hacked-vizable.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-kbc.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-kbc.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-keboola-yearinreview-customer-partner-highlights.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-keboola.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-keboola.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-mcpen.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-mcpen.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-please-hold-your-call-is-important.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-please-hold-your-call-is-important.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-recommendation-engine-in-27-lines-of-sql-code.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-snowflake.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-snowflake.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-stop-being-an-excel-martir.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-stop-being-an-excel-martir.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-three-critical.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-three-critical.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-webhooks-and-kbc-how-to-trigger-orchestration-by-form-submission-typeform.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-when-salesforce-met-keboola.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-when-salesforce-met-keboola.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-11-why.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-11-why.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-18-heroes-at-liftago.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-18-heroes-at-liftago.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-10-18-heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-10-18-heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-11-15-daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-11-15-daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-11-15-data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-11-15-data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-11-15-keboola-appointed-new-head-of-sales-europe.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-11-15-keboola-appointed-new-head-of-sales-europe.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-11-15-lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-11-15-lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2018-12-20-back-to-school-learn-to-work-with-keboola-in-our-keboola-academy.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2018-12-20-back-to-school-learn-to-work-with-keboola-in-our-keboola-academy.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-02-wanna-be-data-driven-start-with-managerial-reports.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-02-wanna-be-data-driven-start-with-managerial-reports.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-21-integrating-50-marketing-data-sources.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-21-integrating-50-marketing-data-sources.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-28-benu-hack.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-28-benu-hack.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-28-keboola-founders-diary-how-it-all-started.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-28-keboola-founders-diary-how-it-all-started.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-28-opening-silos-the-only-way-to-achieve-company-goals.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-28-opening-silos-the-only-way-to-achieve-company-goals.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-28-our-heroes-are-innovators-our-mission-is-to-arm-them-with-data.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-28-our-heroes-are-innovators-our-mission-is-to-arm-them-with-data.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-29-data-dogs-and-delicious-food-life-as-an-intern-at-keboola-data-services.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-29-data-dogs-and-delicious-food-life-as-an-intern-at-keboola-data-services.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/2019-01-29-keboola-has-just-launched-its-podcast.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "/_posts/2019-01-29-keboola-has-just-launched-its-podcast.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 1,
+		"uCM": 0
+		},
+	"/_posts/Published/.gitkeep": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/_posts/Published/.gitkeep",
+		"oF": 0
+		},
+	"/_site": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/build\/_site",
+		"oAP": "/build/_site",
 		"oF": 0
 		},
-	"\/categories\/community.md": {
+	"/categories/community.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -968,7 +1144,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/community.html",
+		"oAP": "/categories/community.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -977,7 +1153,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/categories\/customer-stories.md": {
+	"/categories/customer-stories.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -986,7 +1162,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/customer-stories.html",
+		"oAP": "/categories/customer-stories.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -995,7 +1171,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/categories\/events.md": {
+	"/categories/events.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1004,7 +1180,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/events.html",
+		"oAP": "/categories/events.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1013,7 +1189,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/categories\/how-to.md": {
+	"/categories/how-to.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1022,7 +1198,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/how-to.html",
+		"oAP": "/categories/how-to.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1031,7 +1207,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/categories\/nerds.md": {
+	"/categories/nerds.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1040,7 +1216,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/nerds.html",
+		"oAP": "/categories/nerds.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1049,7 +1225,7 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/categories\/product.md": {
+	"/categories/product.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1058,7 +1234,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/categories\/product.html",
+		"oAP": "/categories/product.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1067,289 +1243,353 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/css\/style.css": {
+	"/css/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/style-min.css",
+		"oAP": "/css/style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/favicon.ico": {
+	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/favicon.ico",
+		"oAP": "/favicon.ico",
 		"oF": 0
 		},
-	"\/Gemfile": {
+	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Gemfile",
+		"oAP": "/Gemfile",
 		"oF": 0
 		},
-	"\/Gemfile.lock": {
+	"/Gemfile.lock": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Gemfile.lock",
+		"oAP": "/Gemfile.lock",
 		"oF": 0
 		},
-	"\/img\/btn-slider-next.svg": {
+	"/img/btn-slider-next.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/btn-slider-next.svg",
+		"oAP": "/img/btn-slider-next.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/btn-slider-prev.svg": {
+	"/img/btn-slider-prev.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/btn-slider-prev.svg",
+		"oAP": "/img/btn-slider-prev.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-article-list-img.svg": {
+	"/img/ico-article-list-img.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-article-list-img.svg",
+		"oAP": "/img/ico-article-list-img.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-article-nav-img.svg": {
+	"/img/ico-article-nav-img.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-article-nav-img.svg",
+		"oAP": "/img/ico-article-nav-img.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-article-next-img.svg": {
+	"/img/ico-article-next-img.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-article-next-img.svg",
+		"oAP": "/img/ico-article-next-img.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-btn-arrow.svg": {
+	"/img/ico-btn-arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-btn-arrow.svg",
+		"oAP": "/img/ico-btn-arrow.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-fb-dark.svg": {
+	"/img/ico-fb-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-fb-dark.svg",
+		"oAP": "/img/ico-fb-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-fb.svg": {
+	"/img/ico-fb.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-fb.svg",
+		"oAP": "/img/ico-fb.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-footer-pictogram.svg": {
+	"/img/ico-footer-pictogram.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-footer-pictogram.svg",
+		"oAP": "/img/ico-footer-pictogram.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-linkedin.svg": {
+	"/img/ico-linkedin.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-linkedin.svg",
+		"oAP": "/img/ico-linkedin.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-tw-dark.svg": {
+	"/img/ico-tw-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-tw-dark.svg",
+		"oAP": "/img/ico-tw-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ico-tw.svg": {
+	"/img/ico-tw.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/ico-tw.svg",
+		"oAP": "/img/ico-tw.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/logo.svg": {
+	"/img/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/logo.svg",
+		"oAP": "/img/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/ogImg.jpg": {
+	"/img/ogImg.jpg": {
 		"ft": 16384,
 		"iS": 37476,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/ogImg.jpg",
+		"oAP": "/img/ogImg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/ogImg.png": {
+	"/img/ogImg.png": {
 		"ft": 32768,
 		"iS": 476920,
 		"oA": 0,
-		"oAP": "\/img\/ogImg.png",
+		"oAP": "/img/ogImg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/users\/colin-mcgrew.jpg": {
+	"/img/page-error-404-bg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/page-error-404-bg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/page-error-404-globe.png": {
+		"ft": 32768,
+		"iS": 290962,
+		"oA": 0,
+		"oAP": "/img/page-error-404-globe.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/page-error-404-moon.png": {
+		"ft": 32768,
+		"iS": 20296,
+		"oA": 0,
+		"oAP": "/img/page-error-404-moon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/page-error-404-space-program.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/page-error-404-space-program.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/users/colin-mcgrew.jpg": {
 		"ft": 16384,
 		"iS": 9803,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/colin-mcgrew.jpg",
+		"oAP": "/img/users/colin-mcgrew.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/elena-manole.jpg": {
+	"/img/users/elena-manole.jpg": {
 		"ft": 16384,
 		"iS": 12522,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/elena-manole.jpg",
+		"oAP": "/img/users/elena-manole.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/fenek-pr.jpg": {
+	"/img/users/elena-wong.jpg": {
+		"ft": 16384,
+		"iS": 28784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/users/elena-wong.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/users/fenek-pr.jpg": {
 		"ft": 16384,
 		"iS": 6800,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/fenek-pr.jpg",
+		"oAP": "/img/users/fenek-pr.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/kasey-jones-tonsfeldt.jpg": {
+	"/img/users/jiri-vicherek.jpg": {
+		"ft": 16384,
+		"iS": 16481,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/users/jiri-vicherek.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/users/kasey-jones-tonsfeldt.jpg": {
 		"ft": 16384,
 		"iS": 15956,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/kasey-jones-tonsfeldt.jpg",
+		"oAP": "/img/users/kasey-jones-tonsfeldt.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/martin-fiser.jpg": {
+	"/img/users/martin-fiser.jpg": {
 		"ft": 16384,
 		"iS": 11142,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/martin-fiser.jpg",
+		"oAP": "/img/users/martin-fiser.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/milan-veverka.jpg": {
+	"/img/users/milan-veverka.jpg": {
 		"ft": 16384,
 		"iS": 10987,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/milan-veverka.jpg",
+		"oAP": "/img/users/milan-veverka.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/pavel-dolezal.jpg": {
+	"/img/users/pavel-dolezal.jpg": {
 		"ft": 16384,
 		"iS": 6366,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/pavel-dolezal.jpg",
+		"oAP": "/img/users/pavel-dolezal.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/petr-simecek.jpg": {
+	"/img/users/petr-simecek.jpg": {
 		"ft": 16384,
 		"iS": 12039,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/petr-simecek.jpg",
+		"oAP": "/img/users/petr-simecek.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/users\/sarah-henderson.jpg": {
+	"/img/users/sarah-henderson.jpg": {
 		"ft": 16384,
 		"iS": 9280,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/users\/sarah-henderson.jpg",
+		"oAP": "/img/users/sarah-henderson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/index.md": {
+	"/index.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1358,7 +1598,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/invalid-output-filename-pattern.error",
+		"oAP": "/invalid-output-filename-pattern.error",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1367,200 +1607,200 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/js\/global.js": {
+	"/js/global.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/global.min.js",
+		"oAP": "/js/global.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/global.min.js": {
+	"/js/global.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/global.min.min.js",
+		"oAP": "/js/global.min.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/libs\/jquery-3.2.1.min.js": {
+	"/js/libs/jquery-3.2.1.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/libs\/jquery-3.2.1.min.min.js",
+		"oAP": "/js/libs/jquery-3.2.1.min.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/libs\/sly.js": {
+	"/js/libs/sly.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/libs\/sly.min.js",
+		"oAP": "/js/libs/sly.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/libs\/sly.min.js": {
+	"/js/libs/sly.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/libs\/sly.min.min.js",
+		"oAP": "/js/libs/sly.min.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/less\/mixins.less": {
+	"/less/mixins.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/mixins.css",
+		"oAP": "/less/mixins.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/reset.less": {
+	"/less/reset.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/reset.css",
+		"oAP": "/less/reset.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/responsive.less": {
+	"/less/responsive.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/responsive.css",
+		"oAP": "/less/responsive.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/site.less": {
+	"/less/site.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/site.css",
+		"oAP": "/less/site.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/style.less": {
+	"/less/style.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 0,
-		"oAP": "\/css\/style.css",
+		"oAP": "/css/style.css",
 		"oF": 2,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/type.less": {
+	"/less/type.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/type.css",
+		"oAP": "/less/type.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/utilities.less": {
+	"/less/utilities.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/utilities.css",
+		"oAP": "/less/utilities.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/variables.less": {
+	"/less/variables.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/less\/variables.css",
+		"oAP": "/less/variables.css",
 		"oF": 0,
 		"oS": 1,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/Rakefile.rb": {
+	"/Rakefile.rb": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Rakefile.rb",
+		"oAP": "/Rakefile.rb",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1569,7 +1809,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/invalid-output-filename-pattern.error",
+		"oAP": "/invalid-output-filename-pattern.error",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1578,1911 +1818,2216 @@
 		"rFN": 1,
 		"uCM": 0
 		},
-	"\/robots.txt": {
+	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/robots.txt",
+		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"\/uploads\/0.jpeg": {
+	"/uploads/0.jpeg": {
 		"ft": 16384,
 		"iS": 17697,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/0.jpg",
+		"oAP": "/uploads/0.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/1482223862olomouc-3-2016.jpg": {
+	"/uploads/1482223862olomouc-3-2016.jpg": {
 		"ft": 16384,
 		"iS": 418449,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/1482223862olomouc-3-2016.jpg",
+		"oAP": "/uploads/1482223862olomouc-3-2016.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/2015-05-11-1431381813-5381990-overwhelmed_women_business_owner_optimized-thumb.jpg": {
+	"/uploads/2015-05-11-1431381813-5381990-overwhelmed_women_business_owner_optimized-thumb.jpg": {
 		"ft": 16384,
 		"iS": 56326,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/2015-05-11-1431381813-5381990-overwhelmed_women_business_owner_optimized-thumb.jpg",
+		"oAP": "/uploads/2015-05-11-1431381813-5381990-overwhelmed_women_business_owner_optimized-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/2016.jpg": {
+	"/uploads/2016.jpg": {
 		"ft": 16384,
 		"iS": 37405,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/2016.jpg",
+		"oAP": "/uploads/2016.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines.jpg": {
+	"/uploads/27lines.jpg": {
 		"ft": 16384,
 		"iS": 17244,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines.jpg",
+		"oAP": "/uploads/27lines.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines1.jpg": {
+	"/uploads/27lines1.jpg": {
 		"ft": 16384,
 		"iS": 52168,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines1.jpg",
+		"oAP": "/uploads/27lines1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines2.jpg": {
+	"/uploads/27lines2.jpg": {
 		"ft": 16384,
 		"iS": 43463,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines2.jpg",
+		"oAP": "/uploads/27lines2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines3.jpg": {
+	"/uploads/27lines3.jpg": {
 		"ft": 16384,
 		"iS": 53338,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines3.jpg",
+		"oAP": "/uploads/27lines3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines4.jpg": {
+	"/uploads/27lines4.jpg": {
 		"ft": 16384,
 		"iS": 46778,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines4.jpg",
+		"oAP": "/uploads/27lines4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines5.jpg": {
+	"/uploads/27lines5.jpg": {
 		"ft": 16384,
 		"iS": 107304,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines5.jpg",
+		"oAP": "/uploads/27lines5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines6.jpg": {
+	"/uploads/27lines6.jpg": {
 		"ft": 16384,
 		"iS": 63801,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines6.jpg",
+		"oAP": "/uploads/27lines6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/27lines7.jpg": {
+	"/uploads/27lines7.jpg": {
 		"ft": 16384,
 		"iS": 49032,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/27lines7.jpg",
+		"oAP": "/uploads/27lines7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/alookArticle1.jpg": {
+	"/uploads/5axUnfCvYr-EaPvgugpG0p3-Qt8f1JbzPzAUpvw6xJ6ttxsAxkKthwEL-7TdAW2v1eDzWoI893Hj9kcwD7mRb2bxcKZmZifDbkZxaO3Ho18TcmeXII8_QHcbNZCVarStEzQzg2v8.jpeg": {
+		"ft": 16384,
+		"iS": 296600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/5axUnfCvYr-EaPvgugpG0p3-Qt8f1JbzPzAUpvw6xJ6ttxsAxkKthwEL-7TdAW2v1eDzWoI893Hj9kcwD7mRb2bxcKZmZifDbkZxaO3Ho18TcmeXII8_QHcbNZCVarStEzQzg2v8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/academy.jpg": {
+		"ft": 16384,
+		"iS": 30944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/academy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/alookArticle1.jpg": {
 		"ft": 16384,
 		"iS": 58218,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/alookArticle1.jpg",
+		"oAP": "/uploads/alookArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/alookArticle2.jpg": {
+	"/uploads/alookArticle2.jpg": {
 		"ft": 16384,
 		"iS": 50228,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/alookArticle2.jpg",
+		"oAP": "/uploads/alookArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/analytics-kpis.jpg": {
+	"/uploads/analytics-kpis.jpg": {
 		"ft": 16384,
 		"iS": 102202,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/analytics-kpis.jpg",
+		"oAP": "/uploads/analytics-kpis.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/asana.jpg": {
+	"/uploads/asana.jpg": {
 		"ft": 16384,
 		"iS": 61464,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/asana.jpg",
+		"oAP": "/uploads/asana.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/asanaArticle.jpg": {
+	"/uploads/asanaArticle.jpg": {
 		"ft": 16384,
 		"iS": 99457,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/asanaArticle.jpg",
+		"oAP": "/uploads/asanaArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avast.jpg": {
+	"/uploads/avast.jpg": {
 		"ft": 16384,
 		"iS": 26284,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avast.jpg",
+		"oAP": "/uploads/avast.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avast1.jpg": {
+	"/uploads/avast1.jpg": {
 		"ft": 16384,
 		"iS": 95098,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avast1.jpg",
+		"oAP": "/uploads/avast1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avast2.jpg": {
+	"/uploads/avast2.jpg": {
 		"ft": 16384,
 		"iS": 88220,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avast2.jpg",
+		"oAP": "/uploads/avast2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avast3.jpg": {
+	"/uploads/avast3.jpg": {
 		"ft": 16384,
 		"iS": 84854,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avast3.jpg",
+		"oAP": "/uploads/avast3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avast4.jpg": {
+	"/uploads/avast4.jpg": {
 		"ft": 16384,
 		"iS": 140303,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avast4.jpg",
+		"oAP": "/uploads/avast4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/avastTable.jpg": {
+	"/uploads/avastTable.jpg": {
 		"ft": 16384,
 		"iS": 43814,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/avastTable.jpg",
+		"oAP": "/uploads/avastTable.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/bi.jpg": {
+	"/uploads/ben1.gif": {
+		"ft": 4194304,
+		"iS": 37562,
+		"oA": 0,
+		"oAP": "/uploads/ben1.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/uploads/ben2.jpg": {
+		"ft": 16384,
+		"iS": 97182,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/ben2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/ben3.jpg": {
+		"ft": 16384,
+		"iS": 112513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/ben3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/benSlider.jpg": {
+		"ft": 16384,
+		"iS": 31602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/benSlider.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/bi.jpg": {
 		"ft": 16384,
 		"iS": 57081,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/bi.jpg",
+		"oAP": "/uploads/bi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/bricks.jpg": {
+	"/uploads/brandCamp.png": {
+		"ft": 32768,
+		"iS": 176166,
+		"oA": 0,
+		"oAP": "/uploads/brandCamp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/uploads/bricks.jpg": {
 		"ft": 16384,
 		"iS": 49086,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/bricks.jpg",
+		"oAP": "/uploads/bricks.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Creative Dock 1.png": {
+	"/uploads/Creative Dock 1.png": {
 		"ft": 32768,
 		"iS": 120347,
 		"oA": 0,
-		"oAP": "\/uploads\/Creative Dock 1.png",
+		"oAP": "/uploads/Creative Dock 1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/creativeDock-1.jpg": {
+	"/uploads/creativeDock-1.jpg": {
 		"ft": 16384,
 		"iS": 29186,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/creativeDock-1.jpg",
+		"oAP": "/uploads/creativeDock-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/creativeDock.jpg": {
+	"/uploads/creativeDock.jpg": {
 		"ft": 16384,
 		"iS": 46878,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/creativeDock.jpg",
+		"oAP": "/uploads/creativeDock.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/creativeDockArticle.jpg": {
+	"/uploads/creativeDockArticle.jpg": {
 		"ft": 16384,
 		"iS": 39811,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/creativeDockArticle.jpg",
+		"oAP": "/uploads/creativeDockArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/critical.jpg": {
+	"/uploads/critical.jpg": {
 		"ft": 16384,
 		"iS": 102522,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/critical.jpg",
+		"oAP": "/uploads/critical.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/criticalArticle.jpg": {
+	"/uploads/criticalArticle.jpg": {
 		"ft": 16384,
 		"iS": 282561,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/criticalArticle.jpg",
+		"oAP": "/uploads/criticalArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/criticalArticle2.jpg": {
+	"/uploads/criticalArticle2.jpg": {
 		"ft": 16384,
 		"iS": 64524,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/criticalArticle2.jpg",
+		"oAP": "/uploads/criticalArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/criticalArticle3.jpg": {
+	"/uploads/criticalArticle3.jpg": {
 		"ft": 16384,
 		"iS": 130122,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/criticalArticle3.jpg",
+		"oAP": "/uploads/criticalArticle3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/crunchyourroi-740x300.png": {
+	"/uploads/crunchyourroi-740x300.png": {
 		"ft": 32768,
 		"iS": 20359,
 		"oA": 0,
-		"oAP": "\/uploads\/crunchyourroi-740x300.png",
+		"oAP": "/uploads/crunchyourroi-740x300.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/csc.jpg": {
+	"/uploads/csc.jpg": {
 		"ft": 16384,
 		"iS": 50990,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/csc.jpg",
+		"oAP": "/uploads/csc.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/cscArticle1.jpg": {
+	"/uploads/cscArticle1.jpg": {
 		"ft": 16384,
 		"iS": 117959,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/cscArticle1.jpg",
+		"oAP": "/uploads/cscArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/danny firehouse.001.jpg": {
+	"/uploads/danny firehouse.001.jpg": {
 		"ft": 16384,
 		"iS": 214698,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/danny firehouse.001.jpg",
+		"oAP": "/uploads/danny firehouse.001.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/dashboardArticle.jpg": {
+	"/uploads/dashboardArticle.jpg": {
 		"ft": 16384,
 		"iS": 24472,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/dashboardArticle.jpg",
+		"oAP": "/uploads/dashboardArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/DataGirls copy.jpg": {
+	"/uploads/data heroes.jpg": {
+		"ft": 16384,
+		"iS": 82382,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/data heroes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/data-heroes-img.jpg": {
+		"ft": 16384,
+		"iS": 52548,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/data-heroes-img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/DataGirls copy.jpg": {
 		"ft": 16384,
 		"iS": 773292,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/DataGirls copy.jpg",
+		"oAP": "/uploads/DataGirls copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/datagirls-1.jpg": {
+	"/uploads/datagirls-1.jpg": {
 		"ft": 16384,
 		"iS": 37096,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/datagirls-1.jpg",
+		"oAP": "/uploads/datagirls-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/datagirls.jpg": {
+	"/uploads/datagirls.jpg": {
 		"ft": 16384,
 		"iS": 67235,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/datagirls.jpg",
+		"oAP": "/uploads/datagirls.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/dataGirlsArticle.jpg": {
+	"/uploads/dataGirlsArticle.jpg": {
 		"ft": 16384,
 		"iS": 164288,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/dataGirlsArticle.jpg",
+		"oAP": "/uploads/dataGirlsArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/datahealth.jpg": {
+	"/uploads/datahealth.jpg": {
 		"ft": 16384,
 		"iS": 66020,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/datahealth.jpg",
+		"oAP": "/uploads/datahealth.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/datahealth1.jpg": {
+	"/uploads/datahealth1.jpg": {
 		"ft": 16384,
 		"iS": 149684,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/datahealth1.jpg",
+		"oAP": "/uploads/datahealth1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/datahealth2.jpg": {
+	"/uploads/datahealth2.jpg": {
 		"ft": 16384,
 		"iS": 57583,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/datahealth2.jpg",
+		"oAP": "/uploads/datahealth2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/dataMoney.jpg": {
+	"/uploads/dataHeroesSlides.jpg": {
+		"ft": 16384,
+		"iS": 40327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/dataHeroesSlides.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/dataMoney.jpg": {
 		"ft": 16384,
 		"iS": 33820,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/dataMoney.jpg",
+		"oAP": "/uploads/dataMoney.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/dataMoney2.jpg": {
+	"/uploads/dataMoney2.jpg": {
 		"ft": 16384,
 		"iS": 25996,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/dataMoney2.jpg",
+		"oAP": "/uploads/dataMoney2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/dataMoney3.jpg": {
+	"/uploads/dataMoney3.jpg": {
 		"ft": 16384,
 		"iS": 79720,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/dataMoney3.jpg",
+		"oAP": "/uploads/dataMoney3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Delloite Image 1 copy.jpg": {
+	"/uploads/Delloite Image 1 copy.jpg": {
 		"ft": 16384,
 		"iS": 522222,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/Delloite Image 1 copy.jpg",
+		"oAP": "/uploads/Delloite Image 1 copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Delloite.jpg": {
+	"/uploads/Delloite.jpg": {
 		"ft": 16384,
 		"iS": 522222,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/Delloite.jpg",
+		"oAP": "/uploads/Delloite.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/deloitte.jpg": {
+	"/uploads/deloitte.jpg": {
 		"ft": 16384,
 		"iS": 48066,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/deloitte.jpg",
+		"oAP": "/uploads/deloitte.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/detail-img.jpg": {
+	"/uploads/detail-img.jpg": {
 		"ft": 16384,
 		"iS": 86266,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/detail-img.jpg",
+		"oAP": "/uploads/detail-img.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/DmQ63VqVAAAVgBF.jpg": {
+	"/uploads/DmQ63VqVAAAVgBF.jpg": {
 		"ft": 16384,
 		"iS": 48524,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/DmQ63VqVAAAVgBF.jpg",
+		"oAP": "/uploads/DmQ63VqVAAAVgBF.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/download.png": {
+	"/uploads/dogs1.jpg": {
+		"ft": 16384,
+		"iS": 122543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/dogs1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/dogsSlides.jpg": {
+		"ft": 16384,
+		"iS": 72216,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/dogsSlides.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/download.png": {
 		"ft": 32768,
 		"iS": 90678,
 		"oA": 0,
-		"oAP": "\/uploads\/download.png",
+		"oAP": "/uploads/download.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/empowering.jpg": {
+	"/uploads/dxc-cover.jpg": {
+		"ft": 16384,
+		"iS": 162835,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/dxc-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/dxc-slider.jpg": {
+		"ft": 16384,
+		"iS": 49265,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/dxc-slider.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/empowering.jpg": {
 		"ft": 16384,
 		"iS": 23242,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/empowering.jpg",
+		"oAP": "/uploads/empowering.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/empoweringArticle1.jpg": {
+	"/uploads/empoweringArticle1.jpg": {
 		"ft": 16384,
 		"iS": 42642,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/empoweringArticle1.jpg",
+		"oAP": "/uploads/empoweringArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/excelSlave.jpg": {
+	"/uploads/excelSlave.jpg": {
 		"ft": 16384,
 		"iS": 32970,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/excelSlave.jpg",
+		"oAP": "/uploads/excelSlave.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/excelSlaveCover.jpg": {
+	"/uploads/excelSlaveCover.jpg": {
 		"ft": 16384,
 		"iS": 161481,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/excelSlaveCover.jpg",
+		"oAP": "/uploads/excelSlaveCover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/firehouse.jpg": {
+	"/uploads/firehouse.jpg": {
 		"ft": 16384,
 		"iS": 36820,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/firehouse.jpg",
+		"oAP": "/uploads/firehouse.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/firehouse1.jpg": {
+	"/uploads/firehouse1.jpg": {
 		"ft": 16384,
 		"iS": 230623,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/firehouse1.jpg",
+		"oAP": "/uploads/firehouse1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/five.jpg": {
+	"/uploads/five.jpg": {
 		"ft": 16384,
 		"iS": 30237,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/five.jpg",
+		"oAP": "/uploads/five.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/five1.jpg": {
+	"/uploads/five1.jpg": {
 		"ft": 16384,
 		"iS": 21135,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/five1.jpg",
+		"oAP": "/uploads/five1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/five2.jpg": {
+	"/uploads/five2.jpg": {
 		"ft": 16384,
 		"iS": 47918,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/five2.jpg",
+		"oAP": "/uploads/five2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/forecasting1.jpg": {
+	"/uploads/forecasting1.jpg": {
 		"ft": 16384,
 		"iS": 100901,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/forecasting1.jpg",
+		"oAP": "/uploads/forecasting1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/forecasting2.jpg": {
+	"/uploads/forecasting2.jpg": {
 		"ft": 16384,
 		"iS": 92449,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/forecasting2.jpg",
+		"oAP": "/uploads/forecasting2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/forecasting3.jpg": {
+	"/uploads/forecasting3.jpg": {
 		"ft": 16384,
 		"iS": 63311,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/forecasting3.jpg",
+		"oAP": "/uploads/forecasting3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/forecasting4.jpg": {
+	"/uploads/forecasting4.jpg": {
 		"ft": 16384,
 		"iS": 47632,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/forecasting4.jpg",
+		"oAP": "/uploads/forecasting4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/getty_478781225_2000160020009280372_106369.jpg": {
+	"/uploads/getty_478781225_2000160020009280372_106369.jpg": {
 		"ft": 16384,
 		"iS": 138231,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/getty_478781225_2000160020009280372_106369.jpg",
+		"oAP": "/uploads/getty_478781225_2000160020009280372_106369.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/gorila1.jpg": {
+	"/uploads/gorila1.jpg": {
 		"ft": 16384,
 		"iS": 76133,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/gorila1.jpg",
+		"oAP": "/uploads/gorila1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/gorila2.jpg": {
+	"/uploads/gorila2.jpg": {
 		"ft": 16384,
 		"iS": 58392,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/gorila2.jpg",
+		"oAP": "/uploads/gorila2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/health-care-data-security.jpg": {
+	"/uploads/health-care-data-security.jpg": {
 		"ft": 16384,
 		"iS": 235234,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/health-care-data-security.jpg",
+		"oAP": "/uploads/health-care-data-security.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/helloBankCover.jpg": {
+	"/uploads/helloBankCover.jpg": {
 		"ft": 16384,
 		"iS": 140295,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/helloBankCover.jpg",
+		"oAP": "/uploads/helloBankCover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/helloBankSmall.jpg": {
+	"/uploads/helloBankSmall.jpg": {
 		"ft": 16384,
 		"iS": 27859,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/helloBankSmall.jpg",
+		"oAP": "/uploads/helloBankSmall.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/holdTheLine-1.jpg": {
+	"/uploads/heureka.jpg": {
+		"ft": 16384,
+		"iS": 48517,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/heureka.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/holdTheLine-1.jpg": {
 		"ft": 16384,
 		"iS": 28286,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/holdTheLine-1.jpg",
+		"oAP": "/uploads/holdTheLine-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/holdTheLine.jpg": {
+	"/uploads/holdTheLine.jpg": {
 		"ft": 16384,
 		"iS": 42536,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/holdTheLine.jpg",
+		"oAP": "/uploads/holdTheLine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/home-article-img-big.jpg": {
+	"/uploads/home-article-img-big.jpg": {
 		"ft": 16384,
 		"iS": 211516,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/home-article-img-big.jpg",
+		"oAP": "/uploads/home-article-img-big.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/how-to-become-data-driven-for-startups-keboola-4-638.jpg": {
+	"/uploads/how-to-become-data-driven-for-startups-keboola-4-638.jpg": {
 		"ft": 16384,
 		"iS": 79394,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/how-to-become-data-driven-for-startups-keboola-4-638.jpg",
+		"oAP": "/uploads/how-to-become-data-driven-for-startups-keboola-4-638.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/image 1.png": {
+	"/uploads/image 1.png": {
 		"ft": 32768,
 		"iS": 1271905,
 		"oA": 0,
-		"oAP": "\/uploads\/image 1.png",
+		"oAP": "/uploads/image 1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/images-1.jpeg": {
+	"/uploads/images-1.jpeg": {
 		"ft": 16384,
 		"iS": 4702,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/images-1.jpg",
+		"oAP": "/uploads/images-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/images.jpeg": {
+	"/uploads/images.jpeg": {
 		"ft": 16384,
 		"iS": 11325,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/images.jpg",
+		"oAP": "/uploads/images.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/invoicing.jpg": {
+	"/uploads/imgArticleKeboola.jpg": {
+		"ft": 16384,
+		"iS": 130764,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/imgArticleKeboola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/invoicing.jpg": {
 		"ft": 16384,
 		"iS": 74550,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/invoicing.jpg",
+		"oAP": "/uploads/invoicing.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/invoicingArticle1.jpeg": {
+	"/uploads/invoicingArticle1.jpeg": {
 		"ft": 16384,
 		"iS": 40464,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/invoicingArticle1.jpg",
+		"oAP": "/uploads/invoicingArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/invoicingArticle2.jpeg": {
+	"/uploads/invoicingArticle2.jpeg": {
 		"ft": 16384,
 		"iS": 71324,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/invoicingArticle2.jpg",
+		"oAP": "/uploads/invoicingArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/jakubTurner.jpg": {
+	"/uploads/jakubTurner.jpg": {
 		"ft": 16384,
 		"iS": 33207,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/jakubTurner.jpg",
+		"oAP": "/uploads/jakubTurner.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/jarvis_5a53c609498ebde4362abcfe.jpg": {
+	"/uploads/jarvis_5a53c609498ebde4362abcfe.jpg": {
 		"ft": 16384,
 		"iS": 77828,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/jarvis_5a53c609498ebde4362abcfe.jpg",
+		"oAP": "/uploads/jarvis_5a53c609498ebde4362abcfe.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Keboola UK - source slides.png": {
+	"/uploads/JKt0nUHgE5G39Ffs9vSUNW0-qZ2WSm39L2LyBH_S6PNH8cXyBya2KiSZYWeaMyS9nQSet0JN5bNupIpXI-jL6iOXxIYf0Zp8FHfkeryBjEo-43k7nUuosnXL0JedhfQjPZXRxPZ8.png": {
+		"ft": 32768,
+		"iS": 1868617,
+		"oA": 0,
+		"oAP": "/uploads/JKt0nUHgE5G39Ffs9vSUNW0-qZ2WSm39L2LyBH_S6PNH8cXyBya2KiSZYWeaMyS9nQSet0JN5bNupIpXI-jL6iOXxIYf0Zp8FHfkeryBjEo-43k7nUuosnXL0JedhfQjPZXRxPZ8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/uploads/kblCover-1.jpg": {
+		"ft": 16384,
+		"iS": 13460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/kblCover-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/kblCover.jpg": {
+		"ft": 16384,
+		"iS": 13460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/kblCover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/Keboola UK - source slides.png": {
 		"ft": 32768,
 		"iS": 454730,
 		"oA": 0,
-		"oAP": "\/uploads\/Keboola UK - source slides.png",
+		"oAP": "/uploads/Keboola UK - source slides.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/keboola_facebook-1.png": {
+	"/uploads/keboola-img-brand.jpg": {
+		"ft": 16384,
+		"iS": 30050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/keboola-img-brand.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/keboola_facebook-1.png": {
 		"ft": 32768,
 		"iS": 75920,
 		"oA": 0,
-		"oAP": "\/uploads\/keboola_facebook-1.png",
+		"oAP": "/uploads/keboola_facebook-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/keboola_facebook.png": {
+	"/uploads/keboola_facebook.png": {
 		"ft": 32768,
 		"iS": 75920,
 		"oA": 0,
-		"oAP": "\/uploads\/keboola_facebook.png",
+		"oAP": "/uploads/keboola_facebook.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/keboolaGuide.jpg": {
+	"/uploads/keboolaGuide.jpg": {
 		"ft": 16384,
 		"iS": 15564,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/keboolaGuide.jpg",
+		"oAP": "/uploads/keboolaGuide.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/keboolaGuide2.jpg": {
+	"/uploads/keboolaGuide2.jpg": {
 		"ft": 16384,
 		"iS": 33472,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/keboolaGuide2.jpg",
+		"oAP": "/uploads/keboolaGuide2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/keboolaGuide3.jpg": {
+	"/uploads/keboolaGuide3.jpg": {
 		"ft": 16384,
 		"iS": 36627,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/keboolaGuide3.jpg",
+		"oAP": "/uploads/keboolaGuide3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Lekarna Header Image -1.png": {
+	"/uploads/learning.jpg": {
+		"ft": 16384,
+		"iS": 24247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/learning.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/Lekarna Header Image -1.png": {
 		"ft": 32768,
 		"iS": 460789,
 		"oA": 0,
-		"oAP": "\/uploads\/Lekarna Header Image -1.png",
+		"oAP": "/uploads/Lekarna Header Image -1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Lekarna Header Image .png": {
+	"/uploads/Lekarna Header Image .png": {
 		"ft": 32768,
 		"iS": 1279279,
 		"oA": 0,
-		"oAP": "\/uploads\/Lekarna Header Image .png",
+		"oAP": "/uploads/Lekarna Header Image .png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/lekarna-header-image.png": {
+	"/uploads/lekarna-header-image.png": {
 		"ft": 32768,
 		"iS": 1279279,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarna-header-image.png",
+		"oAP": "/uploads/lekarna-header-image.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/lekarna.jpg": {
+	"/uploads/lekarna.jpg": {
 		"ft": 16384,
 		"iS": 52125,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarna.jpg",
+		"oAP": "/uploads/lekarna.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/lekarnaArticle-1.png": {
+	"/uploads/lekarnaArticle-1.png": {
 		"ft": 32768,
 		"iS": 1271905,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarnaArticle-1.png",
+		"oAP": "/uploads/lekarnaArticle-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/lekarnaArticle.jpg": {
+	"/uploads/lekarnaArticle.jpg": {
 		"ft": 16384,
 		"iS": 88471,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarnaArticle.jpg",
+		"oAP": "/uploads/lekarnaArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/lekarnaArticle.png": {
+	"/uploads/lekarnaArticle.png": {
 		"ft": 32768,
 		"iS": 1271905,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarnaArticle.png",
+		"oAP": "/uploads/lekarnaArticle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/lekarnaArticle2.jpg": {
+	"/uploads/lekarnaArticle2.jpg": {
 		"ft": 16384,
 		"iS": 84941,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarnaArticle2.jpg",
+		"oAP": "/uploads/lekarnaArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/lekarnaCover.jpg": {
+	"/uploads/lekarnaCover.jpg": {
 		"ft": 16384,
 		"iS": 152384,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/lekarnaCover.jpg",
+		"oAP": "/uploads/lekarnaCover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcpen.jpg": {
+	"/uploads/liftago-taxi.jpg": {
+		"ft": 16384,
+		"iS": 239007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/liftago-taxi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/liftago.jpg": {
+		"ft": 16384,
+		"iS": 43966,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/liftago.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/mcpen.jpg": {
 		"ft": 16384,
 		"iS": 70126,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcpen.jpg",
+		"oAP": "/uploads/mcpen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcPenArticle1.jpg": {
+	"/uploads/mcPenArticle1.jpg": {
 		"ft": 16384,
 		"iS": 72561,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcPenArticle1.jpg",
+		"oAP": "/uploads/mcPenArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcPenArticle2-1.jpg": {
+	"/uploads/mcPenArticle2-1.jpg": {
 		"ft": 16384,
 		"iS": 71233,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcPenArticle2-1.jpg",
+		"oAP": "/uploads/mcPenArticle2-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcPenArticle2.jpg": {
+	"/uploads/mcPenArticle2.jpg": {
 		"ft": 16384,
 		"iS": 72132,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcPenArticle2.jpg",
+		"oAP": "/uploads/mcPenArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcPenArticle3.jpg": {
+	"/uploads/mcPenArticle3.jpg": {
 		"ft": 16384,
 		"iS": 39938,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcPenArticle3.jpg",
+		"oAP": "/uploads/mcPenArticle3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcpenStory.jpg": {
+	"/uploads/mcpenStory.jpg": {
 		"ft": 16384,
 		"iS": 75439,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcpenStory.jpg",
+		"oAP": "/uploads/mcpenStory.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcpenStory1.jpg": {
+	"/uploads/mcpenStory1.jpg": {
 		"ft": 16384,
 		"iS": 222432,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcpenStory1.jpg",
+		"oAP": "/uploads/mcpenStory1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcpenStory2.jpg": {
+	"/uploads/mcpenStory2.jpg": {
 		"ft": 16384,
 		"iS": 109539,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcpenStory2.jpg",
+		"oAP": "/uploads/mcpenStory2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/mcpenStory3.jpg": {
+	"/uploads/mcpenStory3.jpg": {
 		"ft": 16384,
 		"iS": 56281,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/mcpenStory3.jpg",
+		"oAP": "/uploads/mcpenStory3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/monetization-1-1.png": {
+	"/uploads/monetization-1-1.png": {
 		"ft": 32768,
 		"iS": 26969,
 		"oA": 0,
-		"oAP": "\/uploads\/monetization-1-1.png",
+		"oAP": "/uploads/monetization-1-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/monetization-1.png": {
+	"/uploads/monetization-1.png": {
 		"ft": 32768,
 		"iS": 26969,
 		"oA": 0,
-		"oAP": "\/uploads\/monetization-1.png",
+		"oAP": "/uploads/monetization-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/most-recent-img-1.jpg": {
+	"/uploads/most-recent-img-1.jpg": {
 		"ft": 16384,
 		"iS": 82045,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/most-recent-img-1.jpg",
+		"oAP": "/uploads/most-recent-img-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/most-recent-img-2.jpg": {
+	"/uploads/most-recent-img-2.jpg": {
 		"ft": 16384,
 		"iS": 46253,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/most-recent-img-2.jpg",
+		"oAP": "/uploads/most-recent-img-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/music.jpg": {
+	"/uploads/music.jpg": {
 		"ft": 16384,
 		"iS": 26942,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/music.jpg",
+		"oAP": "/uploads/music.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/musicArticle1.jpg": {
+	"/uploads/musicArticle1.jpg": {
 		"ft": 16384,
 		"iS": 90799,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/musicArticle1.jpg",
+		"oAP": "/uploads/musicArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/musicArticle2.jpg": {
+	"/uploads/musicArticle2.jpg": {
 		"ft": 16384,
 		"iS": 221353,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/musicArticle2.jpg",
+		"oAP": "/uploads/musicArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/musicArticle3.jpg": {
+	"/uploads/musicArticle3.jpg": {
 		"ft": 16384,
 		"iS": 224551,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/musicArticle3.jpg",
+		"oAP": "/uploads/musicArticle3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/nerds.jpg": {
+	"/uploads/nerds.jpg": {
 		"ft": 16384,
 		"iS": 58582,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/nerds.jpg",
+		"oAP": "/uploads/nerds.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/new_idea1_732width.jpg": {
+	"/uploads/new_idea1_732width.jpg": {
 		"ft": 16384,
 		"iS": 177715,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/new_idea1_732width.jpg",
+		"oAP": "/uploads/new_idea1_732width.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/numbers.jpg": {
+	"/uploads/numbers.jpg": {
 		"ft": 16384,
 		"iS": 38051,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/numbers.jpg",
+		"oAP": "/uploads/numbers.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/pietro.jpg": {
+	"/uploads/P1030345.jpg": {
+		"ft": 16384,
+		"iS": 1700840,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/P1030345.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/pietro.jpg": {
 		"ft": 16384,
 		"iS": 64893,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/pietro.jpg",
+		"oAP": "/uploads/pietro.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/salesforceArticle1.jpg": {
+	"/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpeg": {
+		"ft": 16384,
+		"iS": 123403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/PJaQBFPvvHawVg6LDvYtAdMBEB-E-b6QQhtbuXZdHP4pR2-KJY80yuOQr0lqp5nxKym3KVhfVTyy4glDE_hVDYYZaWrf9Cb0r4AaVvNFILoJ0D2JthpCvd9nS4SXM1IH4UD-kU1W.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/salesforceArticle1.jpg": {
 		"ft": 16384,
 		"iS": 45667,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/salesforceArticle1.jpg",
+		"oAP": "/uploads/salesforceArticle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/salesforceArticle2.jpg": {
+	"/uploads/salesforceArticle2.jpg": {
 		"ft": 16384,
 		"iS": 37538,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/salesforceArticle2.jpg",
+		"oAP": "/uploads/salesforceArticle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/She Loves Data 1 copy.jpg": {
+	"/uploads/She Loves Data 1 copy.jpg": {
 		"ft": 16384,
 		"iS": 457038,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/She Loves Data 1 copy.jpg",
+		"oAP": "/uploads/She Loves Data 1 copy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/sklizeno-1.jpg": {
+	"/uploads/sklizeno-1.jpg": {
 		"ft": 16384,
 		"iS": 43709,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/sklizeno-1.jpg",
+		"oAP": "/uploads/sklizeno-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/sklizeno.jpg": {
+	"/uploads/sklizeno.jpg": {
 		"ft": 16384,
 		"iS": 40993,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/sklizeno.jpg",
+		"oAP": "/uploads/sklizeno.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/slevomat.jpg": {
+	"/uploads/slevomat.jpg": {
 		"ft": 16384,
 		"iS": 31560,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/slevomat.jpg",
+		"oAP": "/uploads/slevomat.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/slevomatArticle.jpg": {
+	"/uploads/Slevomat_1.jpeg": {
+		"ft": 16384,
+		"iS": 133355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/Slevomat_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/Slevomat_2.jpeg": {
+		"ft": 16384,
+		"iS": 122952,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/Slevomat_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/slevomatArticle.jpg": {
 		"ft": 16384,
 		"iS": 77828,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/slevomatArticle.jpg",
+		"oAP": "/uploads/slevomatArticle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/SMAC-healthcare-1.jpg": {
+	"/uploads/SMAC-healthcare-1.jpg": {
 		"ft": 16384,
 		"iS": 83974,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/SMAC-healthcare-1.jpg",
+		"oAP": "/uploads/SMAC-healthcare-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/SMAC-healthcare.jpg": {
+	"/uploads/SMAC-healthcare.jpg": {
 		"ft": 16384,
 		"iS": 83974,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/SMAC-healthcare.jpg",
+		"oAP": "/uploads/SMAC-healthcare.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake1.jpg": {
+	"/uploads/snowflake1.jpg": {
 		"ft": 16384,
 		"iS": 48466,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake1.jpg",
+		"oAP": "/uploads/snowflake1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake2.jpg": {
+	"/uploads/snowflake2.jpg": {
 		"ft": 16384,
 		"iS": 75204,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake2.jpg",
+		"oAP": "/uploads/snowflake2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake3.jpg": {
+	"/uploads/snowflake3.jpg": {
 		"ft": 16384,
 		"iS": 54042,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake3.jpg",
+		"oAP": "/uploads/snowflake3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake4.jpg": {
+	"/uploads/snowflake4.jpg": {
 		"ft": 16384,
 		"iS": 12305,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake4.jpg",
+		"oAP": "/uploads/snowflake4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake5.jpg": {
+	"/uploads/snowflake5.jpg": {
 		"ft": 16384,
 		"iS": 18473,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake5.jpg",
+		"oAP": "/uploads/snowflake5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake6.jpg": {
+	"/uploads/snowflake6.jpg": {
 		"ft": 16384,
 		"iS": 17874,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake6.jpg",
+		"oAP": "/uploads/snowflake6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/snowflake7.jpg": {
+	"/uploads/snowflake7.jpg": {
 		"ft": 16384,
 		"iS": 24943,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/snowflake7.jpg",
+		"oAP": "/uploads/snowflake7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/survey.jpg": {
+	"/uploads/survey.jpg": {
 		"ft": 16384,
 		"iS": 27684,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/survey.jpg",
+		"oAP": "/uploads/survey.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/surveyMonkey.jpg": {
+	"/uploads/surveyMonkey.jpg": {
 		"ft": 16384,
 		"iS": 83446,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/surveyMonkey.jpg",
+		"oAP": "/uploads/surveyMonkey.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg": {
+	"/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg": {
 		"ft": 16384,
 		"iS": 126609,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg",
+		"oAP": "/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg": {
+	"/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg": {
 		"ft": 16384,
 		"iS": 126609,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg",
+		"oAP": "/uploads/TIBCO-Spotfire-Lego-Learning-The-Building-Blocks-of-Data-Visualization2-620x360.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (1)-1.png": {
+	"/uploads/Untitled design (1)-1.png": {
 		"ft": 32768,
 		"iS": 79424,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (1)-1.png",
+		"oAP": "/uploads/Untitled design (1)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (1).png": {
+	"/uploads/Untitled design (1).png": {
 		"ft": 32768,
 		"iS": 175092,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (1).png",
+		"oAP": "/uploads/Untitled design (1).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (10).png": {
+	"/uploads/Untitled design (10).png": {
 		"ft": 32768,
 		"iS": 127684,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (10).png",
+		"oAP": "/uploads/Untitled design (10).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (2)-1.png": {
+	"/uploads/Untitled design (2)-1.png": {
 		"ft": 32768,
 		"iS": 74478,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (2)-1.png",
+		"oAP": "/uploads/Untitled design (2)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (2).png": {
+	"/uploads/Untitled design (2).png": {
 		"ft": 32768,
 		"iS": 286861,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (2).png",
+		"oAP": "/uploads/Untitled design (2).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (3).png": {
+	"/uploads/Untitled design (3).png": {
 		"ft": 32768,
 		"iS": 357221,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (3).png",
+		"oAP": "/uploads/Untitled design (3).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (4)-1.png": {
+	"/uploads/Untitled design (4)-1.png": {
 		"ft": 32768,
 		"iS": 109869,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (4)-1.png",
+		"oAP": "/uploads/Untitled design (4)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (4).png": {
+	"/uploads/Untitled design (4).png": {
 		"ft": 32768,
 		"iS": 157360,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (4).png",
+		"oAP": "/uploads/Untitled design (4).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (5)-1.png": {
+	"/uploads/Untitled design (5)-1.png": {
 		"ft": 32768,
 		"iS": 288741,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (5)-1.png",
+		"oAP": "/uploads/Untitled design (5)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (5).png": {
+	"/uploads/Untitled design (5).png": {
 		"ft": 32768,
 		"iS": 119006,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (5).png",
+		"oAP": "/uploads/Untitled design (5).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (6)-1.png": {
+	"/uploads/Untitled design (6)-1.png": {
 		"ft": 32768,
 		"iS": 80324,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (6)-1.png",
+		"oAP": "/uploads/Untitled design (6)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (6).png": {
+	"/uploads/Untitled design (6).png": {
 		"ft": 32768,
 		"iS": 79689,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (6).png",
+		"oAP": "/uploads/Untitled design (6).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (7)-1.png": {
+	"/uploads/Untitled design (7)-1.png": {
 		"ft": 32768,
 		"iS": 61486,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (7)-1.png",
+		"oAP": "/uploads/Untitled design (7)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (7).png": {
+	"/uploads/Untitled design (7).png": {
 		"ft": 32768,
 		"iS": 69291,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (7).png",
+		"oAP": "/uploads/Untitled design (7).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (8)-1.png": {
+	"/uploads/Untitled design (8)-1.png": {
 		"ft": 32768,
 		"iS": 110357,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (8)-1.png",
+		"oAP": "/uploads/Untitled design (8)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (8).png": {
+	"/uploads/Untitled design (8).png": {
 		"ft": 32768,
 		"iS": 117137,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (8).png",
+		"oAP": "/uploads/Untitled design (8).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (9)-1.png": {
+	"/uploads/Untitled design (9)-1.png": {
 		"ft": 32768,
 		"iS": 137372,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (9)-1.png",
+		"oAP": "/uploads/Untitled design (9)-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design (9).png": {
+	"/uploads/Untitled design (9).png": {
 		"ft": 32768,
 		"iS": 115570,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design (9).png",
+		"oAP": "/uploads/Untitled design (9).png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/Untitled design.png": {
+	"/uploads/Untitled design.png": {
 		"ft": 32768,
 		"iS": 153990,
 		"oA": 0,
-		"oAP": "\/uploads\/Untitled design.png",
+		"oAP": "/uploads/Untitled design.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/uploads\/vizable.jpg": {
+	"/uploads/vizable.jpg": {
 		"ft": 16384,
 		"iS": 38429,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/vizable.jpg",
+		"oAP": "/uploads/vizable.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/vizable1.jpg": {
+	"/uploads/vizable1.jpg": {
 		"ft": 16384,
 		"iS": 101716,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/vizable1.jpg",
+		"oAP": "/uploads/vizable1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/vizable2.jpg": {
+	"/uploads/vizable2.jpg": {
 		"ft": 16384,
 		"iS": 41923,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/vizable2.jpg",
+		"oAP": "/uploads/vizable2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks.jpg": {
+	"/uploads/w67mHhdJo6BqfcWw2dAgBedIAZ2Z7-ijJLnapEV5Thb8FSRmUCSEfqpJhoEXnc8TMqovvvJ-L0FOHH4J7EaGcu0y-hY0BxxuI3RhXlkrMN989NgU2SpKIREMMOGMNq3G5R980TLb.jpeg": {
+		"ft": 16384,
+		"iS": 264976,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/uploads/w67mHhdJo6BqfcWw2dAgBedIAZ2Z7-ijJLnapEV5Thb8FSRmUCSEfqpJhoEXnc8TMqovvvJ-L0FOHH4J7EaGcu0y-hY0BxxuI3RhXlkrMN989NgU2SpKIREMMOGMNq3G5R980TLb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/uploads/webhooks.jpg": {
 		"ft": 16384,
 		"iS": 43432,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks.jpg",
+		"oAP": "/uploads/webhooks.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks1.jpg": {
+	"/uploads/webhooks1.jpg": {
 		"ft": 16384,
 		"iS": 16798,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks1.jpg",
+		"oAP": "/uploads/webhooks1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks2.jpg": {
+	"/uploads/webhooks2.jpg": {
 		"ft": 16384,
 		"iS": 15183,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks2.jpg",
+		"oAP": "/uploads/webhooks2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks3.jpg": {
+	"/uploads/webhooks3.jpg": {
 		"ft": 16384,
 		"iS": 12428,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks3.jpg",
+		"oAP": "/uploads/webhooks3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks4.jpg": {
+	"/uploads/webhooks4.jpg": {
 		"ft": 16384,
 		"iS": 12610,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks4.jpg",
+		"oAP": "/uploads/webhooks4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks5.jpg": {
+	"/uploads/webhooks5.jpg": {
 		"ft": 16384,
 		"iS": 30454,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks5.jpg",
+		"oAP": "/uploads/webhooks5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks6.jpg": {
+	"/uploads/webhooks6.jpg": {
 		"ft": 16384,
 		"iS": 122931,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks6.jpg",
+		"oAP": "/uploads/webhooks6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks7.jpg": {
+	"/uploads/webhooks7.jpg": {
 		"ft": 16384,
 		"iS": 36606,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks7.jpg",
+		"oAP": "/uploads/webhooks7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks8.jpg": {
+	"/uploads/webhooks8.jpg": {
 		"ft": 16384,
 		"iS": 7106,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks8.jpg",
+		"oAP": "/uploads/webhooks8.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/uploads\/webhooks9.jpg": {
+	"/uploads/webhooks9.jpg": {
 		"ft": 16384,
 		"iS": 14602,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/uploads\/webhooks9.jpg",
+		"oAP": "/uploads/webhooks9.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3505,141 +4050,94 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -3651,7 +4149,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -3663,7 +4182,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -3699,53 +4236,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -3754,6 +4284,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -4111,6 +4642,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -4122,6 +4657,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -4167,6 +4706,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -4185,10 +4728,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -4387,9 +4926,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -4743,6 +5286,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -4771,6 +5318,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -4778,6 +5329,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -4833,7 +5388,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -4893,7 +5448,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -5288,7 +5843,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -5307,7 +5861,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -5339,19 +5893,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 1,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -5407,7 +5961,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -5436,7 +5990,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -5460,36 +6014,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/_site",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules, /_site",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5497,11 +6085,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -5525,6 +6113,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -5541,7 +6133,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -5549,20 +6149,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -5577,6 +6189,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -5585,12 +6205,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -5601,11 +6229,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -5617,23 +6253,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -5645,9 +6309,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
