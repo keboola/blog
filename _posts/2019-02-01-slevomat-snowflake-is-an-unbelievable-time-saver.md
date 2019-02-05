@@ -2,34 +2,34 @@
 layout: post
 categories: customer-stories
 title: 'Slevomat: Snowflake is an unbelievable time saver'
-perex: ''
+perex: While other discount e-commerce marketplaces are going bankrupt, Slevomat has
+  been experiencing unprecedented growth year-over-year ever since its humble beginnings
+  eight years ago.
 date: 2019-02-01 00:00:00 +0000
 user: jiri-vicherek
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/slevomatSlider.jpg"
+permalink: slevomat-snowflake-is-time-saver
 
 ---
-Zdeněk Linc (Slevomat): Snowflake – the Unbelievable Time Saver
+Recently, they've made a name for themselves offering experiences, like events and travel, at heavily discounted rates.
 
-_While other discount e-commerce marketplaces are going bankrupt, Slevomat has been experiencing unprecedented growth year-over-year ever since its humble beginnings eight years ago. Recently, they've made a name for themselves offering experiences, like events and travel, at heavily discounted rates._
+![](/uploads/Slevomat_1.jpeg)
 
-_  
-![](/uploads/Slevomat_1.jpeg)  
-To delve into why they've been such a success, we have to look at one of the cornerstones of their company – their approach to data.  
-  
-From our experience, only a handful of European companies have been able to automate their business processes on the level that Slevomat has, so it's advantageous to anyone trying to follow in their footsteps to look at their methods.  
-  
-So what does Slevomat's data department look like? What have they dealing with, and how has Keboola improved their business? Can they ever imagine their data management working differently?  
-  
+To delve into why they've been such a success, we have to look at one of the cornerstones of their company – their approach to data.
+
+From our experience, only a handful of European companies have been able to automate their business processes on the level that Slevomat has, so it's advantageous to anyone trying to follow in their footsteps to look at their methods.
+
+So what does Slevomat's data department look like? What have they dealing with, and how has Keboola improved their business? Can they ever imagine their data management working differently?
+
 To answer those questions, and more, we sat down with Zdeněk Linc, Michal Kolomý, and Jana Chroboková from Slevomat's GHT department._
 
 **In Slevomat, what does a regular day of working with data look like to you?**
 
-We ensure that Keboola is being fed the entry data that it's supposed to receive and that it's transforming the data correctly. Also, we manage ad-hoc analyses for customers, a/b testing, and even sales. With all these responsibilities, we stay pretty busy. 
+We ensure that Keboola is being fed the entry data that it's supposed to receive and that it's transforming the data correctly. Also, we manage ad-hoc analyses for customers, a/b testing, and even sales. With all these responsibilities, we stay pretty busy.
 
 We're currently using Keboola as a BI tool – we pour data from SQL database, Zendesk, and Google Analytics into Keboola, and once the system processes it, the results go into GoodData or BizMachine.
 
-  
 **Have you been able to start discovering new journeys that Keboola can help you undertake?**
 
 The truth is, we're using Keboola a bit differently than we thought we would when we first started using the system. Originally, Keboola was used as a data preparation method for GoodData. We used it to work with our SQL database, but we found that running complex operations took about 20 minutes. We later figured out that we could use Keboola to integrate SnowFlake, which allowed us to do incredible things. After that, we have basically been able to work unrestricted with any data directly in [Snowflake](https://snowflake.com).
@@ -44,7 +44,6 @@ Slevomat works with large amounts of data every day, and processing all of it is
 
 Before introducing Keboola, we used to try to handle our databases on our own, but some of the more difficult operations would take hours to complete, and every dead end we encountered would waste vast amounts of precious time. Now, thanks to the symbiotic relationship between Keboola and SnowFlake, everything works together so much more quickly. It gives us the freedom to do what we want much more rapidly, saving us tons of time and accelerating the progress of data processing in our company.
 
-  
 **You mentioned that data processing used to take a lot more time. What did your processes look like before you started using Keboola?**
 
 Honestly, we try not to think about those times. Thinking back on it, it feels like we were working in a different century.
@@ -57,7 +56,9 @@ Exactly! A salesperson, for example, could tell us that they were starting a new
 
 Before Keboola, the marketing department would have to submit a request to the IT department, and it would take time since the IT department typically had other important things to take care of. Now, we can export the results ourselves in a handy CSV document, which our marketing department can then directly import into Facebook to use in ads, saving people in both departments time and effort.
 
-**![](/uploads/Slevomat_2.jpeg)How has Slevomat's approach to marketing shifted in the last two years?**
+![](/uploads/Slevomat_2.jpeg)
+
+**How has Slevomat's approach to marketing shifted in the last two years?**
 
 Once we were able to automate most of our daily routine, we were able to start approaching company data, including marketing data, from new perspectives. One of the examples is that instead of using the traditional A/B testing based on cookies, we’re now able to do them on users instead. Since we’re able to work with more relevant data, we’re seeing a lot more interesting results.
 
@@ -65,7 +66,7 @@ Another example of this is our internal category "Good Deals." This category is 
 
 Thanks to the model, we can recommend not the bestsellers, but the products that drive the most value to the business as a whole.
 
-**Have you found ways to work with the data from these best-selling deals?** 
+**Have you found ways to work with the data from these best-selling deals?**
 
 Absolutely. We run daily evaluations based on Keboola data so that we can give recommendations to our marketers about which deals they should be pushing and which are likely to do well. There are many similar possibilities, like using GoodData to generate ads for Facebook directly.
 
