@@ -1,10 +1,9 @@
 ---
 layout: post
 categories: customer-stories
-permalink: What started as a Digital Marketing reporting tool has expanded into multi-purpose
-  solution
 title: Ivanhoe Customer Success Story
-perex: ''
+perex: What started as a Digital Marketing reporting tool has expanded into multi-purpose
+  solution
 date: 2019-02-10 23:00:00 +0000
 user: jiri-vicherek
 coverphoto: ''
