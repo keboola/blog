@@ -29,8 +29,8 @@ Ivanhoé Cambridge went shopping for solutions at the Tableau Conference and enc
 
 #### **The Result**
 
-_“Keboola allowed us to focus on being innovative and not worry about whether our toolset would be able to keep up with us.” -- Vinh Buu, Manager of Shopping Data_
+> _“Keboola allowed us to focus on being innovative and not worry about whether our toolset would be able to keep up with us.” -- Vinh Buu, Manager of Shopping Data_
 
 What started as a Digital Marketing reporting tool has expanded into multi-purpose solution. Not only does Ivanhoé Cambridge use Keboola to track marketing campaigns and activities, but it’s on the forefront of the company’s experimental and R&D projects for the future of Ivanhoé Cambridge sites. Tableau is not the only consumption point of data now, as data also flows to other systems, all within one Keboola instance.
 
-_“Along the way when we encountered problems with some of our tools, we realized that we could use Keboola to tackle the problems. Tools that had integrations and connectors that should have worked didn’t, or was really hard. We realized we can use Keboola to push and pull data to those tools.” -- Vinh Buu, Manager of Shopping Data._
+> _“Along the way when we encountered problems with some of our tools, we realized that we could use Keboola to tackle the problems. Tools that had integrations and connectors that should have worked didn’t, or was really hard. We realized we can use Keboola to push and pull data to those tools.” -- Vinh Buu, Manager of Shopping Data._
