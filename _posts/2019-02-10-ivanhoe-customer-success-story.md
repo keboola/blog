@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: customer-stories
+permalink: ivanhoe-customer-story
 title: Ivanhoe Customer Success Story
 perex: What started as a Digital Marketing reporting tool has expanded into multi-purpose
   solution
