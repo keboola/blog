@@ -2,7 +2,7 @@
 layout: post
 categories: customer-stories
 permalink: ivanhoe-customer-story
-title: Ivanhoe Customer Success Story
+title: 'Ivanhoe Cambridge: Focus on being innovative and not worry about our toolset'
 perex: What started as a Digital Marketing reporting tool has expanded into multi-purpose
   solution
 date: 2019-02-10 23:00:00 +0000
