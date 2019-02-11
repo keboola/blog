@@ -1,12 +1,14 @@
 ---
 layout: post
 categories: customer-stories
+permalink: What started as a Digital Marketing reporting tool has expanded into multi-purpose
+  solution
 title: Ivanhoe Customer Success Story
 perex: ''
 date: 2019-02-10 23:00:00 +0000
 user: jiri-vicherek
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/ivanhoe.jpg"
 
 ---
 ### Ivanhoé Cambridge develops and invests in high-quality real estate properties, projects and companies that are shaping the urban fabric in dynamic cities around the world.
