@@ -3,15 +3,15 @@ layout: post
 categories: customer-stories
 title: Ivanhoe Customer Success Story
 perex: ''
-date: ''
-user: ''
+date: 2019-02-10 23:00:00 +0000
+user: jiri-vicherek
 coverphoto: ''
 coverphoto_slider: ''
 
 ---
-**About Ivanhoe Cambridge:**
+### Ivanhoé Cambridge develops and invests in high-quality real estate properties, projects and companies that are shaping the urban fabric in dynamic cities around the world.
 
-Ivanhoé Cambridge develops and invests in high-quality real estate properties, projects and companies that are shaping the urban fabric in dynamic cities around the world. It does so responsibly, with a long-term view to generate optimal, risk-adjusted returns. Ivanhoé Cambridge is committed to creating living spaces that foster the well-being of people and communities, while reducing its environmental footprint.
+It does so responsibly, with a long-term view to generate optimal, risk-adjusted returns. Ivanhoé Cambridge is committed to creating living spaces that foster the well-being of people and communities, while reducing its environmental footprint.
 
 Ivanhoé Cambridge held more than C$60 billion in assets as of December 31, 2017, and is a real estate subsidiary of the Caisse de dépôt et placement du Québec ([cdpq.com](http://cdpq.com)), one of Canada's leading institutional fund managers.
 
