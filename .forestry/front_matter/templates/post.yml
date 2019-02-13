@@ -56,6 +56,7 @@ fields:
     - fenek-pr
     - elena-wong
     - jiri-vicherek
+    - usman-mahmood
   label: user
 - type: file
   name: coverphoto
