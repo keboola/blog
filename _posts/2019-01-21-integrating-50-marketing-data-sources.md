@@ -1,5 +1,5 @@
 ---
-title: 'DXC: Integrating a huge number marketing sources into CRM?'
+title: 'DXC: Integrating a huge number of marketing sources into CRM?'
 layout: post
 categories: customer-stories
 date: 2019-01-21 01:00:00 +0000
