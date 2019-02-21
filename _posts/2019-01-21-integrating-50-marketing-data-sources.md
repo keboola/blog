@@ -11,9 +11,9 @@ coverphoto_slider: "/uploads/dxc-slider.jpg"
 ---
 ### **Summary**
 
-**Client:** Computer Sciences Corporation (CSC), provides IT services, professional services, and solutions for large corporations. With an annual revenue of USD 12B, the company has  approximately 74,000 employees worldwide.
+**Client:** DXC provides IT services, professional services, and solutions for large corporations. With an annual revenue of USD 12B, the company has  approximately 74,000 employees worldwide.
 
-**Purpose:** Consolidate the performance of various marketing channels into one easy-to-use dashboard available to a wide audience in CSC sales and marketing teams
+**Purpose:** Consolidate the performance of various marketing channels into one easy-to-use dashboard available to a wide audience in DXC sales and marketing teams
 
 **Data Sources:** Salesforce Developers Community platform (SFDC), Eloqua, Conductor, Adobe Social, Adobe Analytics… 50+ data sources in total!
 
@@ -21,9 +21,9 @@ coverphoto_slider: "/uploads/dxc-slider.jpg"
 
 ### **The Story**
 
-Computer Sciences Corporation (CSC) provided IT services, professional services and solutions to large corporations for 60 years. A pioneer in its field, CSC offered software programming, in the early days of such services, to major computer manufacturers such as [IBM](https://en.wikipedia.org/wiki/IBM) and [Honeywell](https://en.wikipedia.org/wiki/Honeywell). The company secured its first contracts for the US public sector with [NASA](https://en.wikipedia.org/wiki/NASA). Last year, the legendary brand merged with HP Enterprise Services to form [DXC Technology](https://en.wikipedia.org/wiki/DXC_Technology).
+DXC provided IT services, professional services and solutions to large corporations for 60 years. A pioneer in its field, DXC offered software programming, in the early days of such services, to major computer manufacturers such as [IBM](https://en.wikipedia.org/wiki/IBM) and [Honeywell](https://en.wikipedia.org/wiki/Honeywell). The company secured its first contracts for the US public sector with [NASA](https://en.wikipedia.org/wiki/NASA). Last year, the legendary brand merged with HP Enterprise Services to form [DXC Technology](https://en.wikipedia.org/wiki/DXC_Technology).
 
-Before that, we had had an opportunity to work with CSC on an ambitious project ‒ bringing all its global marketing efforts to a comprehensive dashboard available to a wide audience within the CSC sales and marketing teams. And when we say wide audience we mean huge. Over 3,500 sales staff and a 500-person marketing department managed an 8-figure marketing budget annually. It was our job to help Chris Marin, our champion at the company, to make a sense of the data.
+Before that, we had had an opportunity to work with DXC on an ambitious project ‒ bringing all its global marketing efforts to a comprehensive dashboard available to a wide audience within the DXC sales and marketing teams. And when we say wide audience we mean huge. Over 3,500 sales staff and a 500-person marketing department managed an 8-figure marketing budget annually. It was our job to help Chris Marin, our champion at the company, to make a sense of the data.
 
 We started by collecting questions which should be answered by bringing their data sources together. These were pretty standard:
 
@@ -37,9 +37,9 @@ But, as you can imagine, solving these challenging questions in a global company
 
 But such difficult tasks are exactly what we built Keboola for.
 
-First of all, we needed a hero. A hero is a person at the company with both the willpower and the competence to make a change, to fight for what is right and thus to innovate. At smaller firms, it is usually the owner or CEO, in this case the best person for the job was Christopher Marin, Senior Principal for CSC Digital Marketing & Analytics. We worked closely with Chris, and our Solution Architect Adam Hu has become for the time being an unofficial part of the CSC team.
+First of all, we needed a hero. A hero is a person at the company with both the willpower and the competence to make a change, to fight for what is right and thus to innovate. At smaller firms, it is usually the owner or CEO, in this case the best person for the job was Christopher Marin, Senior Principal for DXC Digital Marketing & Analytics. We worked closely with Chris, and our Solution Architect Adam Hu has become for the time being an unofficial part of the DXC team.
 
-> “_The Keboola Solution Architect has been with us since the inception of this project, and I can say without a doubt that he has made invaluable contribution to our success._” says Christopher Marin, Senior Principal for CSC Digital Marketing & Analytics.
+> “_The Keboola Solution Architect has been with us since the inception of this project, and I can say without a doubt that he has made invaluable contribution to our success._” says Christopher Marin, Senior Principal for DXC Digital Marketing & Analytics.
 
 Our goal was to consolidate complicated ecosystem of 50+ tools into a single dataset, which would then be accessible both from standalone app and CRM.
 
@@ -55,9 +55,9 @@ Thanks to this approach, we tracked the right KPIs and insights. And when we say
 
 Though the effort of Chris and all those who were involved and an agile approach to the problem, we made all this possible in 90 days.
 
-Not long after we started to see the benefits. The CSC staff in particular were able to deliver 206% growth in marketing qualified leads.
+Not long after we started to see the benefits. The DXC staff in particular were able to deliver 206% growth in marketing qualified leads.
 
-We then added additional value by using backend Redshift transformation to interconnect the disparate data sets. We created and stored daily snapshots to provide CSC with more in-depth historical records, and generated data-health checks to produce warnings in case any of the various data streams weren’t available. Also, we made it easy to connect CRM to BI tools for more complex analysis and reporting, when needed.
+We then added additional value by using backend Redshift transformation to interconnect the disparate data sets. We created and stored daily snapshots to provide DXC with more in-depth historical records, and generated data-health checks to produce warnings in case any of the various data streams weren’t available. Also, we made it easy to connect CRM to BI tools for more complex analysis and reporting, when needed.
 
 The icing on the cake was that the digital marketing team at Computer Science Corporation won the prestigious ITSMA Diamond Marketing Excellence Award for this project.
 
