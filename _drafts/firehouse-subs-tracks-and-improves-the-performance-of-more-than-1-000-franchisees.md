@@ -6,7 +6,7 @@ title: Firehouse Subs tracks and improves the performance of more than 1,000 fra
 perex: Firehouse Subs is fast casual restaurant chain selling sandwiches.
 date: 2019-02-27 23:00:00 +0000
 user: jiri-vicherek
-coverphoto: ''
-coverphoto_slider: ''
+coverphoto: "/uploads/firehouseCover.jpg"
+coverphoto_slider: "/uploads/firehouseBlogBack.jpg"
 
 ---
