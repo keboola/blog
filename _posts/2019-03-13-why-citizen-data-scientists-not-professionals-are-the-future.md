@@ -15,9 +15,7 @@ coverphoto_slider: ''
 
 **However, the data-driven function of a company is not defined by the number of data specialists. Instead, it's all about the mindsets of the people outside of the data/BI teams, and how easily they can consume and act upon reliable data.**
 
-![](/uploads/kdnuggets-1.jpg)![](/uploads/kdnuggets-2.jpg)
-
-If you're reading this, there's a good chance you're a data professional who wants to try to get ahead of the curve. You might consume content from a site like KDnuggets, discuss the latest on deep learning algorithms and specialized apps with your peers, or laugh to yourself whenever you hear someone use the term AI without understanding that it's often more of a philosophical concept than a technical one. You probably take pride in your work, as you should, knowing that you are helping to push your company into the 21st century.
+![](/uploads/kdnuggets-1.jpg)If you're reading this, there's a good chance you're a data professional who wants to try to get ahead of the curve. You might consume content from a site like KDnuggets, discuss the latest on deep learning algorithms and specialized apps with your peers, or laugh to yourself whenever you hear someone use the term AI without understanding that it's often more of a philosophical concept than a technical one. You probably take pride in your work, as you should, knowing that you are helping to push your company into the 21st century.
 
 Some would argue that 99% of companies out there would see more business value in optimizing the organization as a whole instead of investing that time and energy into any narrow application. Providing non-technical employees with relevant data and teaching them how to analyze, use, and act upon it is far more rewarding than most initiatives to strengthen the technical ability in machine learning.
 
