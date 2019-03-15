@@ -135,11 +135,11 @@ Imagine that there are thousands of rows in the left column of dozens of product
 The quality of my data is really bad. It is good to try and clean them a little bit for better clustering. I used UPPER () in SQL to convert all the characters into uppercase letters, remove the explicit nonsense (region information, type of packaging, etc.) and deduplicated the rows - from tens of thousands of items I had about 1,500 at one time. In my situation, I occasionally needed to delete the text as "ABC", but only at the end of the line (i.e. leave "ABC Special", but "ABC Special ABC" at the end to throw away). This is a great fit for regular expressions. Do not be scared by it! In the Snowflake.net DB there is a REGEXP_REPLACE that would remove "DHL" and "PPL" from the end of the line as follows:
 ![](/uploads/pasted image 0-3.png)
 
-The \`$\` character says it matches only if it's at the end of the line (so I usually have the still TRIMOUT the column so I do not have a gap at the end and do not have the regexp pattern 'DHL $ | PPL $')
+The \`$\` character says it matches only if it's at the end of the line (so I usually have the still TRIMOUT the column so I do not have a gap at the end and do not have the regexp pattern 'DHL $ \`| PPL $')
 
 ![](/uploads/pasted image 0-4.png)
 
-and the pipe ("|") separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
+and the pipe ("\`|") separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
 
 **Well, the best comes at the end**
 
