@@ -135,7 +135,7 @@ Imagine that there are thousands of rows in the left column of dozens of product
 The quality of my data is really bad. It is good to try and clean them a little bit for better clustering. I used UPPER () in SQL to convert all the characters into uppercase letters, remove the explicit nonsense (region information, type of packaging, etc.) and deduplicated the rows - from tens of thousands of items I had about 1,500 at one time. In my situation, I occasionally needed to delete the text as "ABC", but only at the end of the line (i.e. leave "ABC Special", but "ABC Special ABC" at the end to throw away). This is a great fit for regular expressions. Do not be scared by it! In the Snowflake.net DB there is a REGEXP_REPLACE that would remove "DHL" and "PPL" from the end of the line as follows:
 ![](/uploads/pasted image 0-3.png)
 
-The "$" character says it matches only if it's at the end of the line (so I usually have the still TRIMOUT the column so I do not have a gap at the end and do not have the regexp pattern 'DHL $ | PPL $')
+    The "$" character says it matches only if it's at the end of the line (so I usually have the still TRIMOUT the column so I do not have a gap at the end and do not have the regexp pattern 'DHL $ | PPL $')
 
 ![](/uploads/pasted image 0-4.png)
 
