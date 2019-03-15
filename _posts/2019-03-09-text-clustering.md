@@ -80,7 +80,7 @@ Sometimes it is called "edit distance" - it's super easy: for every two strings 
 
 _Example:_
 
-    Coffee | Beer = 4Coarse | Course = 1Lego Friends 3061: City Park Cafe | Lego-Friends 3061: City Park Cafe = 1
+Coffee | Beer = 4Coarse | Course = 1Lego Friends 3061: City Park Cafe | Lego-Friends 3061: City Park Cafe = 1
 
 The more distance you tolerate, the greater the chance of replacing two different texts. Small distance "guarantees" the correction of typing, misspelling, etc.
 
@@ -139,7 +139,7 @@ The \`$\` character says it matches only if it's at the end of the line (so I us
 
 ![](/uploads/pasted image 0-4.png)
 
-and the pipe ("```|```") separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
+and the pipe ("```|```") separates the field of values I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
 
 **Well, the best comes at the end**
 
