@@ -68,7 +68,7 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/text-clustering.md
+- _posts/2019-03-09-text-clustering.md
 - _posts/2019-02-27-firehouse-subs-tracks-and-improves-the-performance-of-more-than-1-000-franchisees.md
 - _posts/2019-01-21-integrating-50-marketing-data-sources.md
 - _posts/2019-02-10-ivanhoe-customer-success-story.md

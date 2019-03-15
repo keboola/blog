@@ -6,8 +6,8 @@ title: Text Clustering
 perex: I got into a situation when I was left with a puzzler from which everyone has
   put their hands off. I confess that I did not have much experience with it and went
   for it to learn something new. And I enjoyed it in the end! Clustering text strings!
-date: ''
-user: ''
+date: 2019-03-09 23:00:00 +0000
+user: jiri-vicherek
 coverphoto: ''
 coverphoto_slider: ''
 
