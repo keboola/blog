@@ -139,7 +139,7 @@ The \`$\` character says it matches only if it's at the end of the line (so I us
 
 ![](/uploads/pasted image 0-4.png)
 
-and the pipe ("|") separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
+and the pipe (|) separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of '$', it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
 
 **Well, the best comes at the end**
 
