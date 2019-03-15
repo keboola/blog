@@ -52,9 +52,7 @@ Trifacta (3) seems to me more like a (slow) clicking generator of very erroneous
 
 The remaining points (4, 5, 6 and 7) I decided to try at OpenRefine, the successor to GoogleRefine. For production deployment, you can choose to manage the instance from RefinePro.com, about which I wrote [here](https://padak.keboola.com/refinepro-124825494033#.xv6blgqgo).
 
-### 
-
-**Text Clustering**
+### **Text Clustering**
 
 If I get a fingerprint from each product name that will be unique to the product, I have the chance that I will always have different texts of the same meaning for a single fingerprint.
 
