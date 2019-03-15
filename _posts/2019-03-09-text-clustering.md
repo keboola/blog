@@ -196,9 +196,7 @@ If I take everything to the left from this position, using LEFT (), I get this:
 
 ![](https://lh5.googleusercontent.com/WGKXD0iwCoMRPU6_vJ8rIVCkKaQ5uUJCoCVLXvWkPNd0RRJf3wXc7o10y35w5W97Kgbsa6sgIHsmNAjDP4Hq8GcYcSnSmLgPTonJBFd7LiZHgnBoGuB4gbEsS2zY1FfdoRa-WjQknCUYzEBAdQ =671x326)
 
-_On the first line one can calculate that "(" is at position 14, but REGEXP_INSTR returns 15 - therefore the "-1" on line 12 in SQL._
-
-On the fifth line, I can see that I caught only a piece of the number with a dot in the middle. I'm not a regexp master, so I finally solved it in SQL, but of course I'm going to write a [Regex matching number and decimals rule](https://stackoverflow.com/questions/10921058/regex-matching-numbers-and-decimals). And I have placed inside of the function “replace” which deletes my dot:
+_On the first line one can calculate that "(" is at position 14, but REGEXP_INSTR returns 15 - therefore the "-1" on line 12 in SQL._ but of course I'm going to write a [Regex matching number and decimals rule](https://stackoverflow.com/questions/10921058/regex-matching-numbers-and-decimals). And I have placed inside of the function “replace” which deletes my dot:
 
 ![](https://lh4.googleusercontent.com/EOYSLKMWZDXMZQHspGRVAeVJ6WrvvYR14uHMthAB9L0Ns0nWiVcr3W0qUmuWQS4UyFYvDJNAoihtDG_glHzz5WLM2SyWHr38MGebXMTWII60_b3uXvGQFZDk-IV-MDCA2e3UzGuf =605x304)
 
