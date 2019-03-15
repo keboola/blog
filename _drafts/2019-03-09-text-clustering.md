@@ -134,8 +134,7 @@ Imagine that there are thousands of rows in the left column of dozens of product
 
 The quality of my data is really bad. It is good to try and clean them a little bit for better clustering. I used UPPER () in SQL to convert all the characters into uppercase letters, remove the explicit nonsense (region information, type of packaging, etc.) and deduplicated the rows - from tens of thousands of items I had about 1,500 at one time. In my situation, I occasionally needed to delete the text as "ABC", but only at the end of the line (i.e. leave "ABC Special", but "ABC Special ABC" at the end to throw away). This is a great fit for regular expressions. Do not be scared by it! In the Snowflake.net DB there is a REGEXP_REPLACE that would remove "DHL" and "PPL" from the end of the line as follows:
 
-![](https://lh4.googleusercontent.com/TgAkAK2StrB3AfudwsX4P6PFxv4e8nlm_4iYn_YZXM_2Q_-UBvCAcEgMmaZ7D3DeBKDP4ppgxD2oUSJ788TrKf_NGimJnva__cOeJjkkiYbgYXkNLIqUDECZ7YenYrjs0uc4R0LH =605x85)
-
+![](https://lh4.googleusercontent.com/TgAkAK2StrB3AfudwsX4P6PFxv4e8nlm_4iYn_YZXM_2Q_-UBvCAcEgMmaZ7D3DeBKDP4ppgxD2oUSJ788TrKf_NGimJnva__cOeJjkkiYbgYXkNLIqUDECZ7YenYrjs0uc4R0LH =605x85)  
 The "$" character says it matches only if it's at the end of the line (so I usually have the still TRIMOUT the column so I do not have a gap at the end and do not have the regexp pattern 'DHL $ | PPL $')
 
 ![](https://lh3.googleusercontent.com/RwBGKLgCuWt3ptCiqX9qw7IVmz5oL50NBGKnv_4pezhDm81BzaKzkqFe97DCUtWPXNR4WThmXw76UTsk_Hhb59AJ9oCjDbw8-pq13GB2DDvXmTNsXF9K2Ja9gCSv26K3rf_DAzYX =605x81)
