@@ -11,6 +11,8 @@ coverphoto: "/uploads/kdnuggets.jpg"
 coverphoto_slider: ''
 
 ---
+#### **During the last few years, we've seen an explosive rise in demand for data scientists and data analysts driven by buzzwords like Big Data, AI, Machine Learning, and more.**
+
 **Don't get me wrong; it's terrific that more companies are talking about and starting to try to work with data. Most companies, even now in 2019, are making decisions based on nothing more than a gut feeling. After watching themselves get outrun by data-driven companies, these organizations are starting to warm up to the idea of making data-based business decisions.**
 
 **However, the data-driven function of a company is not defined by the number of data specialists. Instead, it's all about the mindsets of the people outside of the data/BI teams, and how easily they can consume and act upon reliable data.**
