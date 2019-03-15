@@ -22,7 +22,6 @@ Let's have the "LEGO Friends 3061: City Park Cafe" product. This could look like
 
 _LEGO Friends - formatting, packaging, distribution, region, promotions ..._
 
-  
 All of the labels, accessories, distribution channels, etc. can be misspelt, a single supplier may combine data in any way, + you have hundreds of LEGO products and Chinese imitations.
 
 ### What was my goal?
@@ -53,7 +52,8 @@ Trifacta (3) seems to me more like a (slow) clicking generator of very erroneous
 
 The remaining points (4, 5, 6 and 7) I decided to try at OpenRefine, the successor to GoogleRefine. For production deployment, you can choose to manage the instance from RefinePro.com, about which I wrote [here](https://padak.keboola.com/refinepro-124825494033#.xv6blgqgo).
 
-###   
+### 
+
 **Text Clustering**
 
 If I get a fingerprint from each product name that will be unique to the product, I have the chance that I will always have different texts of the same meaning for a single fingerprint.
@@ -68,7 +68,6 @@ These n-character combinations are sorted and duplicates are thrown out it conne
 
 This is great for real-life typing. Not so much in nonsense, abbreviations, etc., because "abc" and "bca" have the same 2-gram (ab, bc) and it's different. But [Wikipedia says](https://en.wikipedia.org/wiki/N-gram#n-grams_for_approximate_matching) it has been empirically found that if two real texts have the same "vector" (n-gram field: {"ab", "bc"}), then it is very likely the same text. I definitely wanted to try this!
 
-  
 **Phonetic algorithm**
 
 OpenRefine has an implemented [Metaphone3](https://en.wikipedia.org/wiki/Metaphone) algorithm - it makes a fingerprint based on how it sounds in English. Has a ton of rules:
@@ -83,11 +82,7 @@ Sometimes it is called "edit distance" - it's super easy: for every two strings 
 
 _Example:_
 
-_Coffee | Beer = 4_
-
-_Coarse | Course = 1_
-
-_Lego Friends 3061: City Park Cafe | Lego-Friends 3061: City Park Cafe = 1_
+    Coffee | Beer = 4Coarse | Course = 1Lego Friends 3061: City Park Cafe | Lego-Friends 3061: City Park Cafe = 1
 
 The more distance you tolerate, the greater the chance of replacing two different texts. Small distance "guarantees" the correction of typing, misspelling, etc.
 
@@ -103,7 +98,6 @@ I took the previous paragraph as document A and document B, saved it once in doc
 
 Therefore, the PPM algorithm in OpenRefine takes two different texts and applies compression in different combinations, from which it always gets the size. It deducts the coefficient of difference from it according to this pattern:
 
-  
 ![](https://lh6.googleusercontent.com/msLBRt2hXoU0puORE8fpG7ywY5ExRhej3zUhBVfPeUw8JA1vVVcbd4pU_GsMVOhuhj-r509f1UWn8HwLj8kMaezadl4kEW7M9wDwy2CLxfUEBGkPYi4Ybhc0YBxIx7miT1oP5orp =317x43)
 
 In my example of identical A and B the pattern would look like this:
@@ -150,7 +144,6 @@ The "$" character says it matches only if it's at the end of the line (so I usua
 
 and the pipe ("|") separates the field of values ​​I am looking for (so I do not have to call REPLACE as many times as I want to change.) If it matches, it will replace it with nothing (''). I have quite a number of such rules, it simplifies my work in OpenRefine - less data, more accuracy. If you put “^” in front of a string instead of “$”, it means that it only searches at the beginning of the line. The most of the rules that you may need are easy to find on Google. Pay attention to regular expressions, it's a very strong thing!
 
-  
 **Well, the best comes at the end**
 
 In OpenRefine, each action generates a rule. You can view these by switching at the upper left of the logo under the "Undo / Redo" menu:
@@ -179,7 +172,9 @@ I did quite a lot of careful work with my preparation before joining OpenRefine.
 
 I have these ten sample lines:
 
-![](https://lh4.googleusercontent.com/7YC1iqfnsXNK_7WUgxDypDu2c1HpBn7yJzwpzmNGGooJZ4LApSsoF18igyFNDjZ3fgg8pccsSrwyUksb2ochp64H1JCFor1xZwgaGS9LxycqcY30Cv35rjyeB6wphtLPXgG3uNqRM2Oc4empZA =449x339)And I'd like to take everything to the left by product code. But it is not given where exactly the product code is. In my case I have defined it as a number containing more than 3 digits.
+![](https://lh4.googleusercontent.com/7YC1iqfnsXNK_7WUgxDypDu2c1HpBn7yJzwpzmNGGooJZ4LApSsoF18igyFNDjZ3fgg8pccsSrwyUksb2ochp64H1JCFor1xZwgaGS9LxycqcY30Cv35rjyeB6wphtLPXgG3uNqRM2Oc4empZA =449x339)
+
+And I'd like to take everything to the left by product code. But it is not given where exactly the product code is. In my case I have defined it as a number containing more than 3 digits.
 
 Using this:
 
