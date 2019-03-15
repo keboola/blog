@@ -160,13 +160,13 @@ I hope that it will kick you a little bit into experimenting with OpenRefine, wh
 
 Josef Šlerka, before he came to the R Shiny apps, I thought loved it - there would surely be a super source of inspiration from him! At least the link to a [CheatSheet](https://datenschule.de/files/downloads/workshops/CheatSheet-Open-Refine.pdf).
 
-**Update 1**
+### **Update 1**
 
 Josef added a [comment to my FB post](https://www.facebook.com/Petr.Keboola/posts/568246583385097?comment_id=568395320036890&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) with a link to his presentation, where this topic goes deeper into detail #super!
 
 ![](https://lh4.googleusercontent.com/pEgJzRptQcHcCYQMwLOzQLcQC_fi2XXPp9-NmWYAfFG3u_ToBv5VQmtiMSq0THJ6rE57tB9tXFZJp_4fDlxXgW7hZfAKf1_tTv7ymtzNK_LiV2_hCGdWq6FrTcgJYJMU7nZ5EQKBAWWaq-7lmA =604x454)
 
-**Update 2**
+### **Update 2**
 
 I did quite a lot of careful work with my preparation before joining OpenRefine. It did not stand out, but the cleanup is crucial. Here's an example of how I tear the text according to a rule that resolves logic in the text.
 
