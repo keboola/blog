@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: product
-permalink: food-service-delivery
+permalink: food-service-mobile
 title: Food Service (Mobile)
 perex: Consumer preferences will continue to evolve in 2019 driving a deeper divide
   between those seeking convenience and those chasing a memorable dining experience
