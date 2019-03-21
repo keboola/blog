@@ -2,7 +2,7 @@
 layout: post
 categories: product
 permalink: food-service-delivery
-title: Food Service (Delivery)
+title: Food Service (Mobile)
 perex: Consumer preferences will continue to evolve in 2019 driving a deeper divide
   between those seeking convenience and those chasing a memorable dining experience
 date: 2019-03-20 23:00:00 +0000
