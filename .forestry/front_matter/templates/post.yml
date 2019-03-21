@@ -68,6 +68,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/food-service-delivery-1.md
 - _posts/food-service-delivery.md
 - _posts/2019-02-27-firehouse-subs-tracks-and-improves-the-performance-of-more-than-1-000-franchisees.md
 - _posts/2019-03-09-text-clustering.md
