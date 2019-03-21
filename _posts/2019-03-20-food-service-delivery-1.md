@@ -39,7 +39,7 @@ Will a facility dedicated solely for delivery orders be more profitable and impr
 
 Keboola helps restaurant executives evaluate the impact of various business strategies on company profits through intelligent use of their data. Insights derived from this data can be instrumental in planning operational changes based on variances in orders volumes, geography, and other related factors. In addition, real-time operational data can be used to make proactive and automated advertising decisions to further drive revenue and profits.
 
-![](/uploads/delivery.png)
+![](/uploads/delivery-1.png)
 
 #### **Use Cases**
 
