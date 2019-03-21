@@ -37,7 +37,7 @@ Keboola enables you to integrate vast sources of structured and unstructured dat
 
 In addition, by streamlining all your data into a single integrated platform, you have the ability to democratize it across all levels of your organization. Data or non-data savvy employees can be empowered with access to timely, clean and consistent data for reporting and in-depth analysis.
 
-![](/uploads/mobile.png)
+![](/uploads/mobile-1.png)
 
 **Business Value**
 
