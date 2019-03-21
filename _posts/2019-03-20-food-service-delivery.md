@@ -37,7 +37,7 @@ Keboola enables you to integrate vast sources of structured and unstructured dat
 
 In addition, by streamlining all your data into a single integrated platform, you have the ability to democratize it across all levels of your organization. Data or non-data savvy employees can be empowered with access to timely, clean and consistent data for reporting and in-depth analysis.
 
-![](/uploads/delivery.png)
+![](/uploads/mobile.png)
 
 **Business Value**
 
@@ -73,7 +73,6 @@ Adapt to customer and business needs in real-time to maximize efficiencies
 
 With a streamlined business model developed through better technology enablement, restaurant executives can make timely strategic and tactical changes that can maximize profitability and achieve desired business goals.
 
-  
 References:
 
 \[1\] [https://rsmus.com/what-we-do/industries/consumer-products/restaurant/top-trends-in-the-restaurant-industry-to-watch-in-2019.html](https://rsmus.com/what-we-do/industries/consumer-products/restaurant/top-trends-in-the-restaurant-industry-to-watch-in-2019.html "https://rsmus.com/what-we-do/industries/consumer-products/restaurant/top-trends-in-the-restaurant-industry-to-watch-in-2019.html")
