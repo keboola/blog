@@ -17,7 +17,7 @@ coverphoto_slider: "/uploads/data heroes.jpg"
 ---
 # Turning Internal Company Data into a New Data-as-a-Service Revenue Stream – DataHeroes Podcast #3
 
-#### **In the third DataHeroes podcast, our CEO Pavel Dolezal talks to Michal Buzek, Head of Business Intelligence at Heureka. Heureka is one of the biggest e-commerce companies in Central and Eastern Europe, running leading price comparison websites in nine European countries. Michal’s team has recently launched a new service which provides marketing data to Heureka’s business partners – brands and e-retailers.**
+#### **In the third DataHeroes podcast, our CEO Pavel Dolezal talks to Michal Buzek, Head of Business Intelligence at Heureka. Heureka is one of the biggest e-commerce companies in Central and Eastern Europe, running leading price comparison websites in nine European countries. Michal’s team has recently launched a new service which provides marketing data to Heureka’s business partners – brands and e-retailers.** 
 
 In the latest episode of DataHeroes, the host and Keboola’s CEO Pavel Dolezal chats with Michal Buzek, Head of Business Intelligence at Heureka. Michal started his career at Seznam.cz, the biggest search platform in the Czech Republic. After spending several months on a sales position, he joined the analytical department and became its head three years later. Michal explains how the short hands-on experience in sales influenced his take on data analytics.
 
