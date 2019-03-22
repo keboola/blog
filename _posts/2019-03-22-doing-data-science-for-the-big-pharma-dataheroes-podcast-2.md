@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: product
+categories: customer-stories
 permalink: DataHeroes-Podcast-2
 title: 'Doing Data Science for the Big Pharma – DataHeroes Podcast #2'
 perex: Our new episode of DataHeroes features serial entrepreneur Petr Bartos. He’s
