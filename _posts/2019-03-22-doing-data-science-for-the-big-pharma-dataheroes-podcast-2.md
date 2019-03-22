@@ -14,7 +14,7 @@ coverphoto_slider: "/uploads/data heroes.jpg"
 ---
 # Doing Data Science for the Big Pharma – DataHeroes Podcast #2
 
-![](https://lh6.googleusercontent.com/_-TzCHzews9PZwE2xoCxj7zFTGxE4h0YgwwjSYXRZsMYDWthJGdgNHpLPcfOCDlNsp_76B2l4_11SKh5sHTwvcFoc1QvXWSY5KhnDl6a8-oo5NmtoLAxJq6kZywA-L5eIl73oAiY =602x301)
+![](https://lh6.googleusercontent.com/_-TzCHzews9PZwE2xoCxj7zFTGxE4h0YgwwjSYXRZsMYDWthJGdgNHpLPcfOCDlNsp_76B2l4_11SKh5sHTwvcFoc1QvXWSY5KhnDl6a8-oo5NmtoLAxJq6kZywA-L5eIl73oAiY "DataHeroes Podcast" =602x301)
 
 **Our new episode of DataHeroes features serial entrepreneur Petr Bartos. He’s CTO at Cogvio, a data science company developing specialized applications for the pharmaceutical, healthcare and medical device segment.**
 
@@ -30,7 +30,7 @@ His latest project Cogvio gave him an opportunity to revisit his roots. It focus
 
 Pharmaceutical companies, as Petr sees it, are eager to innovate but do so very inefficiently. And that’s where Cogvio comes in. They assist healthcare companies with innovation through data.
 
-![](https://lh5.googleusercontent.com/N6mj4WcBO-tH3yp7dneVZdngZKx47oYJGftfWgvS1yaZwiIwVcllT_nCTOBAy_9MecXUdr4UTkaUuMfwQxfWwwp3KQ_6RTnORA5ZWVAOozeepfAt3-WybCr4P3hV0lbvnLSaR2Wq =602x601)
+![quote2](https://lh5.googleusercontent.com/N6mj4WcBO-tH3yp7dneVZdngZKx47oYJGftfWgvS1yaZwiIwVcllT_nCTOBAy_9MecXUdr4UTkaUuMfwQxfWwwp3KQ_6RTnORA5ZWVAOozeepfAt3-WybCr4P3hV0lbvnLSaR2Wq =602x601)
 
 Cogvio started its mission by addressing the issue of drug prices. The area is much less regulated than clinical trials and other aspects of the pharmaceutical industry. However, drug pricing has sufficiently well-defined data sources and the clearest business impact.
 
