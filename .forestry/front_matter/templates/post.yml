@@ -68,7 +68,6 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/2019-03-22-sfasdfgdg.md
 - _posts/turning-internal-company-data-into-a-new-data-as-a-service-revenue-stream-dataheroes-podcast-3.md
 - _posts/2019-03-22-doing-data-science-for-the-big-pharma-dataheroes-podcast-2.md
 - _posts/food-service-delivery-1.md
