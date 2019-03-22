@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: events
+categories: customer-stories
 permalink: DataHeroes-Podcast-3
 title: 'Turning Internal Company Data into a New Data-as-a-Service Revenue Stream
   – DataHeroes Podcast #3'
