@@ -12,11 +12,8 @@ coverphoto: "/uploads/data heroes.jpg"
 coverphoto_slider: "/uploads/data heroes.jpg"
 
 ---
-# Doing Data Science for the Big Pharma – DataHeroes Podcast #2
 
 ![](https://lh6.googleusercontent.com/_-TzCHzews9PZwE2xoCxj7zFTGxE4h0YgwwjSYXRZsMYDWthJGdgNHpLPcfOCDlNsp_76B2l4_11SKh5sHTwvcFoc1QvXWSY5KhnDl6a8-oo5NmtoLAxJq6kZywA-L5eIl73oAiY "DataHeroes Podcast" =602x301)
-
-**Our new episode of DataHeroes features serial entrepreneur Petr Bartos. He’s CTO at Cogvio, a data science company developing specialized applications for the pharmaceutical, healthcare and medical device segment.**
 
 In the second[ DataHeroes](https://blog.keboola.com/keboola-has-just-launched-its-podcast) podcast, a podcast about data and the way businesses change through it,[ Pavel Dolezal](https://www.linkedin.com/in/paveld/), CEO of Keboola, discusses the future impact of data on healthcare with serial entrepreneur[ Petr Bartos](https://www.linkedin.com/in/petr-barto%C5%A1-774a6957/), the founder and partner at Cogvio.
 
