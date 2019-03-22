@@ -2,11 +2,13 @@
 layout: post
 categories: customer-stories
 title: 'Doing Data Science for the Big Pharma – DataHeroes Podcast #2'
-perex: ''
+perex: Our new episode of DataHeroes features serial entrepreneur Petr Bartos. He’s
+  CTO at Cogvio, a data science company developing specialized applications for the
+  pharmaceutical, healthcare and medical device segment.
 date: ''
-user: ''
-coverphoto: ''
-coverphoto_slider: ''
+user: jiri-vicherek
+coverphoto: "/uploads/data heroes.jpg"
+coverphoto_slider: "/uploads/data heroes.jpg"
 
 ---
 # Doing Data Science for the Big Pharma – DataHeroes Podcast #2
