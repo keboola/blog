@@ -27,11 +27,9 @@ Heureka is the leading e-commerce shopping platform in Central and Eastern Europ
 
 In a matter of months, he and his team launched a new service for Heureka’s business partners – brands and e-retailers. The service provides up-to-date information about their campaigns and the e-commerce market as a whole. Almost in real time, companies can identify best-selling products and categories, benchmark themselves against the competition, etc. Heureka now plans on monetizing the service with advanced reports.
 
-How did working for Seznam.cz influence Michal’s view of data and its future?
-
-How did Heureka manage to launch a new service in such a short period of time?
-
-How did the new service change the everyday work of Heureka’s partners?
+* How did working for Seznam.cz influence Michal’s view of data and its future?
+* How did Heureka manage to launch a new service in such a short period of time?
+* How did the new service change the everyday work of Heureka’s partners?
 
 For answers to the above questions and for more information about Heureka’s journey to data monetization, listen to the third episode of the DataHeroes podcast.
 
