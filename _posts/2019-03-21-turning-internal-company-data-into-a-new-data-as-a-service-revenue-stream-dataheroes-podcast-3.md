@@ -15,7 +15,7 @@ coverphoto: "/uploads/data heroes.jpg"
 coverphoto_slider: "/uploads/data heroes.jpg"
 
 ---
-# Turning Internal Company Data into a New Data-as-a-Service Revenue Stream – DataHeroes Podcast #3
+# Turnin Internal Company Data into a New Data-as-a-Service Revenue Stream – DataHeroes Podcast #3
 
 #### **In the third DataHeroes podcast, our CEO Pavel Dolezal talks to Michal Buzek, Head of Business Intelligence at Heureka. Heureka is one of the biggest e-commerce companies in Central and Eastern Europe, running leading price comparison websites in nine European countries. Michal’s team has recently launched a new service which provides marketing data to Heureka’s business partners – brands and e-retailers.**
 
