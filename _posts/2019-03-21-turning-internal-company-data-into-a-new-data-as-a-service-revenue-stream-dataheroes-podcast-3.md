@@ -9,7 +9,7 @@ perex: In the third DataHeroes podcast, our CEO Pavel Dolezal talks to Michal Bu
 date: 2019-03-21 23:00:00 +0000
 user: jiri-vicherek
 coverphoto: ''
-coverphoto_slider: "/uploads/data heroes.jpg"
+coverphoto_slider: "/uploads/dataHeroesSlides-2.jpg"
 
 ---
 In the latest episode of DataHeroes, the host and Keboola’s CEO Pavel Dolezal chats with Michal Buzek, Head of Business Intelligence at Heureka. Michal started his career at Seznam.cz, the biggest search platform in the Czech Republic. After spending several months on a sales position, he joined the analytical department and became its head three years later. Michal explains how the short hands-on experience in sales influenced his take on data analytics.
