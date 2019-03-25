@@ -14,7 +14,9 @@ coverphoto_slider: "/uploads/data heroes.jpg"
 ---
 In the second[ DataHeroes](https://blog.keboola.com/keboola-has-just-launched-its-podcast) podcast, a podcast about data and the way businesses change through it,[ Pavel Dolezal](https://www.linkedin.com/in/paveld/), CEO of Keboola, discusses the future impact of data on healthcare with serial entrepreneur[ Petr Bartos](https://www.linkedin.com/in/petr-barto%C5%A1-774a6957/), the founder and partner at Cogvio.
 
-![](/uploads/podcast_qoute_bartos1.png)After partnering with another Czech serial entrepreneur Tomas Cupr, Petr co-founded several business-to-consumer startups, most notably Slevomat, one of the most profitable digital ventures in Europe. It is the largest daily deal and bulk discount website in the Czech Republic, offering great activities, travel, etc. Slevomat has been hugely successful in fighting off Groupon, an American worldwide e-commerce marketplace. Having won the fight in six countries, they stayed dominant on those markets and were eventually acquired by [Secret Escapes](https://www.secretescapes.com/), an exclusive members only travel club, in 2017.
+![](/uploads/podcast_qoute_bartos1.png)
+
+After partnering with another Czech serial entrepreneur Tomas Cupr, Petr co-founded several business-to-consumer startups, most notably Slevomat, one of the most profitable digital ventures in Europe. It is the largest daily deal and bulk discount website in the Czech Republic, offering great activities, travel, etc. Slevomat has been hugely successful in fighting off Groupon, an American worldwide e-commerce marketplace. Having won the fight in six countries, they stayed dominant on those markets and were eventually acquired by [Secret Escapes](https://www.secretescapes.com/), an exclusive members only travel club, in 2017.
 
 Interestingly enough, Petr has no background in information technology whatsoever. He started studying to become a doctor but later came to realize it wasn’t the right path for him. He dropped out of school to pursue his passion for building businesses.
 
