@@ -9,7 +9,7 @@ perex: Our new episode of DataHeroes features serial entrepreneur Petr Bartos. H
 date: 2019-03-20 23:00:00 +0000
 user: jiri-vicherek
 coverphoto: ''
-coverphoto_slider: "/uploads/data heroes.jpg"
+coverphoto_slider: "/uploads/dataHeroesSlides-1.jpg"
 
 ---
 In the second[ DataHeroes](https://blog.keboola.com/keboola-has-just-launched-its-podcast) podcast, a podcast about data and the way businesses change through it,[ Pavel Dolezal](https://www.linkedin.com/in/paveld/), CEO of Keboola, discusses the future impact of data on healthcare with serial entrepreneur[ Petr Bartos](https://www.linkedin.com/in/petr-barto%C5%A1-774a6957/), the founder and partner at Cogvio.
