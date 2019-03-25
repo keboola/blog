@@ -8,7 +8,7 @@ perex: Our new episode of DataHeroes features serial entrepreneur Petr Bartos. H
   pharmaceutical, healthcare and medical device segment.
 date: 2019-03-20 23:00:00 +0000
 user: jiri-vicherek
-coverphoto: "/uploads/data heroes.jpg"
+coverphoto: ''
 coverphoto_slider: "/uploads/data heroes.jpg"
 
 ---
