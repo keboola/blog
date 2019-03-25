@@ -30,5 +30,4 @@ In a matter of months, he and his team launched a new service for Heureka’s bu
 
 For answers to the above questions and for more information about Heureka’s journey to data monetization, listen to the third episode of the DataHeroes podcast.
 
-\**  
-Available on** [**iTunes**](https://itunes.apple.com/us/podcast/dataheroes/id1442313148?mt=2) **and** [**Spotify**](https://open.spotify.com/episode/7tGIdenoaQeUNV7i8PKWm9?si=O0JEnVSQRA6fLAkJl8S0Bw)**.**
+**Available on** [**iTunes**](https://itunes.apple.com/us/podcast/dataheroes/id1442313148?mt=2) **and** [**Spotify**](https://open.spotify.com/episode/7tGIdenoaQeUNV7i8PKWm9?si=O0JEnVSQRA6fLAkJl8S0Bw)**.**
