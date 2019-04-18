@@ -4,7 +4,7 @@ categories: customer-stories
 permalink: firehouse-subs-1000-franchisees
 title: Firehouse Subs tracks and improves the performance of more than 1,000 franchisees
 perex: Firehouse Subs is fast casual restaurant chain selling sandwiches.
-date: 2019-04-17 22:00:00 +0000
+date: 2019-03-11 22:00:00 +0000
 user: jiri-vicherek
 coverphoto: "/uploads/firehouseCover.jpg"
 coverphoto_slider: "/uploads/firehouseBlogBack.jpg"
