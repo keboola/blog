@@ -7,7 +7,7 @@ title: 'Jeff Miller from Roti Modern Mediterranean: Cooking big data with love f
 perex: "Roti is a Chicago-based chain of fast casual restaurants specializing in the
   Mediterranean cuisine and is head and shoulders above traditionally led restaurant
   concepts in terms of technology and data. \n"
-date: 2019-04-17 22:00:00 +0000
+date: 2019-04-16 22:00:00 +0000
 user: jiri-vicherek
 coverphoto: "/uploads/roti building copy.jpg"
 coverphoto_slider: "/uploads/JAM Headshot.JPG"
