@@ -9,7 +9,7 @@ perex: "Roti is a Chicago-based chain of fast casual restaurants specializing in
   concepts in terms of technology and data. \n"
 date: 2019-04-17 22:00:00 +0000
 user: jiri-vicherek
-coverphoto: "/uploads/firehouseCover111.jpg"
+coverphoto: "/uploads/facade3_1200xx3600-2027-0-0.jpg"
 coverphoto_slider: "/uploads/JAM Headshot.JPG"
 
 ---
