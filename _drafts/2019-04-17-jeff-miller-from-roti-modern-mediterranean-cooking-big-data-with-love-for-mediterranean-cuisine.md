@@ -17,6 +17,8 @@ Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food 
 
 ![Jeff Miller, VP of Technology at Roti Modern Mediterranean](/uploads/JAM Headshot.JPG "Jeff Miller, VP of Technology at Roti Modern Mediterranean")
 
+###### _Jeff Miller, VP of Technology at Roti Modern Mediterranean_
+
 Roti is the proof that restaurants can use insight and technology to make their customers happier. With the help of Keboola, they are able to ask questions, analyze customer preferences, and get a competitive advantage against other restaurant chains. To find out why they chose Keboola and how they use its tools, we turned to Jeff Miller, VP of Technology at Roti.
 
 Jeff has a long history of combining his passion for technology and innovation at the intersection of customer experience and business. Before Roti, he was Director of Technology Innovation & Seed Stores at McDonald’s. He takes relevant technology innovations and applies them in the food industry. For him, it is the new normal.
