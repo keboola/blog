@@ -58,3 +58,5 @@ The plan is to build up our last year’s model "From Data to Insights". This an
 **What do you think will be the next evolutionary step for a data-driven organization?**
 
 Machine learning and AI. The insights are kind of becoming the machine-driven part. A machine is getting smarter and smarter by listening and learning about how your restaurant is performing. It will eventually get smart enough to recognize that a restaurant in an urban area has different performance than a restaurant in a suburban area. And that's the power that I see – the machine is always listening, learning and evolving.
+
+![](/uploads/roti building.jpg)
