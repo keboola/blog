@@ -7,12 +7,14 @@ title: 'Jeff Miller from Roti Modern Mediterranean: Cooking big data with love f
 perex: "Roti is a Chicago-based chain of fast casual restaurants specializing in the
   Mediterranean cuisine and is head and shoulders above traditionally led restaurant
   concepts in terms of technology and data. \n"
-date: ''
+date: 2019-04-17 22:00:00 +0000
 user: fenek-pr
 coverphoto: "/uploads/roti building.jpg"
 coverphoto_slider: "/uploads/JAM Headshot.JPG"
 
 ---
+![Jeff Miller, VP of Technology at Roti Modern Mediterranean](/uploads/JAM Headshot.JPG "Jeff Miller, VP of Technology at Roti Modern Mediterranean")
+
 Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food that Loves You Back. They encourage you to completely personalize your meal from a choice of fresh, wholesome ingredients and serve it just the way you like it. What‘s more, to stay ahead of the competition, Roti became a data oriented company, data driven if you want. Having their decisions rooted in data has helped them to thrive in the quickly growing and changing hospitality environment.
 
 Roti is the proof that restaurants can use insight and technology to make their customers happier. With the help of Keboola, they are able to ask questions, analyze customer preferences, and get a competitive advantage against other restaurant chains. To find out why they chose Keboola and how they use its tools, we turned to Jeff Miller, VP of Technology at Roti.
@@ -34,6 +36,8 @@ At the very beginning, we needed to capture customers‘ feedback and put it all
 **Nowadays you use Keboola as a data hub for all your data. Why did you decide to do so? Can you describe what data management looked like at Roti before you started using Keboola?**
 
 To compete these days, we don‘t want to just analyze and react. We need to anticipate and act. Keboola as a data hub has accelerated us closer to our future vision. I’ve got data that is stuck in artificial silos, and I need to create insights that my business partners are asking for at the senior leader level. We needed to go from nothing to something really quickly. Our previous data management sounds like from a different world today – Excel and email.
+
+![](/uploads/ROTI_facebook1.jpg)
 
 **You combine Keboola with Looker. What are the major benefits of using the Keboola/Looker stack?**
 
