@@ -39,7 +39,7 @@ At the very beginning, we needed to capture customers‘ feedback and put it all
 
 To compete these days, we don‘t want to just analyze and react. We need to anticipate and act. Keboola as a data hub has accelerated us closer to our future vision. I’ve got data that is stuck in artificial silos, and I need to create insights that my business partners are asking for at the senior leader level. We needed to go from nothing to something really quickly. Our previous data management sounds like from a different world today – Excel and email.
 
-![](/uploads/ROTI_facebook1.jpg)
+[![](/uploads/podcast_quote_2-1.png)](https://open.spotify.com/episode/6YtZn7SoSzVCd3GJXmQCRV "DataHeroes: Jeff Miller (Roti) - Using Technology For Connecting With Customers And Running Great Restaurants")
 
 **You combine Keboola with Looker. What are the major benefits of using the Keboola/Looker stack?**
 
@@ -60,5 +60,3 @@ The plan is to build up our last year’s model "From Data to Insights". This an
 **What do you think will be the next evolutionary step for a data-driven organization?**
 
 Machine learning and AI. The insights are kind of becoming the machine-driven part. A machine is getting smarter and smarter by listening and learning about how your restaurant is performing. It will eventually get smart enough to recognize that a restaurant in an urban area has different performance than a restaurant in a suburban area. And that's the power that I see – the machine is always listening, learning and evolving.
-
-![](/uploads/roti building.jpg)
