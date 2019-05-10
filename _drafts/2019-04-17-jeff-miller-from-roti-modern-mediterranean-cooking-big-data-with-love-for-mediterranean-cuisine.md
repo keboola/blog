@@ -13,7 +13,7 @@ coverphoto: "/uploads/facade3_1200xx3600-2027-0-0.jpg"
 coverphoto_slider: "/uploads/JAM Headshot.JPG"
 
 ---
-Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food that Loves You Back. They encourage you to completely personalize your meal from a choice of fresh, wholesome ingredients and serve it just the way you like it. What‘s more, to stay ahead of the competition, Roti became a data oriented company, data driven if you want. Having their decisions rooted in data has helped them to thrive in the quickly growing and changing hospitality environment. 
+Don‘t let the "fast casual" label fool you. Roti‘s purpose is to serve Food that Loves You Back. They encourage you to completely personalize your meal from a choice of fresh, wholesome ingredients and serve it just the way you like it. What‘s more, to stay ahead of the competition, Roti became a data oriented company, data driven if you want. Having their decisions rooted in data has helped them to thrive in the quickly growing and changing hospitality environment.
 
 ![Jeff Miller, VP of Technology at Roti Modern Mediterranean](/uploads/JAM Headshot.JPG "Jeff Miller, VP of Technology at Roti Modern Mediterranean")
 
@@ -48,6 +48,27 @@ Keboola’s Business Data Model (BDM) is a critical differentiator in the space.
 **What were the main pain points which made you think about changing the previous way of working with data?**
 
 First of all, it took forever to get answers to critical business questions. And you can‘t survive very long with that in this fast growing field. Second, Excel was our primary data platform. And third, we really suffered from the lack of transparency to provide insights. Let’s say it plainly: I don’t care about data. What I care about is the whole journey from data to insights and taking actions on those insights. I want to make it accessible to all people in the organization across all departments, at all times, and from different points of view.
+
+    <!-- Begin Mailchimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+    	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+    	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+    <div id="mc_embed_signup">
+    <form action="https://keboola.us20.list-manage.com/subscribe/post?u=02ea03d335cde360b0b1d4677&amp;id=2ae80521c6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+    	<label for="mce-EMAIL">Subscribe</label>
+    	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_02ea03d335cde360b0b1d4677_2ae80521c6" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
+    </div>
+    
+    <!--End mc_embed_signup-->
 
 **Who are the users and who are the consumers of Keboola at Roti?**
 
