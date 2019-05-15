@@ -12,9 +12,8 @@ coverphoto: "/uploads/IMG_9963.jpg"
 coverphoto_slider: "/uploads/IMG_0072.jpg"
 
 ---
-[_Pavel Dolezal_](https://www.linkedin.com/in/paveld/) _is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US._
-
-_Mr. Dolezal talks about the steps that companies and organizations need to take to become data-driven and about the role of machine learning (ML) and artificial intelligence (AI) in this process._
+[_Pavel Dolezal_](https://www.linkedin.com/in/paveld/) _is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US.  
+Mr. Dolezal talks about the steps that companies and organizations need to take to become data-driven and about the role of machine learning (ML) and artificial intelligence (AI) in this process._
 
 ![](/uploads/IMG_9944.jpg)
 
@@ -112,6 +111,5 @@ The Chicago area alone has about three times the GDP of the Czech Republic. Ther
 
 **_This article was originally published on_** [**_Lupa.cz_**](https://www.lupa.cz/clanky/pavel-dolezal-keboola-firmy-chteji-byt-data-driven-musi-ale-projit-ctyrmi-kroky/?fbclid=IwAR0wZF66HZlGMkOeIzEwg_MzPXIo2H52qNTUZ20J5AXZRHAU8EHh939NB_E) **_(author: Jan Sedlák)_**
 
-_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_ [_newsletter_](http://eepurl.com/ghgjp5)_, where we pick inspiring case studies and news from Keboola… or tune up_ [_DataHeroes_](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) _to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how._
-
-_If you are excited to try our tool Keboola Connection, learn more on our_ [_website_](http://keboola.com) _or ask for_ [_demo_](https://www.keboola.com/request-demo) _straight away._
+_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_ [_newsletter_](http://eepurl.com/ghgjp5)_, where we pick inspiring case studies and news from Keboola… or tune up_ [_DataHeroes_](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) _to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how.  
+If you are excited to try our tool Keboola Connection, learn more on our_ [_website_](http://keboola.com) _or ask for_ [_demo_](https://www.keboola.com/request-demo) _straight away._
