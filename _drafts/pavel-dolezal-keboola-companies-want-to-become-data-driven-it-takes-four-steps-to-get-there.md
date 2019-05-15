@@ -12,11 +12,13 @@ coverphoto: "/uploads/IMG_9963.jpg"
 coverphoto_slider: "/uploads/IMG_0072.jpg"
 
 ---
-Pavel Dolezal is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US.
+_Pavel Dolezal is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US._
 
-Mr. Dolezal talks about the steps that companies and organizations need to take to become _data-driven_ and about the role of _machine learning_ (ML) and _artificial intelligence_ (AI) in this process.
+_Mr. Dolezal talks about the steps that companies and organizations need to take to become data-driven and about the role of machine learning (ML) and artificial intelligence (AI) in this process._
 
-________________________________________________________________________
+![](/uploads/IMG_9944.jpg)
+
+###### _Pavel Dolezal, CEO Keboola_
 
 **I've recently heard a good joke: What is the difference between machine learning and artificial intelligence? If it's written in Python, it's probably machine learning. If it's written in PowerPoint, it's artificial intelligence. Does it match what you see in the market?**
 
