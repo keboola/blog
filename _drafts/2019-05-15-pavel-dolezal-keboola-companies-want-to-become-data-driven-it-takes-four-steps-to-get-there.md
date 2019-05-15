@@ -54,7 +54,7 @@ I don't have an answer to this, but I can tell you one thing. Even though change
 
 But there is another way, one we see most often – the fear that the company will stop innovating and their competition will leave them in the dust. To give an example, on seeing what Amazon has been doing in different fields in the past year and a half, companies have become so worried that they’ve made the data issue reach their directors' agenda. They are beginning to realize that one technology cannot change the situation and that several things must be done. Three years ago, it wasn't like that – data was the problem of the IT department, not of the leadership.
 
-    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9643472/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/016bff/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+[![Listen to Pavel's podcast DataHeroes](/uploads/data heroes.jpg "data heroes podcast")](https://directory.libsyn.com/shows/view/id/dataheroes)
 
 **It's no secret that the trend of companies and organizations sharing their data is on the rise. How exactly does it work?**
 
