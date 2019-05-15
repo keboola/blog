@@ -8,7 +8,7 @@ perex: What’s going on with machine learning, artificial intelligence, and "da
   businesses in practice?
 date: 2019-05-15 13:00:00 +0000
 user: jiri-vicherek
-coverphoto: "/uploads/IMG_9963 copy.jpg"
+coverphoto: "/uploads/IMG_9963.jpg"
 coverphoto_slider: "/uploads/IMG_0072.jpg"
 
 ---
