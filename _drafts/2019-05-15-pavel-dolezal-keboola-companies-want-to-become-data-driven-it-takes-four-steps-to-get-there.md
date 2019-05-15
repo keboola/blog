@@ -111,3 +111,7 @@ In Chicago, we are organizing a series of networking events. People are overwhel
 The Chicago area alone has about three times the GDP of the Czech Republic. There are also plenty of retail, logistics and other companies located there, and they are a very interesting target group for us.
 
 **_This article was originally published on_** [**_Lupa.cz_**](https://www.lupa.cz/clanky/pavel-dolezal-keboola-firmy-chteji-byt-data-driven-musi-ale-projit-ctyrmi-kroky/?fbclid=IwAR0wZF66HZlGMkOeIzEwg_MzPXIo2H52qNTUZ20J5AXZRHAU8EHh939NB_E) **_(author: Jan Sedlák)_**
+
+_Interested in opinions and experience of people who have successfully transformed their business with data-driven approach? Subscribe to our_ [_newsletter_](http://eepurl.com/ghgjp5)_, where we pick inspiring case studies and news from Keboola… or tune up_ [_DataHeroes_](https://itunes.apple.com/gb/podcast/dataheroes/id1442313148?mt=2) _to find out more about corporate culture in data-driven and fast growing companies. Guests of our CEO Pavel Dolezal share their experience and know-how._
+
+_If you are excited to try our tool Keboola Connection, learn more on our_ [_website_](http://keboola.com) _or ask for_ [_demo_](https://www.keboola.com/request-demo) _straight away._
