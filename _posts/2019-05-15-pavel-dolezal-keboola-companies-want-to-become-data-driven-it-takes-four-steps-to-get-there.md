@@ -8,14 +8,14 @@ perex: What’s going on with machine learning, artificial intelligence, and "da
   businesses in practice?
 date: 2019-05-15 13:00:00 +0000
 user: jiri-vicherek
-coverphoto: "/uploads/IMG_9963.jpg"
+coverphoto: "/uploads/IMG_9963 copy.jpg"
 coverphoto_slider: "/uploads/IMG_0072.jpg"
 
 ---
 [_Pavel Dolezal_](https://www.linkedin.com/in/paveld/) _is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US.  
 Mr. Dolezal talks about the steps that companies and organizations need to take to become data-driven and about the role of machine learning (ML) and artificial intelligence (AI) in this process._
 
-![](/uploads/IMG_9944.jpg)
+![](/uploads/IMG_9944 copy.jpg)
 
 ###### _Pavel Dolezal, CEO Keboola_
 
