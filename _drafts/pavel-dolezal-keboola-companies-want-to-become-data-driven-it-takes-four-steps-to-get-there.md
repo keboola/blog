@@ -6,10 +6,10 @@ title: 'Pavel Dolezal (Keboola): Companies want to become data-driven. It takes 
   steps to get there.'
 perex: What’s going on with machine learning, artificial intelligence, and "data-driven"
   businesses in practice?
-date: 
-user: ''
-coverphoto: ''
-coverphoto_slider: ''
+date: 2019-05-14 22:00:00 +0000
+user: jiri-vicherek
+coverphoto: "/uploads/IMG_9963.jpg"
+coverphoto_slider: "/uploads/IMG_0072.jpg"
 
 ---
 Pavel Dolezal is one of the shareholders of Keboola, a company which enables customers to work with data using its cloud-based platform. Now he is in charge of the company’s new Chicago office. As businesses grow more reliant on data, Keboola has been successful in attracting a large number of customers in the US.
