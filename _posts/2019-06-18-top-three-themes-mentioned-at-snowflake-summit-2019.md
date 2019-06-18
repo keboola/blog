@@ -2,7 +2,9 @@
 layout: post
 categories: events
 title: Top Three Themes Mentioned at Snowflake Summit 2019
-perex: ''
+perex: We had a great time at the Snowflake Summit last week with customers and fellow
+  partners! Thanks for coming up to our booth and sharing your thoughts on your experiences
+  with Snowflake. A few main topics kept coming up that we thought were worth sharing.
 date: 2019-06-18 07:00:00 +0000
 user: pavel-dolezal
 coverphoto: ''
