@@ -15,7 +15,7 @@ We had a great time at the Snowflake Summit last week with customers and fellow 
 
 **1. Data Ingestion into Snowflake**
 
-The big question on everyone’s mind was “How DO you get all of your data into Snowflake?” Folks chatted about disparate source systems they used, connecting several ETL tools, and their experiences with custom code hosting. We shared that our customers had two favorite ways to ingest data: one was to use one of Keboola’s many (over 100) out-of-the-box connections or to create one of their own custom connections in Keboola coding in whatever language they wanted which conveniently became an integral part of their data architecture system.
+The big question on everyone’s mind was “How **DO** you get all of your data into Snowflake?” Folks chatted about disparate source systems they used, connecting several ETL tools, and their experiences with custom code hosting. We shared that our customers had two favorite ways to ingest data: one was to use one of Keboola’s many (over 100) out-of-the-box connections or to create one of their own custom connections in Keboola coding in whatever language they wanted which conveniently became an integral part of their data architecture system.
 
 **2. Managing data architecture and its complexity with Snowflake**
 
