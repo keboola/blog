@@ -2,10 +2,10 @@
 layout: post
 categories: customer-stories
 permalink: ivanhoe-customer-story
-title: 'Ivanhoé Cambridge: Focus on being innovative and not worry about our toolset'
+title: 'Ivanhoé Cambridge: Focus on being innovative and do not worry about your toolset'
 perex: What started as a Digital Marketing reporting tool has expanded into multi-purpose
   solution
-date: 2019-02-10 23:00:00 +0000
+date: 2019-02-10T23:00:00.000+00:00
 user: jiri-vicherek
 coverphoto: ''
 coverphoto_slider: "/uploads/ivanhoe.jpg"
