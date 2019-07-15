@@ -68,12 +68,12 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2019-03-09-text-clustering.md
 - _posts/top-three-themes-mentioned-at-snowflake-summit-2019.md
 - top-three-themes-mentioned-at-snowflake-summit-2019.md
 - _posts/2019-05-15-pavel-dolezal-keboola-companies-want-to-become-data-driven-it-takes-four-steps-to-get-there.md
 - _posts/2019-04-17-jeff-miller-from-roti-modern-mediterranean-cooking-big-data-with-love-for-mediterranean-cuisine.md
 - _posts/2019-02-27-firehouse-subs-tracks-and-improves-the-performance-of-more-than-1-000-franchisees.md
-- _posts/2019-03-09-text-clustering.md
 - _posts/2019-02-10-ivanhoe-customer-success-story.md
 - _posts/2018-10-11-avast.md
 - _posts/sklizeno-how-we-use-data-to-be-more-effective.md
