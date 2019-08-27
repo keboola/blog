@@ -5,7 +5,7 @@ title: How to Build a Data-Driven Company Culture
 perex: Data is said to be the new oil and just like oil, unlocking the full potential
   of data can come at a steep cost.
 date: 2019-08-27 20:02:00 +0000
-user: pavel-dolezal
+user: sarah-henderson
 coverphoto: "/uploads/PIC1.jpg"
 coverphoto_slider: "/uploads/PIC2.jpg"
 
