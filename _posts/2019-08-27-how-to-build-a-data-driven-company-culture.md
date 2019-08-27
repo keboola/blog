@@ -27,7 +27,9 @@ That may sound great on paper, but how does one build a data-driven culture with
 3. Democratize data access across departments and people
 4. Build your data into processes and products
 
-## ![](/uploads/PIC1-1.jpg)Start with business decision making
+## ![](/uploads/PIC1-1.jpg)
+
+## Start with business decision making
 
 _“The fundamental objective in collecting, analyzing, and deploying data is to make better decisions.”_ (McKinsley: [Why data culture matters](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/why-data-culture-matters))
 
