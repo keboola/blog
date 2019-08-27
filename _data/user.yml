@@ -2,32 +2,11 @@
 - id: keboola-marketing
   name: 'Keboola Marketing '
   desc: ''
-- id: usman-mahmood
-  name: Usman Mahmood
-  desc: Usman Mahmood
-- id: jiri-vicherek
-  name: Jiri Vicherek
-  desc: Jiri Vicherek
-- id: elena-wong
-  name: Elena Wong
-  desc: Elena Wong
-- id: fenek-pr
-  name: Jiri Vicherek
-  desc: Jiri Vicherek
 - id: martin-fiser
   name: Martin Fišer
   desc: ''
 - id: milan-veverka
   name: Milan Veverka
-  desc: ''
-- id: kasey-jones-tonsfeldt
-  name: Kasey Jones Tonsfeldt
-  desc: ''
-- id: elena-manole
-  name: Elena Manole
-  desc: ''
-- id: colin-mcgrew
-  name: Colin McGrew
   desc: ''
 - id: petr-simecek
   name: Petr Šimeček
