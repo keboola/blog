@@ -68,6 +68,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-11-15-keboola-appointed-new-head-of-sales-europe.md
 - _posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.md
 - _posts/2019-05-15-pavel-dolezal-keboola-companies-want-to-become-data-driven-it-takes-four-steps-to-get-there.md
 - _posts/2018-10-11-why.md
@@ -116,7 +117,6 @@ pages:
 - _posts/2018-10-10-using-a-data-prep-platform-the-key-to-analytic-product-agility.md
 - _posts/2018-11-15-daniel-gorol-hello-bank-classic-corporate-bi-tools-would-be-a-financial-suicide-for-us.md
 - _posts/2018-11-15-lukáš-uhl-at-pietro-filipi-i-base-my-opinions-on-data.md
-- _posts/2018-11-15-keboola-appointed-new-head-of-sales-europe.md
 - _posts/2018-11-15-data-management-at-sklizeno-making-purchasing-sales-and-management-more-effective.md
 - _posts/turning-internal-company-data-into-a-new-data-as-a-service-revenue-stream-dataheroes-podcast-3.md
 - _posts/food-service-delivery.md

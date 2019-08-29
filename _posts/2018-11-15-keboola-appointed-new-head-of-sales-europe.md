@@ -2,7 +2,7 @@
 title: Keboola appointed new Head of Sales - Europe
 layout: post
 categories: community
-date: 2018-11-15 13:11:08 +0000
+date: 2018-11-15T13:11:08.000+00:00
 perex: ''
 user: fenek-pr
 coverphoto: ''
