@@ -2,7 +2,7 @@
 title: 'The Beginner’s Guide To Keboola II: How It Works'
 layout: post
 categories: product
-date: 2014-06-09 13:08:20 +0000
+date: 2014-06-09T13:08:20.000+00:00
 perex: A boss with GoodData, who is lounging on a beach half a world away, knows more
   than any boss present at work without it.
 user: petr-simecek
