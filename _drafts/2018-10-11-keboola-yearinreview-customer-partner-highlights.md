@@ -2,7 +2,7 @@
 title: 'Keboola #YearInReview: Customer & Partner Highlights'
 layout: post
 categories: product
-date: 2016-12-21 14:56:17 +0000
+date: 2016-12-21T14:56:17.000+00:00
 perex: In the spirit of the season, we wanted to take a quick stroll down memory lane
   and give thanks for some of the big things we were able to be a part of and the
   people that helped us make them happen!
