@@ -68,6 +68,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2018-12-20-back-to-school-learn-to-work-with-keboola-in-our-keboola-academy.md
 - _posts/2018-11-15-keboola-appointed-new-head-of-sales-europe.md
 - _posts/2018-10-10-how-keboola-switched-to-automatic-invoicing.md
 - _posts/2019-05-15-pavel-dolezal-keboola-companies-want-to-become-data-driven-it-takes-four-steps-to-get-there.md
@@ -125,7 +126,6 @@ pages:
 - _posts/2019-01-28-benu-hack.md
 - _posts/2019-01-29-data-dogs-and-delicious-food-life-as-an-intern-at-keboola-data-services.md
 - _posts/2019-01-28-our-heroes-are-innovators-our-mission-is-to-arm-them-with-data.md
-- _posts/2018-12-20-back-to-school-learn-to-work-with-keboola-in-our-keboola-academy.md
 - _posts/2018-10-18-heureka-building-a-universal-data-platform-across-9-countries-with-keboola-and-snowflake.md
 - _posts/2019-01-02-wanna-be-data-driven-start-with-managerial-reports.md
 - _posts/food-service-delivery-1.md

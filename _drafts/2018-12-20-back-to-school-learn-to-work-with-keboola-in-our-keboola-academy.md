@@ -5,7 +5,7 @@ perex: Being in the data analytics/business intelligence market for 10 years, we
   very well that transforming a company into data-driven organization is not about
   databases, apps or even the data itself.
 categories: events
-date: 2018-12-20 00:00:00 +0000
+date: 2018-12-20T00:00:00.000+00:00
 user: elena-manole
 coverphoto: ''
 coverphoto_slider: "/uploads/academy.jpg"
