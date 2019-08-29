@@ -2,7 +2,7 @@
 title: How Keboola Switched to Automatic Invoicing
 layout: post
 categories: product
-date: 2018-10-10 11:16:35 +0000
+date: 2018-10-10T11:16:35.000+00:00
 perex: Automating the invoicing process to cut down up to 2-3 mandays per month. Our
   goal was clear. But how did we do it?
 user: petr-simecek
