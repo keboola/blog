@@ -2,7 +2,7 @@
 title: Empowering the Business User in your BI and Analytics Environment
 layout: post
 categories: how-to
-date: 2016-03-22 14:44:57 +0000
+date: 2016-03-22T14:44:57.000+00:00
 perex: There’s one trend on Gartner’s radar that hasn’t changed much over the last
   few years and that’s the increasing move toward a self-service BI model. Gone are
   the days of your IT or analytics department being report factories.
