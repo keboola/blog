@@ -2,7 +2,7 @@
 title: 'The Beginner’s Guide To Keboola III: We ♥ Your Third Party Data Sources'
 layout: post
 categories: product
-date: 2014-07-07 12:43:19 +0000
+date: 2014-07-07T12:43:19.000+00:00
 perex: You’re certainly using them, you probably like them, and perhaps they even
   help you save some money. However, you’ll find the real treasure of third party
   data sources the moment you interconnect them and find the answers to your business
