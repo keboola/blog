@@ -9,9 +9,7 @@ coverphoto: "/uploads/PIC1.jpg"
 coverphoto_slider: "/uploads/PIC2.jpg"
 
 ---
-## Learn how to use data to unlock your company’s growth
-
-Data is said to be the [new oil](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data) and just like oil, unlocking the full potential of data can come at a steep cost.
+## Data is said to be the [new oil](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data) and just like oil, unlocking the full potential of data can come at a steep cost.
 
 Before you can start using data, you need to **invest in the technology for collecting, cleaning, hosting and maintaining that data**. Let’s also not forget the salaries of data engineers, scientists, and analysts - they are an investment. Business decision-makers must ask themselves how to leverage data to turn a profit.
 
