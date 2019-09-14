@@ -1,4 +1,7 @@
 ---
+- id: masha
+  name: masha
+  desc: ''
 - id: martin-fiser
   name: Martin Fišer
   desc: ''
