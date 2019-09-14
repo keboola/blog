@@ -59,7 +59,8 @@ Automating reports is by no means easy, but the process can be broken down into 
 
 > “On a quarterly basis, I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before \[using Keboola for automation\], it took me a whole day.” - Jan Langer, Sales Director of Sklizeno
 
-## Automate the data engineering pipeline
+##   
+Automate the data engineering pipeline
 
 Before data can be analyzed, it must be gathered. Data engineers work diligently to provide quality data via a process called ETL (**E**xtract data from its sources, **T**ransform data into the format needed, **L**oad data into the database).
 
