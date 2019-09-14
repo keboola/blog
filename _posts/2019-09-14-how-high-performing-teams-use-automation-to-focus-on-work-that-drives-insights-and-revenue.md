@@ -47,7 +47,7 @@ It is only after performing all these repetitive steps that the marketing manage
 
 Though this example is based on marketing, other departments suffer from the same curse of repetition. C-suites look at the same performance reports each week. Sales analyze sell-out and upsell conversion data — finance gauges revenue vs. cash flow streams, HR looks through attendance and performance reports over and over again.
 
-“There's a lot of automation that can happen that isn't a replacement of humans but of mind-numbing behavior.” - Stewart Butterfield, co-founder of Slack and Flickr
+> “There's a lot of automation that can happen that isn't a replacement of humans but of mind-numbing behavior.” - Stewart Butterfield, co-founder of Slack and Flickr
 
 Automating reports is by no means easy, but the process can be broken down into three steps:
 
@@ -57,7 +57,7 @@ Automating reports is by no means easy, but the process can be broken down into 
 
 **A common pitfall to avoid:** **not predicting how the data will be used**. Teams might decide to collect data on a weekly basis until they grow and realize they need to look at daily reports. If you are unsure, default to the smallest granulation possible, and then use automated reports to do the heavy lifting for you.
 
-“On a quarterly basis, I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before \[using Keboola for automation\], it took me a whole day.” - Jan Langer, Sales Director of Sklizeno
+> “On a quarterly basis, I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before \[using Keboola for automation\], it took me a whole day.” - Jan Langer, Sales Director of Sklizeno
 
 ## Automate the data engineering pipeline
 
