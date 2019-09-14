@@ -32,6 +32,8 @@ In this step-by-step guide, we will cover:
 2. How to automate data collection, processing and storing
 3. Tools that can help you speed up automation
 
+![](/uploads/mathias-jensen-5x4U6InVXpc-unsplash.jpg)
+
 ## <h2>Start by automating reporting</h2>
 
 A marketing manager wants to understand whether their digital campaigns are driving business results. Sounds simple, right? When breaking down the tasks involved, things actually get quite complicated:
@@ -56,8 +58,6 @@ Automating reports is by no means easy, but the process can be broken down into 
 **A common pitfall to avoid:** **not predicting how the data will be used**. Teams might decide to collect data on a weekly basis until they grow and realize they need to look at daily reports. If you are unsure, default to the smallest granulation possible, and then use automated reports to do the heavy lifting for you.
 
 “On a quarterly basis, I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before \[using Keboola for automation\], it took me a whole day.” - Jan Langer, Sales Director of Sklizeno
-
-PIC 2
 
 ## <h2>Automate the data engineering pipeline</h2>
 
