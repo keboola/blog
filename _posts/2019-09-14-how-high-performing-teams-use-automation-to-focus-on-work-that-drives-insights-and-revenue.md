@@ -5,7 +5,7 @@ permalink: how high-performing teams use automation
 title: How high-performing teams use automation to focus on work that drives insights
   and revenue
 perex: A step-by-step guide to automate your data pipeline and get back time for high
-  value work
+  value work.
 date: 2019-09-14 20:30:00 +0000
 user: ''
 coverphoto: ''
