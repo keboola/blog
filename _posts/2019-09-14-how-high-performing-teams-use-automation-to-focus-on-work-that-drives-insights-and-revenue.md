@@ -16,7 +16,7 @@ Picture this: you come to work on a Monday morning and need to review data last 
 
 You are not alone. More than [40 percent](https://www.itweb.co.za/content/j5alr7QlVADvpYQk) of employees say they spend at least a quarter of their week on manual, repetitive tasks.
 
-### <h2>Recognize the red flags</h2>
+### Recognize the red flags
 
 How do you know your organization needs automation? Keep an eye out for these red flags:
 
@@ -34,7 +34,7 @@ In this step-by-step guide, we will cover:
 
 ![](/uploads/mathias-jensen-5x4U6InVXpc-unsplash.jpg)
 
-## <h2>Start by automating reporting</h2>
+## Start by automating reporting
 
 A marketing manager wants to understand whether their digital campaigns are driving business results. Sounds simple, right? When breaking down the tasks involved, things actually get quite complicated:
 
@@ -59,7 +59,7 @@ Automating reports is by no means easy, but the process can be broken down into 
 
 “On a quarterly basis, I give important feedback to the stores, and it only takes me about 30 minutes to put together the source materials and information. Before \[using Keboola for automation\], it took me a whole day.” - Jan Langer, Sales Director of Sklizeno
 
-## <h2>Automate the data engineering pipeline</h2>
+## Automate the data engineering pipeline
 
 Before data can be analyzed, it must be gathered. Data engineers work diligently to provide quality data via a process called ETL (**E**xtract data from its sources, **T**ransform data into the format needed, **L**oad data into the database).
 
@@ -101,7 +101,7 @@ Scaling accumulates technical depth in more areas:
 
 **Solution:** Build your stack modularly, so each module can adapt to changes independently. Are you already locked into a suboptimal software solution? Decouple it. Scalability and growth were one of the main reasons why we decided to use a [modular architecture broken down into APIs](https://developers.keboola.com/overview/api/) for Keboola Connect.
 
-## <h2>The build vs buy dilemma</h2>
+## The build vs buy dilemma
 
 Every company faces this dilemma: should you build the system yourself or buy one of the best solutions? Both have pros and cons that require careful consideration.
 
