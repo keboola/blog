@@ -6,7 +6,7 @@ title: How high-performing teams use automation to focus on work that drives ins
   and revenue
 perex: A step-by-step guide to automate your data pipeline and get back time for high
   value work
-date: 
+date: 2019-09-14 20:30:00 +0000
 user: ''
 coverphoto: ''
 coverphoto_slider: "/uploads/Untitled design-1.png"
