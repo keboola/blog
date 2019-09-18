@@ -5,8 +5,8 @@ permalink: jeff-miller-roti-cooking-big-data
 title: 'Big Flavor Meets Big Data: A Conversation With Jeff Miller, VP of Technology
   at Roti Modern Mediterranean'
 perex: "\n"
-date: 2019-04-17 22:00:00 +0000
-user: jiri-vicherek
+date: 2019-09-18 22:00:00 +0000
+user: milan-veverka
 coverphoto: "/uploads/facade3_1200xx3600-2027-0-0.jpg"
 coverphoto_slider: "/uploads/JAM Headshot.JPG"
 
