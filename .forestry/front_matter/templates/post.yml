@@ -68,6 +68,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
 - _posts/2019-04-17-jeff-miller-from-roti-modern-mediterranean-cooking-big-data-with-love-for-mediterranean-cuisine.md
 - _posts/2019-09-14-how-high-performing-teams-use-automation-to-focus-on-work-that-drives-insights-and-revenue.md
 - _posts/how-to-build-a-data-driven-company-culture.md
