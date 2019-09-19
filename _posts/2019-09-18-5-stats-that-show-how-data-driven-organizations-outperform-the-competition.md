@@ -72,4 +72,4 @@ The growth of data analytics solutions has led us into the data-driven era. Comp
 
 However, analytics isn’t a one-size-fits-all solution. A company needs to have a clear use case in mind to reap the rewards of the insights it acquires. Enterprises need to evaluate the potential business applications of an analytics platform _before_ implementation, as this will generate the best results.
 
-Want to learn how your peers are implementing data-driven decision making in a few simple steps? [Drop us a line](https://www.keboola.com/contact-sales) and we'd love to share!
+Want to learn how your peers are implementing data-driven decisions in a few simple steps? [Drop us a line](https://www.keboola.com/contact-sales) and we'd love to share!
