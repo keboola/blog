@@ -10,8 +10,6 @@ coverphoto: ''
 coverphoto_slider: "/uploads/5 stats blog.png"
 
 ---
-## 5 Stats that show how Data-Driven Organizations Outperform the Competition.
-
 Today, 90% of enterprise analytics and business professionals say that data and analytics are key to their organization’s[ digital transformation initiatives](https://www.gartner.com/smarterwithgartner/why-data-and-analytics-are-key-to-digital-transformation/). However, there are many companies that are reluctant to pull the trigger because they aren’t sure about the advantages of becoming data-driven.
 
 In this article, we’ll look at 5 statistics that show how becoming a data-driven business can help you outdo your competition. Profitability, customer understanding, and business strategy are just some of the areas where obtaining insight into the right data can be invaluable.
