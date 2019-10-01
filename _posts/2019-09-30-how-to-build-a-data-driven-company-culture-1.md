@@ -18,10 +18,8 @@ So what does it mean to be [data-driven](https://www.northeastern.edu/graduate/b
 
 Before you can start using data, you need to **invest in the technology for collecting, cleaning, hosting, and maintaining that data**. Let’s also not forget the salaries of data engineers, scientists, and analysts - they are an investment. Business decision-makers biggest question is: how do I leverage data to turn it into a profit?
 
-  
 The answer? by building a strong data culture within.
 
-  
 A recent [article](https://online.hbs.edu/blog/post/data-driven-decision-making) by Harvard Business School suggests that data-driven companies not only take more confident decisions, but also realize significant cost savings. Of all the organizations that used data for decreasing expenses, over 49% have seen major improvement.
 
 That sounds great on paper, but how do you actually build a data-driven culture within your company? We’re going to guide you to a more data-driven culture in four easy steps:
@@ -31,21 +29,19 @@ That sounds great on paper, but how do you actually build a data-driven culture 
 3. Democratize data access across departments and people
 4. Build your data into processes and products
 
-  
 ![](/uploads/AdobeStock_234031139.jpeg)
 
-## <h2>Start with business decision making</h2>
+## Start with business decision making
 
 > _“The fundamental objective of collecting, analyzing, and deploying data is to make better decisions.”_ (McKinsley: [Why data culture matters](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/why-data-culture-matters))
 
-  
 In a data-driven company, data comes second. Yes, you heard me right. The first priority is decision making. Feels backwards, but the goal of building a data-driven culture starts with business decisions first.
 
 These business decisions should align with critical questions to the core decision-makers. What questions should we be asking and answering to give us an edge to not only get ahead of our competitors but maintain the lead? What data would we need to decide what our next product offering should be? How is our product performing in the market?
 
 To drive strategic changes, **start by agreeing on common business goals** and what metrics are relevant to measure achievement across the whole organization. Turn those metrics into KPIs (Key Performance Indicators), then start measuring and reporting them.
 
-## <h2>Ensure data quality</h2>
+## Ensure data quality
 
 Data-driven decisions are only as good as the foundation they are built on.
 
@@ -56,7 +52,6 @@ It boils down to two aspects:
 1. Ensure the technical infrastructure supporting data acquisition and consumption is well-engineered.
 2. Make data easily available and understandable to decision-makers.
 
-  
 From a technical standpoint, companies must aim to apply the best engineering practices when it comes to data. The entire [ETL pipeline](https://www.guru99.com/etl-extract-load-process.html) must run like a well-oiled machine.
 
 Data sources are smoothly integrated with databases and data lakes. The transformations between data types and flow between different modules are seamless. The entire infrastructure is monitored for errors as well as fault-tolerant. **A well-engineered pipeline centralizes different data sources and can flexibly adapt to changes**.
@@ -69,7 +64,7 @@ In practice, this involves naming your data in an easy-to-interpret way, agreein
 
 ![](/uploads/AdobeStock_30573757.jpeg)
 
-## <h2>Democratize data access across departments and people</h2>
+## Democratize data access across departments and people
 
 Different departments consult different data for their decision-making process; we sometimes sit in our bell jars and forget that people operate from a completely different point of view and set of tools.
 
@@ -83,12 +78,10 @@ Break data silos and bring data across departments. **Empower everyone to make d
 
 **A data-driven culture is about developing a single source of data and a common language to talk about it**. Read more about the [business best practices](https://blog.keboola.com/opening-silos-the-only-way-to-achieve-company-goals) when opening silos.
 
-## <h2>Build your data into processes and products</h2>
+## Build your data into processes and products
 
->   
 > As Keboola’s CEO Pavel Dolezal puts it: “It’s never enough to put data together and create _insights_. We need to create new _processes._”
 
-  
 This means **building processes and products based on data**.
 
 In other words, a company does not just use data. Instead, it relies on data for its core offerings and operations.
@@ -97,7 +90,7 @@ This can take the form of KPIs and dashboards for regular performance monitoring
 
 A data-driven culture goes beyond paying lip service to data. It puts data where the money is, at the heart of the company.
 
-## <h2>Culture is a process, not a state</h2>
+## Culture is a process, not a state
 
 Building a data-driven culture can take time, but the gains are huge and vital to the growth of a company.
 
