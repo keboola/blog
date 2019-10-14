@@ -47,7 +47,7 @@ Only when your data has been cleaned and transformed can you begin gaining insig
 
 ![](https://lh6.googleusercontent.com/ZGsvyn9mVpxUDsgnQi6OwehpyQtpFMNmpXizVL5BZgSqgzVpBaeNxY8D7kfIrqCJoWm1pqoKouInGiNh-fyxQCRa0HqBgdBmZ6bk67s5JKJqFV_vgkOXVR-l_3fotNo809fqDto =624x365)
 
-## Why is it important? 
+## Why is it important?
 
 Even though a lot has been written regarding centralizing data, creating dashboards and making data-driven decisions on a company level, there are also several other factors worth mentioning.
 
@@ -69,8 +69,7 @@ Companies that use [analytics](https://www.betterbuys.com/bi/business-intelligen
 
 Having a BI and data management system can significantly [reduce engineering hours](https://selecthub.com/business-intelligence/business-intelligence-software-benefits/) otherwise needed for gaining insights across scattered data. A lot can be automated and dashboards (especially in Looker) can only be created once. This leaves time for more strategic tasks and empowers everyone within the company to explore the data.
 
-##   
-Deliveroo managed to deliver faster with the help of BI.
+## Deliveroo managed to deliver faster with the help of BI.
 
 Deliveroo is a London based company that delivers food on bikes and scooters. It’s an efficient way of delivering food in the crowded capital and is expanding the market for restaurants that wouldn’t offer that service otherwise. They have always been extremely data-driven, so it made sense to [develop visualizations](https://info.looker.com/customer-stories/deliveroo-case-study) and insights with a BI tool that could be implemented across the company.
 
