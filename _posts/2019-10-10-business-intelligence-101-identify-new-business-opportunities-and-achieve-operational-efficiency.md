@@ -5,7 +5,7 @@ permalink: business intelligence 101
 title: 'Business Intelligence 101: Identify new business opportunities and achieve
   operational efficiency'
 perex: ''
-date: 
+date: 2019-10-14 07:00:00 +0000
 user: ''
 coverphoto: ''
 coverphoto_slider: "/uploads/AdobeStock_264974466.jpeg"
