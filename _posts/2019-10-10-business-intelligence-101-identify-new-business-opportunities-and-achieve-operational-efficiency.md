@@ -8,7 +8,7 @@ perex: ''
 date: 2019-10-14 07:00:00 +0000
 user: ''
 coverphoto: ''
-coverphoto_slider: "/uploads/AdobeStock_264974466.jpeg"
+coverphoto_slider: "/uploads/what is BI.png"
 
 ---
 It’s crazy to imagine that by 2020, every person will [generate](https://techjury.net/stats-about/big-data-statistics/) 1.7 megabytes of data each second! The days of slow communication and occasional snail mail are long over. We generate data without thinking about it - using apps, paying with credit cards, and even shopping online for groceries.
