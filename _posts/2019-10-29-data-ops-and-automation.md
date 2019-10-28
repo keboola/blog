@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: community
-permalink: Data Ops and Automation
+permalink: Data-Ops-and-Automation
 title: Data Ops and Automation
 perex: ''
 date: 2019-10-29 07:00:00 +0000
