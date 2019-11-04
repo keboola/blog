@@ -3,7 +3,7 @@ layout: post
 categories: how-to
 permalink: Your-Innovation-Backlog-is-Your-Guide
 title: Your Innovation Backlog is Your Guide
-perex: ''
+perex: Innovation backlog can be the key to business growth.
 date: 2019-11-04 08:00:00 +0000
 user: ''
 coverphoto: ''
