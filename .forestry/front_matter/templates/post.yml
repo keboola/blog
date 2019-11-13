@@ -69,6 +69,7 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/2019-09-18-5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
 - _posts/your-innovation-backlog-is-your-guide.md
 - _posts/2019-10-29-data-ops-and-automation.md
 - _posts/2019-09-30-how-to-build-a-data-driven-company-culture-1.md
@@ -77,7 +78,6 @@ pages:
 - _posts/2019-03-22-doing-data-science-for-the-big-pharma-dataheroes-podcast-2.md
 - _posts/2019-05-15-pavel-dolezal-keboola-companies-want-to-become-data-driven-it-takes-four-steps-to-get-there.md
 - _posts/2019-09-14-how-high-performing-teams-use-automation-to-focus-on-work-that-drives-insights-and-revenue.md
-- _posts/2019-09-18-5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
 - _posts/2019-04-17-jeff-miller-from-roti-modern-mediterranean-cooking-big-data-with-love-for-mediterranean-cuisine.md
 - top-three-themes-mentioned-at-snowflake-summit-2019.md
 - _posts/how-to-build-a-data-driven-company-culture.md

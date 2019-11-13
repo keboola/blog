@@ -4,8 +4,8 @@ categories: community
 permalink: 5 Stats Show Data-Driven Organizations Outperform Competition
 title: 5 Stats That Show How Data-Driven Organizations Outperform Their Competition
 perex: ''
-date: 2019-09-18 07:00:00 +0000
-user: ''
+date: 2019-09-18T07:00:00.000+00:00
+user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/5 stats blog.png"
 
