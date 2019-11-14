@@ -70,12 +70,11 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/2019-09-18-5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
-- _posts/your-innovation-backlog-is-your-guide.md
 - _posts/2019-10-29-data-ops-and-automation.md
+- _posts/2018-10-11-another-year-passed.md
+- _posts/2019-09-18-5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
 - _posts/2019-09-30-how-to-build-a-data-driven-company-culture-1.md
 - _posts/2019-10-10-business-intelligence-101-identify-new-business-opportunities-and-achieve-operational-efficiency.md
-- _posts/2018-10-11-another-year-passed.md
 - _posts/2019-03-22-doing-data-science-for-the-big-pharma-dataheroes-podcast-2.md
 - _posts/2019-05-15-pavel-dolezal-keboola-companies-want-to-become-data-driven-it-takes-four-steps-to-get-there.md
 - _posts/2019-09-14-how-high-performing-teams-use-automation-to-focus-on-work-that-drives-insights-and-revenue.md
