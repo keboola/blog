@@ -57,6 +57,7 @@ fields:
     - jiri-vicherek
     - usman-mahmood
     - masha-reutovski
+    - tereza-nemessanyi
   label: user
 - type: file
   name: coverphoto
