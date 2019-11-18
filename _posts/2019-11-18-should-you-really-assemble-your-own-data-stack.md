@@ -50,4 +50,6 @@ Innovate and move the company forward! Wouldn’t it be great if the majority of
 
 So, before buying the next tool, writing the script to bridge a gap between two pieces of software or services you already employ, before you start worrying about how to keep the spaghetti bowl of your architecture together, explore the other option - having a fully managed, automated data architecture. A true, seamless data innovation platform that deals with data problems by design. Give it a try at [try.keboola.com](https://try.keboola.com/).
 
-![](/uploads/74171891_2585990848090901_3583559040623443968_o.png)
+> ![](/uploads/74171891_2585990848090901_3583559040623443968_o.png)
+
+_Image credit_ [https://xkcd.com/](https://xkcd.com/ "https://xkcd.com/")
