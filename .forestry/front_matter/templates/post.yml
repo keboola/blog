@@ -70,7 +70,7 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _posts/should-you-really-assemble-your-own-data-stack.md
+- _posts/2019-11-18-should-you-really-assemble-your-own-data-stack.md
 - _posts/2019-10-29-data-ops-and-automation.md
 - _posts/2018-10-11-another-year-passed.md
 - _posts/2019-09-18-5-stats-that-show-how-data-driven-organizations-outperform-the-competition.md
