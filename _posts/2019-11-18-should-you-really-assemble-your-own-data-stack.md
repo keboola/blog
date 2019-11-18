@@ -6,7 +6,7 @@ title: Should you really assemble your own data stack?
 perex: Just because you built it, doesn't mean you should.
 date: 2019-11-18 08:00:00 +0000
 user: milan-veverka
-coverphoto: "/uploads/innovation backlog (1).png"
+coverphoto: ''
 coverphoto_slider: "/uploads/innovation backlog (1).png"
 
 ---
