@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: how-to
-permalink: Accelerate Your End-to-End Data Pipelines With Keboola Scaffolds
+permalink: Accelerate-Your-End-to-End-Data-Pipelines-With-Keboola-Scaffolds
 title: Accelerate Your End-to-End Data Pipelines With Keboola Scaffolds
 perex: ''
 date: 2019-11-25 08:00:00 +0000
