@@ -73,7 +73,7 @@ Let’s say that you want to track and analyze customer reviews (did someone say
 
 ![](/uploads/scaffolds4.png)
 
-_A drill-down look at the components of the ReviewTrackers Reviews to Snowflake scaffold_
+_A drill-down look at the components of the ReviewTrackers Reviews to Snowflake scaffold._
 
 Once we succumb to the appeal of the blue button, we can see that the scaffold is already doing everything for us (✅for the win). All we need to do is connect our ReviewTrackers account. 
 
