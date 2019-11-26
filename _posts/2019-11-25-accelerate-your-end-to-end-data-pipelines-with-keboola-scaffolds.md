@@ -55,7 +55,7 @@ The sky's the limit when it comes to scaffolds, and Keboola adds new ones regula
 
 ![](/uploads/scaffolds1.png)
 
-_The scaffolds currently featured by Keboola_
+_The scaffolds currently featured in Keboola._
 
 ## Step by step guide of Keboola’s scaffolds
 
