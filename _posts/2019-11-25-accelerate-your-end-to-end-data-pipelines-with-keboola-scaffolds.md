@@ -51,44 +51,47 @@ Scaffolds, like recipes, come in many different varieties, and you can mix and m
 
 As you can see, scaffolds can accelerate deployment of any project - from simple data extractions and transformations to advanced modeling, analysis, and machine learning applications. What’s even better, any project or workflow can be turned into a scaffold. A single click deploys the scaffold and a wizard makes sure all the required information (such as data source credentials) is accounted for. A few seconds later a completely new workflow appears in the project - not as a black box, but as open-code transformations and component configurations that can be modified and built upon. The scaffolds can even tag and describe tables and buckets for quick sharing into the Data Catalog, or for other scaffolds to recognize the patterns and assemble themselves into more complex workflows and use cases.
 
-The sky's the limit when it comes to scaffolds, and Keboola adds new ones regularly to keep your options fresh:
+The sky's the limit when it comes to scaffolds, and Keboola adds new ones regularly to keep your options fresh: 
 
-![](https://lh3.googleusercontent.com/CftSJjkF0xOkN9_U8q54JrVJoOIwoVEISewFB_snPEvJjYSCqdT4qvSERQX_H_10cFuOGaxMUbvL7N1kA1DqHM8_NWePdlUF5UeJ-a8iZj6vZVxPO5y6P-APfJAGXp7twHt6XkyE =624x664)_The scaffolds currently featured by Keboola_
+![](/uploads/scaffolds1.png)
+
+_The scaffolds currently featured by Keboola_
 
 ## Step by step guide of Keboola’s scaffolds
 
 Let’s take a look at how you can [use scaffolds within Keboola Connection](https://help.keboola.com/components/scaffolds/). Once logged in, navigate to _Components > Scaffolds_.
 
-![](https://lh3.googleusercontent.com/0giVPUXjT_zVmRTaRUcBDesIXlqT00RadAljUMcJxXVxSIo--pCNL8NS0qGdBIEsG_deodLxQi-0VDlgeSFeq08qGaUAbyIUfLeCdCVVSMZMGbRMTNl1HfXVkxFhWFZncUoENTNL =624x523)_Start your scaffolding journey from the home screen._
+![](/uploads/scaffolds2.png)
+
+_Start your scaffolding journey from the home screen._ 
 
 You will see a list of the scaffolds that Keboola already offers. As new scaffolds are being added to the list, you can use the search bar to find the one that you want to use. (Pro tip: start typing the name of the app from which you want to analyze/extract data)
 
-![](https://lh3.googleusercontent.com/CftSJjkF0xOkN9_U8q54JrVJoOIwoVEISewFB_snPEvJjYSCqdT4qvSERQX_H_10cFuOGaxMUbvL7N1kA1DqHM8_NWePdlUF5UeJ-a8iZj6vZVxPO5y6P-APfJAGXp7twHt6XkyE =624x664)_The scaffolds you can use with Keboola_
+![](/uploads/scaffolds3.png)
 
-Let’s say that you want to track and analyze customer reviews (did someone say natural language processing with machine learning?). Natural language processing can be quite [complex and laborious](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b), but with Keboola it’s just a matter of clicking a few buttons (e.g. “+ USE THIS”).
+Let’s say that you want to track and analyze customer reviews (did someone say natural language processing with machine learning?). Natural language processing can be quite [complex and laborious](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b), but with Keboola it’s just a matter of clicking a few buttons (e.g. “+ USE THIS”). 
 
-![](https://lh5.googleusercontent.com/EkToCEykWV9RO9-2kz5dwe-R-1mfUT4vRjh8n80PJPXKQ48U8z5NxD4_0Pv_ilCkJ5nXMtRJwgEHfYU1qmh62pL52AsehkJM7RMQTEQvFZ6_1NlnYAXWzEOo8W22Aat82hhSlt4_ =624x491)_A drill-down look at the components of the ReviewTrackers Reviews to Snowflake scaffold_
+![](/uploads/scaffolds4.png)
 
-  
-Once we succumb to the appeal of the blue button, we can see that the scaffold is already doing everything for us (✅for the win). All we need to do is connect our ReviewTrackers account.
+_A drill-down look at the components of the ReviewTrackers Reviews to Snowflake scaffold_
 
-![](https://lh3.googleusercontent.com/vNR53ODtuikIEbFtJ1MMz9_JD669be_f7rKdiCwx0d_UoH8MoXAtSWagiNQvkqv6bVfS6-uhiIbNbp3DBRW9FtF3wmptMBgzOoRK1kZQ-b7zWJxYWhr5zlbr0P0srAb7PMEKyjo8 =624x803)
+Once we succumb to the appeal of the blue button, we can see that the scaffold is already doing everything for us (✅for the win). All we need to do is connect our ReviewTrackers account. 
 
-A green checkmark next to every procedure in the scaffold shows us which procedures are already automated. All we need to do is log into ReviewTrackers.
+![](/uploads/scaffolds5.png)
 
-Press “→ USE SCAFFOLD” to see the magic unfold. In a matter of seconds, the entire pipeline has been run from end (reviews) to end (analysis and warehousing). You can even inspect the particular procedures that have been deployed at each step - just click on the link on the right-hand side.
+_A green checkmark next to every procedure in the scaffold shows us which procedures are already automated. All we need to do is log into ReviewTrackers._
 
-![](https://lh5.googleusercontent.com/YXoHknC6iijXI_cGW-qyHy_0LPcV0CMHzghZN-8IyL2kZgCI3XyCdHtRo4zKjnu76z1M1MqJn-VQqAPxoIDFPNvwpCidaeZsBAVVWghJLGaMlsb10j5phFVrsxQvH3bDB6SZgZf_ =624x525)
+Press “→ USE SCAFFOLD” to see the magic unfold. In a matter of seconds, the entire pipeline has been run from the end (reviews) to end (analysis and warehousing). You can even inspect the particular procedures that have been deployed at each step - just click on the link on the right-hand side.
 
-Breakdown of the scaffold. Clicking a blue link on the right allows us to explore that particular procedure.
+![](/uploads/scaffolds6.png)
+
+_Breakdown of the scaffold. Clicking a blue link on the right allows us to explore that particular procedure._
 
 For example, we can see that the scaffold has created 7 tables for us:
 
-![](https://lh4.googleusercontent.com/KFfE8FabEQ068RVhFUvC_4i5catZxCs7jNu0dRkws5cSk1RwrNR2sME1TAllSQUnbP42S75zuoOSNABMlNDGDP8W5rg6mg8Qp4BdicwqoxmljlPjDAQ12FsmAiYZywTWdwJoy_5w =438x719)
+![](/uploads/scaffold7.png)
 
-Drill-down view of the Snowflake writer procedure, which has created 7 tables.
-
-If you wish to visualize the results, you can now connect your Looker account, or use the already processed data for further machine learning.
+If you want to visualize the results, you can now connect your Looker account, or use the already processed data for further machine learning.
 
 _Voila!_ Your meal is served. _Bon appétit._
 
