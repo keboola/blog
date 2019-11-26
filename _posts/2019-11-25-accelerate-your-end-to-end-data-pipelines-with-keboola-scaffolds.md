@@ -6,8 +6,8 @@ title: Accelerate Your End-to-End Data Pipelines With Keboola Scaffolds
 perex: ''
 date: 2019-11-25 08:00:00 +0000
 user: masha-reutovski
-coverphoto: "/uploads/scaffolds (1).png"
-coverphoto_slider: ''
+coverphoto: ''
+coverphoto_slider: "/uploads/scaffolds (1).png"
 
 ---
 Automation brings incredible [value to data teams and hyper-growing companies](https://blog.keboola.com/how%20high-performing%20teams%20use%20automation). It removes hours of sweating over repetitive and mundane tasks, which frees up time for data engineers, analysts, and scientists to get on with more engaging and revenue-generating work.
