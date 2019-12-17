@@ -49,4 +49,4 @@ As a result, the data asset of the organization grows with each new application,
 
 Keboola’s most successful customers use the latest approach. They curate the data catalog, and use multi-project architecture for various functions while maintaining the audit trail, user management and data lineage/governance provided by the platform itself. From small customers with less than a handful of users to large enterprise with hundreds of different data applications projects running simultaneously, this model has proven its worth many times over.
 
-I would love to hear your experience with data team structures - feel free to comment here or reach out to me via LinkedIn! If we’re not connected yet, please mention the article when reaching out!
+I would love to hear your experience with data team structures - feel free to comment here or reach out to me [via LinkedIn](https://www.linkedin.com/in/milanveverka/)! If we’re not connected yet, please mention the article when inviting to connect.
