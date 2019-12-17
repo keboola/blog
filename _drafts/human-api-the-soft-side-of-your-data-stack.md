@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: how-to
+permalink: Human API - The Soft Side of your Data Stack
 title: Human API - The Soft Side of your Data Stack
 perex: ''
 date: 2019-12-17 08:00:00 +0000
