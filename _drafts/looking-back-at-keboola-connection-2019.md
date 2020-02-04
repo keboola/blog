@@ -13,7 +13,7 @@ coverphoto_slider: "/uploads/maddi-bazzocco-waNAJOI7Jz8-unsplash.jpg"
 ---
 For Keboola, 2019 was a year of growing—and growing up. We evolved a lot, on both the business and product sides. In this blog, I want to give a quick overview of the changes, as well as give you some indication of what to expect from us in the next 6 months. Many of those improvements were inspired or directly driven by our users - there is a “wishlist” button available for everyone right in the Keboola Connection UI. We want to thank our engaged users for all their input - please keep the wishes, ideas, and comments coming!
 
-![Screenshot with feature wishlist](https://lh5.googleusercontent.com/rLDJb4jw9fLpXt5GKLNcrZRIwFGgAri07mEfC8ljSaXS3wKe01qFNpYrNTJFhaau5MBx_wdaxYQjFU2d-n2cwmQZPEViXaOzxrESk72EAajgcXBOpz4g4FDQPRgYCiXwzXmQTU7F =624x113)
+![Screen shot of Feature Wishlist](/uploads/image (2).png)
 
 We had several key product themes for our 2019 roadmap:
 
@@ -40,7 +40,7 @@ We’ll talk a bit more about data science in the 2020 outlook as we’re prepar
 
 ## DataOps
 
-> _“DataOps is a combination of tools and methods, which streamline the development of new analytics while ensuring impeccable data quality. DataOps helps shorten the cycle time for producing analytic value and innovation, while avoiding the trap of “hope, heroism and caution.” -_ [_dataopsmanifesto.org_](https://www.dataopsmanifesto.org/)
+> _“DataOps is a combination of tools and methods, which streamline the development of new analytics while ensuring impeccable data quality. DataOps helps shorten the cycle time for producing analytic value and innovation, while avoiding the trap of “hope, heroism and caution.” -_ _dataopsmanifesto.org_
 
 Automation, Simplification, Transparency; those are the key elements of our dataops philosophy. We can say that we’re making our users’ lives easier by automating whatever can be (and we’re pushing that envelope further and further as we go - more about our obsession with automating DataOps [here](https://blog.keboola.com/data-ops-and-automation)), simplifying what is left, and being completely transparent about everything that’s happening. This paragraph would get pretty long if I went into all the details, so I’ll break them into a few bullet points:
 
