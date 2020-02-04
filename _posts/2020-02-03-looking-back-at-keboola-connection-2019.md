@@ -38,7 +38,7 @@ The original “Overview” screen was really under-utilized, while now it provi
 
 R is not the only language used for data science, and our users had been asking for more—especially Python and Julia. Both backends are no longer in beta, and Keboola Connection provisions Jupyter notebooks in the cloud, without the need of searching for and then downloading data to a separate working environment.
 
-We’ll talk a bit more about data science in the 2020 roadmap webinar as we’re preparing quite a few major improvements to Keboola Connection that will enhance its utility as the data scientist’s primary workbench. As well access to data from across the organization has been made completely seamless with the Data Catalog. All in all, there are now mere seconds separating an idea and a working environment with your favorite tool and required data ready to go.
+We’ll talk a bit more about data science in the [2020 roadmap webinar](https://keboola.zoom.us/webinar/register/WN_WBkjNG8oSPa7MNVyTwI3uw) as we’re preparing quite a few major improvements to Keboola Connection that will enhance its utility as the data scientist’s primary workbench. As well access to data from across the organization has been made completely seamless with the Data Catalog. All in all, there are now mere seconds separating an idea and a working environment with your favorite tool and required data ready to go.
 
 ## DataOps
 
