@@ -30,7 +30,7 @@ UI redesign is not about the color and the locations of buttons; it’s about th
 
 You might’ve noticed the new Orchestrator Settings, updated Transformation UI with a more ergonomic listing of input and output mapping, or the recent addition of improved navigation between various projects and organizations. A massive step forward is the new Dashboard, which now gives a quick overview of the state of a project, recent changes to configurations, user activity, jobs, and orchestration runs, all on one page.
 
-![](/uploads/image (3).png)
+![dashboard](/uploads/image (3).png)
 
 The original “Overview” screen was really under-utilized, while now it provides quick links to items that are being worked on, or are in need of attention - saving clicks and time. A recent addition to that is the log of changes since the user’s last visit, which is a fantastic time-saver. And yes, it all came with new, fresh colors and buttons :).
 
@@ -38,7 +38,7 @@ The original “Overview” screen was really under-utilized, while now it provi
 
 R is not the only language used for data science, and our users had been asking for more—especially Python and Julia. Both backends are no longer in beta, and Keboola Connection provisions Jupyter notebooks in the cloud, without the need of searching for and then downloading data to a separate working environment.
 
-We’ll talk a bit more about data science in the [2020 roadmap webinar](https://keboola.zoom.us/webinar/register/WN_WBkjNG8oSPa7MNVyTwI3uw) as we’re preparing quite a few major improvements to Keboola Connection that will enhance its utility as the data scientist’s primary workbench. As well access to data from across the organization has been made completely seamless with the Data Catalog. All in all, there are now mere seconds separating an idea and a working environment with your favorite tool and required data ready to go.
+We’ll talk a bit more about data science in the [2020 roadmap webinar](https://keboola.zoom.us/webinar/register/3015808373989/WN_WBkjNG8oSPa7MNVyTwI3uw) as we’re preparing quite a few major improvements to Keboola Connection that will enhance its utility as the data scientist’s primary workbench. As well access to data from across the organization has been made completely seamless with the Data Catalog. All in all, there are now mere seconds separating an idea and a working environment with your favorite tool and required data ready to go.
 
 ## DataOps
 
