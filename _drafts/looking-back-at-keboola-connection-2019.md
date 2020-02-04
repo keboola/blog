@@ -26,15 +26,15 @@ Let’s take them one by one:
 
 ## UX/UI
 
-UI redesign is not about the color and the locations of buttons; it’s about the whole framework and what it allows us to do for you going forward. Our UI team took most of the year to do this, releasing the new UI partially in August and completely in November. There are still some pieces that will be further enhanced, but the foundation has been laid, and we’ve already introduced many new features that take full advantage of the new lattice. 
+UI redesign is not about the color and the locations of buttons; it’s about the whole framework and what it allows us to do for you going forward. Our UI team took most of the year to do this, releasing the new UI partially in August and completely in November. There are still some pieces that will be further enhanced, but the foundation has been laid, and we’ve already introduced many new features that take full advantage of the new lattice.
 
-You might’ve noticed the new Orchestrator Settings, updated Transformation UI with more ergonomic listing of input and output mapping, or the recent addition of improved navigation between various projects and organizations. A massive step forward is the new Dashboard, which now gives a quick overview of the state of a project, recent changes to configurations, user activity, jobs, and orchestration runs, all on one page. 
+You might’ve noticed the new Orchestrator Settings, updated Transformation UI with more ergonomic listing of input and output mapping, or the recent addition of improved navigation between various projects and organizations. A massive step forward is the new Dashboard, which now gives a quick overview of the state of a project, recent changes to configurations, user activity, jobs, and orchestration runs, all on one page.
 
 The original “Overview” screen was really under-utilized, while now it provides quick links to items that are being worked on, or are in need of attention - saving clicks and time. A recent addition to that is the log of changes since the user’s last visit, which is a fantastic time-saver. And yes, it all came with new, fresh colors and buttons :).
 
 ## Data Science
 
-R is not the only language used for data science, and our users had been asking for more—especially Python and Julia. Both backends are no longer in beta, and Keboola Connection provisions Jupyter notebooks in the cloud, without the need of searching for and then downloading data to a separate working environment. 
+R is not the only language used for data science, and our users had been asking for more—especially Python and Julia. Both backends are no longer in beta, and Keboola Connection provisions Jupyter notebooks in the cloud, without the need of searching for and then downloading data to a separate working environment.
 
 We’ll talk a bit more about data science in the 2020 outlook as we’re preparing quite a few major improvements to Keboola Connection that will enhance its utility as the data scientist’s primary workbench. As well access to data from across the organization has been made completely seamless with the Data Catalog. All in all, there are now mere seconds separating an idea and a working environment with your favorite tool and required data ready to go.
 
@@ -55,10 +55,14 @@ Automation, Simplification, Transparency; those are the key elements of our data
 
 ## Scaffolds
 
-As mentioned in the DataOps section, we are all about automation, anticipation of what the user may want to do next, and simplifying that journey for them as much as possible. We automated the infrastructure layer, the data management, DataOps - what’s left is the business logic, the “what” our users are trying to achieve. With the introduction of Scaffolds we help even in that area - providing a list of ready-to-go, often used workflows that can be deployed in one click. Using them is as easy, or easier, as setting up a component. Select the scaffold that best fits what you are trying to build, provide a few inputs (such as data source credentials or parameters for some of the configurations included) and the automation will take care of the rest. A whole complex workflow or business app can be deployed in seconds. We introduced Scaffolds in a separate [blog](https://blog.keboola.com/accelerate-your-end-to-end-data-pipelines-with-keboola-scaffolds) in November.
+As mentioned in the DataOps section, we are all about automation, anticipation of what the user may want to do next, and simplifying that journey for them as much as possible. We automated the infrastructure layer, the data management, DataOps - what’s left is the business logic, the “what” our users are trying to achieve. With the introduction of Scaffolds we help even in that area - providing a list of ready-to-go, often used workflows that can be deployed in one click. Using them is as easy, or easier, as setting up a component. 
+
+Select the scaffold that best fits what you are trying to build, provide a few inputs (such as data source credentials or parameters for some of the configurations included) and the automation will take care of the rest. A whole complex workflow or business app can be deployed in seconds. We introduced Scaffolds in a separate [blog](https://blog.keboola.com/accelerate-your-end-to-end-data-pipelines-with-keboola-scaffolds) in November.
 
 ## Looking forward to 2020
 
-So, what should you expect in 2020? A year is a long time in the Keboola world, so you can expect a lot - just look at the list above. We will stick to the same main guiding principles, saving you more time when performing everyday tasks as well as expanding the possibilities of what you can build and achieve. To keep up-to-date with our developments and new features, make sure to sign up for our Product Newsletter!
+So, what should you expect in 2020? A year is a long time in the Keboola world, so you can expect a lot - just look at the list above. We will stick to the same main guiding principles, saving you more time when performing everyday tasks as well as expanding the possibilities of what you can build and achieve. 
+
+To keep up-to-date with our developments and new features, make sure to sign up for our Product Newsletter!
 
 We listen to our users, please do not keep your ideas, opinions and especially criticisms to yourself. Using the Wishlist feature ensures that our product team hears what you have to say, and make the platform better for you - and everyone else.
