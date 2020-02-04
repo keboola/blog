@@ -40,7 +40,7 @@ We’ll talk a bit more about data science in the 2020 outlook as we’re prepar
 
 ## DataOps
 
-> _“DataOps is a combination of tools and methods, which streamline the development of new analytics while ensuring impeccable data quality. DataOps helps shorten the cycle time for producing analytic value and innovation, while avoiding the trap of “hope, heroism and caution.” -_ _dataopsmanifesto.org_
+_“DataOps is a combination of tools and methods, which streamline the development of new analytics while ensuring impeccable data quality. DataOps helps shorten the cycle time for producing analytic value and innovation, while avoiding the trap of “hope, heroism and caution.” -_ _dataopsmanifesto.org_
 
 Automation, Simplification, Transparency; those are the key elements of our dataops philosophy. We can say that we’re making our users’ lives easier by automating whatever can be (and we’re pushing that envelope further and further as we go - more about our obsession with automating DataOps [here](https://blog.keboola.com/data-ops-and-automation)), simplifying what is left, and being completely transparent about everything that’s happening. This paragraph would get pretty long if I went into all the details, so I’ll break them into a few bullet points:
 
