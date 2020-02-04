@@ -59,6 +59,8 @@ Automation, Simplification, Transparency; those are the key elements of our data
 
 As mentioned in the DataOps section, we are all about automation, the anticipation of what the user may want to do next, and simplifying that journey for them as much as possible. We automated the infrastructure layer, the data management, DataOps - what’s left is the business logic, the “what” our users are trying to achieve. With the introduction of Scaffolds we help even in that area - providing a list of ready-to-go, often used workflows that can be deployed in one click. Using them is as easy, or easier, as setting up a component.
 
+![scaffolds screenshot](/uploads/scaffolds3.png)
+
 Select the scaffold that best fits what you are trying to build, provide a few inputs (such as data source credentials or parameters for some of the configurations included) and the automation will take care of the rest. A whole complex workflow or business app can be deployed in seconds. We introduced Scaffolds in a separate [blog](https://blog.keboola.com/accelerate-your-end-to-end-data-pipelines-with-keboola-scaffolds) in November.
 
 ## Looking forward to 2020
