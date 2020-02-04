@@ -8,7 +8,7 @@ perex: 'In 2019, there were four major product themes: UX/UI, Data Science, Data
 date: 2020-02-03 23:00:00 +0000
 user: milan-veverka
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/maddi-bazzocco-waNAJOI7Jz8-unsplash.jpg"
 
 ---
 For Keboola, 2019 was a year of growing—and growing up. We evolved a lot, on both the business and product sides. In this blog, I want to give a quick overview of the changes, as well as give you some indication of what to expect from us in the next 6 months. Many of those improvements were inspired or directly driven by our users - there is a “wishlist” button available for everyone right in the Keboola Connection UI. We want to thank our engaged users for all their input - please keep the wishes, ideas, and comments coming!
