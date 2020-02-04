@@ -55,14 +55,14 @@ Automation, Simplification, Transparency; those are the key elements of our data
 
 ## Scaffolds
 
-As mentioned in the DataOps section, we are all about automation, anticipation of what the user may want to do next, and simplifying that journey for them as much as possible. We automated the infrastructure layer, the data management, DataOps - what’s left is the business logic, the “what” our users are trying to achieve. With the introduction of Scaffolds we help even in that area - providing a list of ready-to-go, often used workflows that can be deployed in one click. Using them is as easy, or easier, as setting up a component. 
+As mentioned in the DataOps section, we are all about automation, the anticipation of what the user may want to do next, and simplifying that journey for them as much as possible. We automated the infrastructure layer, the data management, DataOps - what’s left is the business logic, the “what” our users are trying to achieve. With the introduction of Scaffolds we help even in that area - providing a list of ready-to-go, often used workflows that can be deployed in one click. Using them is as easy, or easier, as setting up a component.
 
 Select the scaffold that best fits what you are trying to build, provide a few inputs (such as data source credentials or parameters for some of the configurations included) and the automation will take care of the rest. A whole complex workflow or business app can be deployed in seconds. We introduced Scaffolds in a separate [blog](https://blog.keboola.com/accelerate-your-end-to-end-data-pipelines-with-keboola-scaffolds) in November.
 
 ## Looking forward to 2020
 
-So, what should you expect in 2020? A year is a long time in the Keboola world, so you can expect a lot - just look at the list above. We will stick to the same main guiding principles, saving you more time when performing everyday tasks as well as expanding the possibilities of what you can build and achieve. 
+So, what should you expect in 2020? A year is a long time in the Keboola world, so you can expect a lot - just look at the list above. We will stick to the same main guiding principles, saving you more time when performing everyday tasks as well as expanding the possibilities of what you can build and achieve.
 
-To keep up-to-date with our developments and new features, make sure to sign up for our Product Newsletter!
+To keep up-to-date with our developments and new features, make sure to [sign up for our Product Newsletter](https://mailchi.mp/2391ccfc42b0/o2uwbbq2tq)!
 
 We listen to our users, please do not keep your ideas, opinions and especially criticisms to yourself. Using the Wishlist feature ensures that our product team hears what you have to say, and make the platform better for you - and everyone else.
