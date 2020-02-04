@@ -3,7 +3,8 @@ layout: post
 categories: product
 permalink: lookingback2019
 title: 'Looking back at Keboola Connection: 2019'
-perex: ''
+perex: 'In 2019, there were four major product themes: UX/UI, Data Science, Data Ops,
+  Scaffolds. '
 date: 2020-02-03 23:00:00 +0000
 user: milan-veverka
 coverphoto: ''
