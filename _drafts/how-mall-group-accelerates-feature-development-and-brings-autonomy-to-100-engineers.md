@@ -14,7 +14,7 @@ coverphoto_slider: ''
 ---
 [Mall Group](https://mallgroup.com/), the leading e-commerce group in Central Europe, recently employed Keboola to streamline operations and accelerate growth. In a matter of months, **Keboola’s platform enabled Mall Group’s individual teams to become much more autonomous as well as accelerate feature development, testing, and deployment**. The results speak for themselves - within a year, Mall Group was not only able to add members to the data engineering team but vastly improve the capabilities of the data engineers they already had, all while cutting through a years-deep innovation backlog.
 
-## The problem - Bottlenecks and scalability
+## The problem 
 
 Before adopting the Keboola platform into their stack, Mall Group was primarily using Business Warehouse, Hadoop, and a number of other products. Engineers would write code, but not be able to schedule and chain the code. This process created a heavy amount of project slowdown, as **the admin was a constant chokepoint for the organization** - **having to personally vet every code submission**.
 
@@ -28,7 +28,7 @@ The company eventually decided to migrate from their on-premise solution to Kebo
 
 > "Keboola took a significant amount of pain out of not only better managing our data, but using it to our advantage for removing bottlenecks in our systems and creating better data people within our company.”
 
-## The solution - Engineers gaining autonomy, developing new features weekly
+## The solution 
 
 After incorporating Keboola into its stack, Mall Group **enabled big changes without being hindered by resource management**. Precious resources like time, computing power and people are all allowed to run in parallel on the Keboola platform.
 
