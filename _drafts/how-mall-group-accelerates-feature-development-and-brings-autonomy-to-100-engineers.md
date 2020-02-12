@@ -7,7 +7,7 @@ title: How Mall Group accelerates feature development and brings autonomy to 100
 perex: Discover how Mall Group manages to deploy new features on a weekly basis and
   makes their teams data-driven.
 date: 
-user: ''
+user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/mall-group-800x321.jpg"
 
