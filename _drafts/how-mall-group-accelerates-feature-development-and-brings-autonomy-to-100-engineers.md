@@ -9,7 +9,7 @@ perex: Discover how Mall Group manages to deploy new features on a weekly basis 
 date: 
 user: ''
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/mall-group-800x321.jpg"
 
 ---
 [Mall Group](https://mallgroup.com/), the leading e-commerce group in Central Europe, recently employed Keboola to streamline operations and accelerate growth. In a matter of months, **Keboola’s platform enabled Mall Group’s individual teams to become much more autonomous as well as accelerate feature development, testing, and deployment**. The results speak for themselves - within a year, Mall Group was not only able to add members to the data engineering team but vastly improve the capabilities of the data engineers they already had, all while cutting through a years-deep innovation backlog.
