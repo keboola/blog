@@ -39,6 +39,8 @@ What if you acquired 100 new customers today? If that cost you $10k but none of 
 
 _Keboola integrates with any visualization tool to give you a one-click deployment for all of your KPI dashboarding needs._
 
+![](/uploads/3.png)
+
 ## 2) Predict future demand (and supply)
 
 Knowing when customers are likely to order from you (and how much) is the difference between servicing your customers or leaving money on the table. Hey, if you fail to fulfill your customers’ needs, your competitors will be more than happy to.
