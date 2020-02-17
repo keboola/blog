@@ -5,7 +5,8 @@ permalink: "/developers/"
 sitemap: true
 pagination:
   enabled: true
-  category: nerds
+  category:
+  - developers
   permalink: "/:num/"
   title: Nerds - Page :num
   trail:
