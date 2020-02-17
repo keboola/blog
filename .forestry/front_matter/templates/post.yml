@@ -29,9 +29,9 @@ fields:
     - events
     - community
     - product
-    - nerds
     - how-to
     - customer-stories
+    - developers
     required: false
   label: category
   default: events
