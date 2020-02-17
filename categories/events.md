@@ -1,15 +1,15 @@
 ---
 layout: collect
 title: Events
-permalink: /​​events/
+permalink: "/​events/"
 sitemap: true
-pagination: 
+pagination:
   enabled: true
-  category: ​​events
-  permalink: /:num/
-  title: 'Events - Page :num'
-  trail: 
-    before: 2
-    after: 2 
+  category: "​​events"
+  permalink: "/:num/"
+  title: Events - Page :num
+  trail:
+    before: "2"
+    after: "2"
 
 ---
