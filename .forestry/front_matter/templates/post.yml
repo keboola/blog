@@ -26,12 +26,12 @@ fields:
       type: simple
       section: posts
     options:
-    - events
     - community
     - product
     - how-to
     - customer-stories
     - developers
+    - events
     required: false
   label: category
   default: events
