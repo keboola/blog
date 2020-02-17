@@ -1,7 +1,7 @@
 ---
 layout: collect
 title: Events
-permalink: "/​events/"
+permalink: "/events/"
 sitemap: true
 pagination:
   enabled: true
