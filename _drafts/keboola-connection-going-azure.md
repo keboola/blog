@@ -12,7 +12,7 @@ perex: Back in April last year, we made the business decision to make Keboola Co
 date: 2020-02-17 23:00:00 +0000
 user: pavel-dolezal
 coverphoto: "/uploads/0_8obKGj8jwc4MYFcn.jpeg"
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/0_8obKGj8jwc4MYFcn-1.jpeg"
 
 ---
 ## Planning
