@@ -58,6 +58,7 @@ fields:
     - usman-mahmood
     - masha-reutovski
     - tereza-nemessanyi
+    - ondrej-hlavacek
   label: user
 - type: file
   name: coverphoto
