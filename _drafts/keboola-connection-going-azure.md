@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: developers
+permalink: keboola-connection-going-azure
 title: Keboola Connection Going Azure
 perex: Back in April last year, we made the business decision to make Keboola Connection
   available on Azure too (no, we're not quitting AWS). The story behind the decision
