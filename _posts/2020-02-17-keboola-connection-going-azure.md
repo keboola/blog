@@ -12,6 +12,8 @@ coverphoto: ''
 coverphoto_slider: "/uploads/coverAzure.jpg"
 
 ---
+![keboola-devs-paris](/uploads/coverAzure.jpg "Keboola developers ath OpenHack Paris")
+
 ## Planning
 
 Originally, our application only ran in AWS, and had some deep dependencies on the AWS services… That sounded like a headache.
