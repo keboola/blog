@@ -5,7 +5,7 @@ permalink: customer-story-platterz
 title: How Platterz gained data-backed understanding of interaction with new features
 perex: 'Discover how Platterz has managed to remove bottlenecks and gain real-time
   insights and understanding of how users are interacting with their page. '
-date: 
+date: 2020-02-17 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/pz-meta-image.jpg"
