@@ -5,7 +5,7 @@ permalink: PHP serverless application in AWS
 title: PHP serverless application in AWS (part 1)
 perex: AWS Lambda, the backbone of serverless applications in AWS, currently supports
   Java, Go, PowerShell, Node.js, C#, Python, and Ruby languages.
-date: 
+date: 2020-01-19 23:00:00 +0000
 user: ''
 coverphoto: ''
 coverphoto_slider: "/uploads/1_C8imhYT71nhrG8eRDFugrg.png"
