@@ -3,8 +3,8 @@ layout: post
 categories: customer-stories
 title: 'Sklizeno: How We Use Data to Be More Effective'
 perex: ''
-date: ''
-user: ''
+date: 2019-02-10 23:00:00 +0000
+user: jiri-vicherek
 coverphoto: ''
 coverphoto_slider: ''
 
