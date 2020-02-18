@@ -9,7 +9,7 @@ perex: Back in April last year, we made the business decision to make Keboola Co
 date: 2020-02-17T23:00:00.000+00:00
 user: ondrej-hlavacek
 coverphoto: ''
-coverphoto_slider: "/uploads/0_8obKGj8jwc4MYFcn-1.jpeg"
+coverphoto_slider: "/uploads/coverAzure.jpg"
 
 ---
 ## Planning
