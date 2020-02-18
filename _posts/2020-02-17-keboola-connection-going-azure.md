@@ -5,10 +5,7 @@ permalink: keboola-connection-going-azure
 title: Keboola Connection Going Azure
 perex: Back in April last year, we made the business decision to make Keboola Connection
   available on Azure too (no, we're not quitting AWS). The story behind the decision
-  is quite simple — our customers want it. So, some of our team went to Microsoft’s
-  OpenHack event in Paris to accelerate the adoption, have a guided, hands–on experience
-  and get in touch with the Microsoft folks. From our point of view, the event was
-  a success and so the work started.
+  is quite simple — our customers want it.
 date: 2020-02-17T23:00:00.000+00:00
 user: ondrej-hlavacek
 coverphoto: ''
