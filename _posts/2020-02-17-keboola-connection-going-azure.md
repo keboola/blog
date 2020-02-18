@@ -8,7 +8,7 @@ perex: Back in April last year, we made the business decision to make Keboola Co
   is quite simple — our customers want it.
 date: 2020-02-17T23:00:00.000+00:00
 user: ondrej-hlavacek
-coverphoto: ''
+coverphoto: "/uploads/coverAzure.jpg"
 coverphoto_slider: "/uploads/coverAzure.jpg"
 
 ---
