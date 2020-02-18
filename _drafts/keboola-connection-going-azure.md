@@ -8,8 +8,8 @@ perex: Back in April last year, we made the business decision to make Keboola Co
   OpenHack event in Paris to accelerate the adoption, have a guided, hands–on experience
   and get in touch with the Microsoft folks. From our point of view, the event was
   a success and so the work started.
-date: 
-user: ''
+date: 2020-02-17 23:00:00 +0000
+user: pavel-dolezal
 coverphoto: "/uploads/0_8obKGj8jwc4MYFcn.jpeg"
 coverphoto_slider: ''
 
