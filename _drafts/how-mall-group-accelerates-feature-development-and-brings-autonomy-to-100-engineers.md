@@ -4,8 +4,8 @@ categories: customer-stories
 permalink: customer-story-mall-group
 title: How Mall Group accelerates feature development and brings autonomy to 100+
   engineers
-perex: Discover how Mall Group manages to deploy new features on a weekly basis and
-  makes their teams data-driven.
+perex: 'Discover how Mall Group manages to deploy new features on a weekly basis and
+  makes their teams data-driven. '
 date: 
 user: masha-reutovski
 coverphoto: ''
