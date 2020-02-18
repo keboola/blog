@@ -12,7 +12,7 @@ coverphoto: ''
 coverphoto_slider: "/uploads/coverAzure.jpg"
 
 ---
-![keboola-devs-paris](/uploads/coverAzure.jpg "Keboola developers ath OpenHack Paris")
+![keboola-devs-paris](/uploads/0_8obKGj8jwc4MYFcn-1.jpeg "Keboola developers at OpenHack Paris")
 
 ## Planning
 
