@@ -6,9 +6,9 @@ title: How can Open Banking scale revenue streams for retail banks?
 perex: 'Discover ways banks can benefit by open banking. Opening up their customer
   data and embracing data from others will lead to new revenue streams.  '
 date: 
-user: ''
+user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/american-express-89024_1280.jpg"
 
 ---
 Last September, the revised [Payment Services Directive 2 (PSD2) went into full effect](https://eba.europa.eu/eba-publishes-an-opinion-on-the-elements-of-strong-customer-authentication-under-psd2), shifting **open banking from futurism to a regulatory requirement for retail banks**.
