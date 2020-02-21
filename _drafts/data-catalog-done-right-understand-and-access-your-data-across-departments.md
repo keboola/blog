@@ -97,4 +97,4 @@ Just like that, your data source is waiting in the Data Catalog for other depart
 
 Give the Catalog a spin and stay tuned for new features that will further enrich your experience with it - and as always, save you more time that you can use on getting more out of the data.
 
-Get more out of your data stack and join our _webinar on March 5th_ to learn how to leverage Keboola's Data Catalog and the multi-project architecture.
+Get more out of your data stack and [join our webinar](https://keboola.zoom.us/webinar/register/8015822509114/WN_g5oufSZCTTmhWseGqHDyPA) on March 5th to learn how to leverage Keboola's Data Catalog and the multi-project architecture.
