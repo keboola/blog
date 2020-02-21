@@ -65,7 +65,7 @@ An example could be a CRM data acquisition project, that extracts the data from 
 
 Yet another can use that very data and send it into a BI tool to drive the company’s dashboard. We call this multi-project architecture, and it could look something like this:
 
-![Keboola's one-stop architecture](https://lh5.googleusercontent.com/JNzfs7PUMtfqadZKuLvWFk_9AJn_1unodYMAaj5LVohMJwe4RUPofPxy38mMZ3XEA4zMTHTGIgpk7ELMiFN57SgdH9B0JllxQAL4SSu6Nlien9FJGGOKUggufoJLs3cXV_ow2NBB =624x351)
+![](/uploads/datacat4.PNG)
 
 Obviously, the Data Catalog is the core of the architecture here, not just an additional layer on top of a spaghetti bowl of more or less disjointed systems.
 
