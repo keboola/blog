@@ -79,19 +79,19 @@ Let’s take a look at how you can use Data Catalog within Keboola. Once logged 
 
 You will see a list of data sources. If you’ve only just started, it will be empty (as with the example below), but you can share it with “_+ SHARE A BUCKET_”
 
-![](/uploads/datacat2.PNG)
+![data catalog and share a bucket](/uploads/datacat2-2.PNG)
 
 It is possible to share an existing bucket or create a new one. To keep it simple for now, we’ll share an existing one.
 
-![](https://lh4.googleusercontent.com/JvS0K3n4QFSClEDf7ZwONGgwTvha1shU6FhrKQi2uMYKlSkpy4EYIN2Ul6oDK8qUw1JWMSLnF3vYpyE2lmGGwI-w4-PxWb-6KnlwmJVoNXuFTK1rm9m235perWTdDaL2ADeFaqb4 =624x283)
+![share an existing bucket](/uploads/datacat5.png)
 
 Afterward, you’ll need to decide which bucket you want to share, and with whom. You can share it with everyone in your company or to members of a specific project.
 
-![](https://lh6.googleusercontent.com/4gbzEqjW103R6Vm4asaXsmAprCGArWBbAtmq53pI1AYGDRDH-lcWnkc15rGvnXxy1Nfqy3ySRsot97Sl1t6Yfgx8iUnXENivf9pWSY7ZSypU9ZXhgv7Wm--2cD8KNSh2R2mNiajz =560x320)
+![how to share a bucket](/uploads/datacat6.png)
 
 Just like that, your data source is waiting in the Data Catalog for other departments to view (as seen below).
 
-![](/uploads/datacat3.PNG)
+![shared bucket in the catalog](/uploads/datacat3.PNG)
 
 ## Want to test the awesome power of Data Catalog?
 
