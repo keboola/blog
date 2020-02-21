@@ -5,7 +5,7 @@ permalink: data-catalog
 title: Data Catalog done right - Understand and access your data across departments
 perex: With Data Catalog, users get single-click access to whatever data they need
   directly from within their workspaces.
-date: 
+date: 2020-02-20 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/image (4).png"
