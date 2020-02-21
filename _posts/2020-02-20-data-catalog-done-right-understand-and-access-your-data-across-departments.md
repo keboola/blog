@@ -8,7 +8,7 @@ perex: With Data Catalog, users get single-click access to whatever data they ne
 date: 2020-02-20 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: "/uploads/image (4).png"
+coverphoto_slider: "/uploads/Untitled design-3.png"
 
 ---
 _Any organization admin can now in a few clicks publish data from any Keboola project in the organization catalog, and any user gets single-click access to whatever data they need directly from within their workspaces._
