@@ -5,7 +5,7 @@ permalink: open-banking
 title: How can Open Banking scale revenue streams for retail banks?
 perex: 'Discover ways banks can benefit by open banking. Opening up their customer
   data and embracing data from others will lead to new revenue streams.  '
-date: 
+date: 2020-02-20 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/american-express-89024_1280.jpg"
