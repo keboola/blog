@@ -37,7 +37,7 @@ KPIs help you keep a finger on the pulse of your business. **Knowing your KPIs m
 
 What if you acquired 100 new customers today? If that cost you $10k but none of the customers sign up after their trial expires, you just made a bad business decision. Without tracking KPIs, you might not even be aware of it.
 
-_Pro tip: Keboola integrates with any visualization tool to give you a one-click deployment for all of your KPI dashboarding needs._
+_Insider tip: Keboola integrates with any visualization tool to give you a one-click deployment for all of your KPI dashboarding needs._
 
 ![](/uploads/3.png)
 
@@ -56,7 +56,7 @@ Even if you trade in digital products or offer services, the same logic applies:
 * Are you leaving money on the table because you wrongfully predicted how many server nodes your website would need to handle increased traffic spurs?
 * Are you growing exponentially, but are unable to sign up new clients to your consulting because you failed to train account managers on time?
 
-_Pro tip: Keboola automates your data engineering to get your data-stack ready for predictive analytics in just a couple of clicks._
+_Insider tip: Keboola automates your data engineering to get your data-stack ready for predictive analytics in just a couple of clicks._
 
 ## 3) Build better products with machine learning
 
@@ -76,7 +76,7 @@ Here are a couple of ways in which [strong brands utilize customer feedback](htt
 * Survey customers at multiple touchpoints during their customer journey (pre-purchase, post-purchase, etc.).
 * Create a customer-facing feature development roadmap, where your customers can vote on the features that they want to be released first.
 
-_Pro tip: Keboola automates the NLP machine learning behind text-review categorization. This gives you more time to obtain insights into your product development._
+_Insider tip: Keboola automates the NLP machine learning behind text-review categorization. This gives you more time to obtain insights into your product development._
 
 ## 4) Know your customer
 
@@ -88,7 +88,7 @@ Imagine you are selling beverages. One of your segments is crazy about piping ho
 
 To dig even deeper into the subject, the ultimate segmentation is personalization. At a time when companies collect a lot of data about their customers (CRM contacts, financial information, support ticketing, social media…), it is crazy that we’re not using this data for personalized offerings.
 
-_Pro tip: Keboola scaffolds automate the extraction of customer support, CRM, and financial customer data, bringing you up to speed with the engineering stack needed for segmentation and personalization._
+_Insider tip: Keboola scaffolds automate the extraction of customer support, CRM, and financial customer data, bringing you up to speed with the engineering stack needed for segmentation and personalization._
 
 ![](/uploads/scaffolds3.png)
 
