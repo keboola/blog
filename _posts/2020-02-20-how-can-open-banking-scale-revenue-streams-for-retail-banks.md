@@ -8,7 +8,7 @@ perex: 'Discover ways banks can benefit by open banking. Opening up their custom
 date: 2020-02-20 23:00:00 +0000
 user: pavel-dolezal
 coverphoto: ''
-coverphoto_slider: "/uploads/Untitled design (1)-3.png"
+coverphoto_slider: "/uploads/blog2.jpg"
 
 ---
 Last September, the revised [Payment Services Directive 2 (PSD2) went into full effect](https://eba.europa.eu/eba-publishes-an-opinion-on-the-elements-of-strong-customer-authentication-under-psd2), shifting **open banking from futurism to a regulatory requirement for retail banks**.
