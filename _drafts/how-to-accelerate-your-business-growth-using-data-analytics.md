@@ -5,10 +5,10 @@ permalink: accelerate-business-growth
 title: How to accelerate your business growth using data analytics
 perex: 'Learn how data analytics can help you supercharge your business growth by
   tracking KPIs and discovering insights. '
-date: 2020-02-17 23:00:00 +0000
+date: 2020-02-17T23:00:00.000+00:00
 user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: "/uploads/white-plane-on-the-sky-1038362.jpg"
+coverphoto_slider: "/uploads/blog.jpg"
 
 ---
 Raise your hand if you’ve ever heard that “data-driven companies make more money”.
@@ -25,7 +25,7 @@ How much water can a boat take in before sinking? Hard to tell, of course. Depen
 
 If you were the captain of your boat, would you trust your sailor’s _gut feelings_ about how much water was on board, or would you demand someone to check under the deck? Aye, aye, Captain, the report is on its way. It’s surprising, then, that almost [half of companies base their decisions on gut feeling instead of data](https://bi-survey.com/business-decisions-gut-feel).
 
-So, the first area in which analytics can help is by using data to track [key performance indicators (KPIs)](https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator) for your company. Having KPIs in place allows you to quickly answer these questions:
+So, the first area in which analytics can help is by using data to track key performance indicators (KPIs) for your company. Having KPIs in place allows you to quickly answer these questions:
 
 * How much revenue was generated this week? (KPI: weekly revenue)
 * Did you make a profit or loss? (KPI: profit margin)
@@ -37,7 +37,7 @@ KPIs help you keep a finger on the pulse of your business. **Knowing your KPIs m
 
 What if you acquired 100 new customers today? If that cost you $10k but none of the customers sign up after their trial expires, you just made a bad business decision. Without tracking KPIs, you might not even be aware of it.
 
-_Keboola integrates with any visualization tool to give you a one-click deployment for all of your KPI dashboarding needs._
+_Pro tip: Keboola integrates with any visualization tool to give you a one-click deployment for all of your KPI dashboarding needs._
 
 ![](/uploads/3.png)
 
@@ -56,7 +56,7 @@ Even if you trade in digital products or offer services, the same logic applies:
 * Are you leaving money on the table because you wrongfully predicted how many server nodes your website would need to handle increased traffic spurs?
 * Are you growing exponentially, but are unable to sign up new clients to your consulting because you failed to train account managers on time?
 
-_Keboola automates your data engineering to get your data-stack ready for predictive analytics in just a couple of clicks._
+_Pro tip: Keboola automates your data engineering to get your data-stack ready for predictive analytics in just a couple of clicks._
 
 ## 3) Build better products with machine learning
 
@@ -76,7 +76,7 @@ Here are a couple of ways in which [strong brands utilize customer feedback](htt
 * Survey customers at multiple touchpoints during their customer journey (pre-purchase, post-purchase, etc.).
 * Create a customer-facing feature development roadmap, where your customers can vote on the features that they want to be released first.
 
-_Keboola automates the NLP machine learning behind text-review categorization. This gives you more time to obtain insights into your product development._
+_Pro tip: Keboola automates the NLP machine learning behind text-review categorization. This gives you more time to obtain insights into your product development._
 
 ## 4) Know your customer
 
@@ -88,7 +88,7 @@ Imagine you are selling beverages. One of your segments is crazy about piping ho
 
 To dig even deeper into the subject, the ultimate segmentation is personalization. At a time when companies collect a lot of data about their customers (CRM contacts, financial information, support ticketing, social media…), it is crazy that we’re not using this data for personalized offerings.
 
-_Keboola scaffolds automate the extraction of customer support, CRM, and financial customer data, bringing you up to speed with the engineering stack needed for segmentation and personalization._
+_Pro tip: Keboola scaffolds automate the extraction of customer support, CRM, and financial customer data, bringing you up to speed with the engineering stack needed for segmentation and personalization._
 
 ![](/uploads/scaffolds3.png)
 
