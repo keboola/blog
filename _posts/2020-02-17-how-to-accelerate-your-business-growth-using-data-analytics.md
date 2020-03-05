@@ -5,7 +5,7 @@ permalink: accelerate-business-growth
 title: How to accelerate your business growth using data analytics
 perex: 'Learn how data analytics can help you supercharge your business growth by
   tracking KPIs and discovering insights. '
-date: 2020-02-17T23:00:00.000+00:00
+date: 2020-03-04 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/blog.jpg"
