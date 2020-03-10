@@ -5,10 +5,10 @@ permalink: customer-story-platterz
 title: How Platterz gained data-backed understanding of interaction with new features
 perex: 'Discover how Platterz has managed to remove bottlenecks and gain real-time
   insights and understanding of how users are interacting with their page. '
-date: 2020-02-17 23:00:00 +0000
+date: 2020-02-17T23:00:00.000+00:00
 user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: "/uploads/pz-meta-image.jpg"
+coverphoto_slider: "/uploads/platterzCaseAd.png"
 
 ---
 Platterz helps cultivate happy workplaces by creating delicious food experiences to offices across the country. To do this, the business intelligence team at Platterz is on a **never-ending mission to derive important insights from the multitude of data** at their fingertips. Platterz had the data and the world’s best visualization tool - Looker - but they needed a way to organize the data seamlessly in a way that was optimized for their teams. By integrating with Keboola, the mountains of Platterz data was easily organized and fed into a Looker dashboard directly to a display above the development team’s workspace. The results were astounding.
