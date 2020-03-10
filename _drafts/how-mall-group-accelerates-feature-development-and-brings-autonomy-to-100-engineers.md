@@ -6,10 +6,10 @@ title: How Mall Group accelerates feature development and brings autonomy to 100
   engineers
 perex: 'Discover how Mall Group manages to deploy new features on a weekly basis and
   makes their teams data-driven. '
-date: 2020-02-17 23:00:00 +0000
+date: 2020-02-17T23:00:00.000+00:00
 user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: "/uploads/mall-group-800x321.jpg"
+coverphoto_slider: "/uploads/mallGroupKeboola.png"
 
 ---
 [Mall Group](https://mallgroup.com/), the leading e-commerce group in Central Europe, recently employed Keboola to streamline operations and accelerate growth. In a matter of months, **Keboola’s platform enabled Mall Group’s individual teams to become much more autonomous as well as accelerate feature development, testing, and deployment**. The results speak for themselves - within a year, Mall Group was not only able to add members to the data engineering team but vastly improve the capabilities of the data engineers they already had, all while cutting through a years-deep innovation backlog.
