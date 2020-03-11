@@ -8,7 +8,7 @@ perex: 'Discover how Mall Group manages to deploy new features on a weekly basis
   makes their teams data-driven. '
 date: 2020-03-09 23:00:00 +0000
 user: masha-reutovski
-coverphoto: ''
+coverphoto: "/uploads/mallGroupKeboola-1.png"
 coverphoto_slider: "/uploads/mallGroupKeboola.png"
 
 ---
