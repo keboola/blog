@@ -5,8 +5,8 @@ permalink: keboola-benefits-keboola-connection
 title: How Keboola benefits from using Keboola Connection
 perex: 'Our internal systems run on Keboola Connection, and we''re doing everything
   from analysis to process automation. '
-date: 2020-03-16 23:00:00 +0000
-user: ''
+date: 2020-03-16T23:00:00.000+00:00
+user: martin-matejka
 coverphoto: ''
 coverphoto_slider: ''
 
