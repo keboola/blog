@@ -59,6 +59,7 @@ fields:
     - masha-reutovski
     - tereza-nemessanyi
     - ondrej-hlavacek
+    - martin-matejka
   label: user
 - type: file
   name: coverphoto
