@@ -8,7 +8,7 @@ perex: 'Our internal systems run on Keboola Connection, and we''re doing everyth
 date: 2020-03-16T23:00:00.000+00:00
 user: martin-matejka
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/coverPic.png"
 
 ---
 The Shoemaker (often) goes barefoot. It is often the case, that while one is working hard on helping their customers get better, they neglect their own processes, taking the same shortcuts they warn their clients against. It was like that at Keboola a few years back, until we agreed that this is no longer acceptable, and created a job role (mine) to apply our teachings internally as well.
