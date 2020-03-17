@@ -59,7 +59,7 @@ In our own solution, we’re using a combination of both. Triggering the main pa
 
 ### Internal Analytics
 
-We use Looker as our BI tool, with Snowflake as the data warehouse. A Keboola project, dedicated to this task, does the last step in preparation of the data from our catalog into the DWH. Everyone in the company now has access to a multitude of dashboards depending on their needs. Because all the data came clean in the optimal structure directly from Keboola Connection, the LookML code is comparatively simple with no derived tables and other constructs. With such a data model it is also easy for our users to self-serve in Looker.
+We use Looker as our BI tool, with Snowflake as the data warehouse. A Keboola project, dedicated to this task, does the last step in the preparation of the data from our catalog into the DWH. Everyone in the company now has access to a multitude of dashboards depending on their needs. Because all the data came clean in the optimal structure directly from Keboola Connection, the LookML code is comparatively simple with no derived tables and other constructs. With such a data model it is also easy for our users to self-serve in Looker.
 
 ![looker dashboard](/uploads/image (8).png)
 
@@ -89,7 +89,7 @@ For Flexibee we needed to create a Python script which takes input tables with i
 
 In order to avoid the duplication of processed invoices, we’re getting data from accounting tools and comparing it with invoices from Salesforce to mark the already processed invoices. That way we can see which invoices are yet to be processed and sent to the accounting tool, as well as monitor their payment status.
 
-Last part of the process is delivering those files to accountants. We’re using the Mailgun Writer for that task. It checks for the new invoice records, takes the files and sends them to the selected email address. That way the recipients receive new files each time there are new non-accounted invoices. We like the extra human check here for the time being - in the future we may write directly into the API.
+The last part of the process is delivering those files to accountants. We’re using the Mailgun Writer for that task. It checks for the new invoice records, takes the files and sends them to the selected email address. That way the recipients receive new files each time there are new non-accounted invoices. We like the extra human check here for the time being - in the future we may write directly into the API.
 
 ## User Feedback
 
@@ -101,4 +101,4 @@ Of course, you need to start prioritizing with so many requests and present the 
 
 We’ve managed to build all that in just about one year using less than a half of an analyst (plus some solution designing around that). When I look back, it’s honestly impressive. I’m not even skilled in Python or Docker components. I just know Keboola Connection really well, know my way around APIs, Generic extractor and I’ve written a bunch of SQL queries. In those rare cases I needed help with writing a component or a specific Python transformation to cover things hardly doable in SQL, I’ve just asked for a little bit of help from my colleagues. No shame in that. And you can find smart people who know stuff better than you quite easily. With that in mind, you’re ready to make your company data-driven in no time.
 
-Do you want to hear more about how we’re using Keboola Connection? Register for the webinar.
+Do you want to hear more about how we’re using Keboola Connection? [Register for the webinar.]()
