@@ -39,9 +39,11 @@ There’s plenty of use cases for data processing. But data processing can’t w
 
 If you’re watching our webinars, you probably heard us speaking about Multi-project Architecture or Data Catalog. The former is a logical concept of BI solution composed of multiple Keboola Connection projects (designed by our Professional Services) and the latter is our product’s feature which enables you to share data between multiple projects. Both are crucial parts of our own analytical backbone.
 
+![data catalog](/uploads/image (7).png)
+
 We’re using Level 0 projects to gather and process raw data from the systems we’re using - one project gathers data from CRM and other sales tools, another gathers data from the platform, another from accounting tools etc. We’re also using Data Catalog to share necessary data between those projects, as we often need to establish links between data from different sources. E.g. we assign the CRM ID from the Sales project to Keboola Connection organization in the project with the platform’s data, so we’re able to combine it in the final reporting.
 
-In the Level 1 projects we’re doing additional calculations and, for example, sharing the statistics with our clients.
+In the Level 1 projects, we’re doing additional calculations and, for example, sharing the statistics with our clients.
 
 The Level 2 projects serve as data sources for the top layer tools and feed our own reporting in Looker, Google Spreadsheets for simple information, GoodData for client-facing reporting or enriching our own CRM with new information. This is also a layer where the Business Data Model (BDM) resides. Those who know us have definitely heard about our love for BDMs. They help customers and us understand the business and its processes, so the following implementation of BI solution goes smoothly and is ready for future improvements and enhancements. Our BDM describes connections between all parts of our business, like implementation hours of our analysts allocated to particular contracts that have their limits being compared to the actual consumption of the platform etc.
 
@@ -49,20 +51,17 @@ The Level 2 projects serve as data sources for the top layer tools and feed our 
 
 By using multi-project architecture, we know that updating the first layer will have a ripple effect on every other part of the flow and we don’t need to worry about providing two groups of people (especially Keboola people and clients) with different data or different answers to the same question.
 
-It’s all wrapped in the logic of orchestrations and automations, so every step is processed in the correct order. We’re also using orchestration triggers to run the data processing immediately after fresh data is available, so the end users have updated data as soon as possible.
+It’s all wrapped in the logic of orchestrations and automations, so every step is processed in the correct order. We’re also using orchestration triggers to run the data processing immediately after fresh data is available, so the end-users have updated data as soon as possible.
 
 Automation is a necessary final touch in almost every use case, as it enables you to deliver the data in the right moment to the right people. And in Keboola Connection you have the option to schedule a particular time of the orchestration or use a trigger based on an update of any table(s) in your project.
 
-  
 In our own solution, we’re using a combination of both. Triggering the main part when fresh raw data about Keboola Connection usage is updated, running orchestration which is processing new exchange rates every morning or updating Salesforce tables with enriched data four times a day. Our Data Catalog manages the sharing of always-fresh data between the projects:
-
-_( image - data catalog sankey chart)_
 
 ### Internal Analytics
 
-We use Looker as our BI tool, with Snowflake as the data warehouse. A Keboola project, dedicated to this task, does the last step in preparation of the data from our catalog into the DWH. Everyone in the company now has access to a multitude of dashboards depending on their needs. Because all the data came clean in optimal structure directly from Keboola Connection, the LookML code is comparatively simple with no derived tables and other constructs. With such a data model it is also easy for our users to self-serve in Looker.
+We use Looker as our BI tool, with Snowflake as the data warehouse. A Keboola project, dedicated to this task, does the last step in preparation of the data from our catalog into the DWH. Everyone in the company now has access to a multitude of dashboards depending on their needs. Because all the data came clean in the optimal structure directly from Keboola Connection, the LookML code is comparatively simple with no derived tables and other constructs. With such a data model it is also easy for our users to self-serve in Looker.
 
-(image - list of dashboards in Looker?)
+![looker dashboard](/uploads/image (8).png)
 
 ### Clients’ Keboola Connection Usage
 
