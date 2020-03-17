@@ -8,7 +8,7 @@ perex: 'Discover how Platterz has managed to remove bottlenecks and gain real-ti
 date: 2020-03-09 23:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
-coverphoto_slider: "/uploads/platterzCaseAd.png"
+coverphoto_slider: "/uploads/platterzEmpty.jpg"
 
 ---
 Platterz helps cultivate happy workplaces by creating delicious food experiences to offices across the country. To do this, the business intelligence team at Platterz is on a **never-ending mission to derive important insights from the multitude of data** at their fingertips. Platterz had the data and the world’s best visualization tool - Looker - but they needed a way to organize the data seamlessly in a way that was optimized for their teams. By integrating with Keboola, the mountains of Platterz data was easily organized and fed into a Looker dashboard directly to a display above the development team’s workspace. The results were astounding.
