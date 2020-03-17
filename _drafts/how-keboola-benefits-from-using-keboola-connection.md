@@ -3,7 +3,8 @@ layout: post
 categories: community
 permalink: keboola-benefits-keboola-connection
 title: How Keboola benefits from using Keboola Connection
-perex: ''
+perex: 'Our internal systems run on Keboola Connection, and we''re doing everything
+  from analysis to process automation. '
 date: 
 user: ''
 coverphoto: ''
