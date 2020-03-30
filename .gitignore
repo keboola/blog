@@ -7,3 +7,4 @@ _site
 config.codekit3
 .bundle/*
 *.sublime-workspace
+*.icloud
