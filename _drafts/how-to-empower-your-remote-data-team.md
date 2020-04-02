@@ -7,7 +7,7 @@ perex: ''
 date: 
 user: ''
 coverphoto: ''
-coverphoto_slider: ''
+coverphoto_slider: "/uploads/remote-work.jpg"
 
 ---
 The advantages of remote work have been praised for a while now. Team members gravitate towards the flexible work schedule and enjoy an increase in personal freedom, while companies benefit from a talent pool unencumbered by geographical borders. From remote-first tech giants like [Automattic](https://automattic.com/about/) (which powers a third of the internet), to newbies such as [NASA](https://www.digitaltrends.com/cool-tech/nasa-ramps-up-remote-working-measures-to-tackle-coronavirus/), companies are steadily progressing towards telecommuting.
