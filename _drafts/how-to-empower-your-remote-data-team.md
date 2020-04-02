@@ -3,7 +3,7 @@ layout: post
 categories: how-to
 permalink: empower-remote-data-team
 title: How to empower your remote data team
-perex: ''
+perex: 'Discover problems and solutions encountered by distributed data teams. '
 date: 2020-04-01 22:00:00 +0000
 user: masha-reutovski
 coverphoto: ''
@@ -14,7 +14,7 @@ The advantages of remote work have been praised for a while now. Team members gr
 
 But working from home comes with its own unique set of challenges. Companies that are accustomed to the physical office environment will need to think outside of the box (or office walls) to tackle the specific issues faced by remote teams.
 
-The biggest challenge for a distributed data team is not distance, but operational disruption. In this remote work guide, we will walk you through the problems and solutions encountered by distributed data teams when moving out of the physical cubicle and into the digital office.
+The biggest challenge for a distributed data team is not distance, but operational disruption. In this remote work article, we will walk you through the problems and solutions encountered by distributed data teams when moving out of the physical cubicle and into the digital office.
 
 ## Remote Work Challenge #1: Security & Access
 
