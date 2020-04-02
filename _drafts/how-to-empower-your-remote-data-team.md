@@ -4,8 +4,8 @@ categories: how-to
 permalink: empower-remote-data-team
 title: How to empower your remote data team
 perex: ''
-date: 
-user: ''
+date: 2020-04-01 22:00:00 +0000
+user: masha-reutovski
 coverphoto: ''
 coverphoto_slider: "/uploads/remote-work.jpg"
 
@@ -32,8 +32,7 @@ There are several policies and tools that companies can use to safeguard access 
 
 _Security is the key concern underpinning the entire Keboola Architecture. The platform_ [_extensively implements all of the security mechanisms_](https://www.keboola.com/security-whitepaper) _described above. Additionally, it builds upon them by introducing infrastructure with additional security measures to prevent data breaches._
 
-##   
-Remote Work Challenge #2: Communication
+## Remote Work Challenge #2: Communication
 
 Like other teams, distributed data teams are bound to face challenges with communication. The solutions are similar to those of any other department communicating via digital mediums:
 
@@ -53,8 +52,7 @@ Distributed data teams often work on the same data pipeline. When physical proxi
 
 _Keboola is the end-to-end DataOps platform which centralizes all of your data processes (data sharing, versioning, access to pipeline stages…) to ensure the most effective collaboration within your data team._
 
-##   
-Remote Work Challenge #4: Independence
+## Remote Work Challenge #4: Independence
 
 The data team does not work in isolation from other departments. [The most successful data teams work frequently with coworkers from other company verticals](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact). But if you want to avoid your data team members picking up the phone with every question and request that they have, you’ll need to empower your non-data workers as well.
 
