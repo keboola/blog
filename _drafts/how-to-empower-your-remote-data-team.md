@@ -69,4 +69,4 @@ _Keboola facilitates access to data and communication between different stakehol
 
 Keboola is a veteran in the field of remote work. Our workforce spans three continents and our clients can be found in every corner of the world. This is why Keboola built the DataOps platform: to empower all data workers, irrespective of their location. [We use it for our own internal operations](https://blog.keboola.com/keboola-benefits-keboola-connection) as well.
 
-We are offering free consultations to companies who are ready to pursue the exciting opportunity of working remotely. Let’s hop on a call and talk about the next steps.
+We are ready to support your data team transitioning to remote work. [Discover ways we can help out and start your free trial. ](https://www.keboola.com/remote/)
